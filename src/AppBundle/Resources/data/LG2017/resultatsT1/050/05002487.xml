@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>50</CodDpt>
+    <CodMinDpt>50</CodMinDpt>
+    <CodDpt3Car>050</CodDpt3Car>
+    <LibDpt>Manche</LibDpt>
+    <Commune>
+      <CodSubCom>487</CodSubCom>
+      <LibSubCom>Saint-James</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Saint-James - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3601</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1686</Nombre>
+              <RapportInscrit>  46,82</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1915</Nombre>
+              <RapportInscrit>  53,18</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>37</Nombre>
+              <RapportInscrit>   1,03</RapportInscrit>
+              <RapportVotant>   1,93</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>25</Nombre>
+              <RapportInscrit>   0,69</RapportInscrit>
+              <RapportVotant>   1,31</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1853</Nombre>
+              <RapportInscrit>  51,46</RapportInscrit>
+              <RapportVotant>  96,76</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>HUET</NomPsn>
+                <PrenomPsn>Guenhaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>666</NbVoix>
+                <RapportExprime>  35,94</RapportExprime>
+                <RapportInscrit>  18,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BERTRAND</NomPsn>
+                <PrenomPsn>Amélia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   0,86</RapportExprime>
+                <RapportInscrit>   0,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DOUTÉ</NomPsn>
+                <PrenomPsn>Quentin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,59</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MANSOUR</NomPsn>
+                <PrenomPsn>Miloud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>34</NbVoix>
+                <RapportExprime>   1,83</RapportExprime>
+                <RapportInscrit>   0,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>HÈME</NomPsn>
+                <PrenomPsn>Jean-François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,54</RapportExprime>
+                <RapportInscrit>   0,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>SORRE</NomPsn>
+                <PrenomPsn>Bertrand</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>685</NbVoix>
+                <RapportExprime>  36,97</RapportExprime>
+                <RapportInscrit>  19,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>DERREY</NomPsn>
+                <PrenomPsn>Laurence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   1,19</RapportExprime>
+                <RapportInscrit>   0,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>GRIMBERT</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>117</NbVoix>
+                <RapportExprime>   6,31</RapportExprime>
+                <RapportInscrit>   3,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>NICKLAUS</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>48</NbVoix>
+                <RapportExprime>   2,59</RapportExprime>
+                <RapportInscrit>   1,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>KURDZIEL</NomPsn>
+                <PrenomPsn>Marie-Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>185</NbVoix>
+                <RapportExprime>   9,98</RapportExprime>
+                <RapportInscrit>   5,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>FERREIRA</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>54</NbVoix>
+                <RapportExprime>   2,91</RapportExprime>
+                <RapportInscrit>   1,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>BREUX</NomPsn>
+                <PrenomPsn>Régis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,27</RapportExprime>
+                <RapportInscrit>   0,14</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>12</CodDpt>
+    <CodMinDpt>12</CodMinDpt>
+    <CodDpt3Car>012</CodDpt3Car>
+    <LibDpt>Aveyron</LibDpt>
+    <Commune>
+      <CodSubCom>130</CodSubCom>
+      <LibSubCom>Livinhac-le-Haut</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Livinhac-le-Haut - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>884</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>375</Nombre>
+              <RapportInscrit>  42,42</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>509</Nombre>
+              <RapportInscrit>  57,58</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,57</RapportInscrit>
+              <RapportVotant>   0,98</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,34</RapportInscrit>
+              <RapportVotant>   0,59</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>501</Nombre>
+              <RapportInscrit>  56,67</RapportInscrit>
+              <RapportVotant>  98,43</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CAVALERIE</NomPsn>
+                <PrenomPsn>Bertrand</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>73</NbVoix>
+                <RapportExprime>  14,57</RapportExprime>
+                <RapportInscrit>   8,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>AT</NomPsn>
+                <PrenomPsn>André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>69</NbVoix>
+                <RapportExprime>  13,77</RapportExprime>
+                <RapportInscrit>   7,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MAZET</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>97</NbVoix>
+                <RapportExprime>  19,36</RapportExprime>
+                <RapportInscrit>  10,97</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PEZET</NomPsn>
+                <PrenomPsn>Guy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   3,59</RapportExprime>
+                <RapportInscrit>   2,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BLANC</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>210</NbVoix>
+                <RapportExprime>  41,92</RapportExprime>
+                <RapportInscrit>  23,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GOUDIN</NomPsn>
+                <PrenomPsn>Juliette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,11</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MOLINIÉ</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LELEU</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>   5,99</RapportExprime>
+                <RapportInscrit>   3,39</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

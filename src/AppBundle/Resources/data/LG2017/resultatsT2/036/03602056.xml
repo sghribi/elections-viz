@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>36</CodDpt>
+    <CodMinDpt>36</CodMinDpt>
+    <CodDpt3Car>036</CodDpt3Car>
+    <LibDpt>Indre</LibDpt>
+    <Commune>
+      <CodSubCom>056</CodSubCom>
+      <LibSubCom>Cluis</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Cluis - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>755</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>354</Nombre>
+              <RapportInscrit>  46,89</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>401</Nombre>
+              <RapportInscrit>  53,11</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   2,12</RapportInscrit>
+              <RapportVotant>   3,99</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,66</RapportInscrit>
+              <RapportVotant>   1,25</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>380</Nombre>
+              <RapportInscrit>  50,33</RapportInscrit>
+              <RapportVotant>  94,76</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MERCIER</NomPsn>
+                <PrenomPsn>Damien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BRUNEAU</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>33</NbVoix>
+                <RapportExprime>   8,68</RapportExprime>
+                <RapportInscrit>   4,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LANYI</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>46</NbVoix>
+                <RapportExprime>  12,11</RapportExprime>
+                <RapportInscrit>   6,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>SALLANDRE</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>TILLIE</NomPsn>
+                <PrenomPsn>Raphaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   4,47</RapportExprime>
+                <RapportInscrit>   2,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DUBOIS DE LA SABLONIERE</NomPsn>
+                <PrenomPsn>Yann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,05</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>DALLAIS</NomPsn>
+                <PrenomPsn>Laëtitia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,53</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>SCHWARZ</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,26</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>FORISSIER</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>116</NbVoix>
+                <RapportExprime>  30,53</RapportExprime>
+                <RapportInscrit>  15,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>GUERIN</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>106</NbVoix>
+                <RapportExprime>  27,89</RapportExprime>
+                <RapportInscrit>  14,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>THURA</NomPsn>
+                <PrenomPsn>Lionel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>41</NbVoix>
+                <RapportExprime>  10,79</RapportExprime>
+                <RapportInscrit>   5,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>PORNET</NomPsn>
+                <PrenomPsn>Aline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,05</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>755</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>398</Nombre>
+              <RapportInscrit>  52,72</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>357</Nombre>
+              <RapportInscrit>  47,28</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>29</Nombre>
+              <RapportInscrit>   3,84</RapportInscrit>
+              <RapportVotant>   8,12</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   1,59</RapportInscrit>
+              <RapportVotant>   3,36</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>316</Nombre>
+              <RapportInscrit>  41,85</RapportInscrit>
+              <RapportVotant>  88,52</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>FORISSIER</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>184</NbVoix>
+                <RapportExprime>  58,23</RapportExprime>
+                <RapportInscrit>  24,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>GUERIN</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>132</NbVoix>
+                <RapportExprime>  41,77</RapportExprime>
+                <RapportInscrit>  17,48</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

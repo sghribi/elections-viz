@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>77</CodDpt>
+    <CodMinDpt>77</CodMinDpt>
+    <CodDpt3Car>077</CodDpt3Car>
+    <LibDpt>Seine-et-Marne</LibDpt>
+    <Commune>
+      <CodSubCom>379</CodSubCom>
+      <LibSubCom>Provins</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Provins - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>6943</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>3706</Nombre>
+              <RapportInscrit>  53,38</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>3237</Nombre>
+              <RapportInscrit>  46,62</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>37</Nombre>
+              <RapportInscrit>   0,53</RapportInscrit>
+              <RapportVotant>   1,14</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>19</Nombre>
+              <RapportInscrit>   0,27</RapportInscrit>
+              <RapportVotant>   0,59</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>3181</Nombre>
+              <RapportInscrit>  45,82</RapportInscrit>
+              <RapportVotant>  98,27</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>JACOB</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>1453</NbVoix>
+                <RapportExprime>  45,68</RapportExprime>
+                <RapportInscrit>  20,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>GAUDEY</NomPsn>
+                <PrenomPsn>Jean-Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,35</RapportExprime>
+                <RapportInscrit>   0,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CHERRIER</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>417</NbVoix>
+                <RapportExprime>  13,11</RapportExprime>
+                <RapportInscrit>   6,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GARNIER-MARTINEZ</NomPsn>
+                <PrenomPsn>Julie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>261</NbVoix>
+                <RapportExprime>   8,20</RapportExprime>
+                <RapportInscrit>   3,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>HUSSON</NomPsn>
+                <PrenomPsn>Olivier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>83</NbVoix>
+                <RapportExprime>   2,61</RapportExprime>
+                <RapportInscrit>   1,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>NAIL</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>49</NbVoix>
+                <RapportExprime>   1,54</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MARCADET</NomPsn>
+                <PrenomPsn>Emmanuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>806</NbVoix>
+                <RapportExprime>  25,34</RapportExprime>
+                <RapportInscrit>  11,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>PICQUENOT</NomPsn>
+                <PrenomPsn>Quentin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>61</NbVoix>
+                <RapportExprime>   1,92</RapportExprime>
+                <RapportInscrit>   0,88</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>FRANCOIS</NomPsn>
+                <PrenomPsn>Guy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   0,91</RapportExprime>
+                <RapportInscrit>   0,42</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BRILLAUT</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,35</RapportExprime>
+                <RapportInscrit>   0,16</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

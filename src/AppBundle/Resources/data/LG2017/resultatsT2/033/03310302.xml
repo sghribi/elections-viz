@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>33</CodDpt>
+    <CodMinDpt>33</CodMinDpt>
+    <CodDpt3Car>033</CodDpt3Car>
+    <LibDpt>Gironde</LibDpt>
+    <Commune>
+      <CodSubCom>302</CodSubCom>
+      <LibSubCom>Néac</LibSubCom>
+      <CodCirLg>10</CodCirLg>
+      <LibFraSubCom>Néac - 10ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>274</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>133</Nombre>
+              <RapportInscrit>  48,54</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>141</Nombre>
+              <RapportInscrit>  51,46</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>4</Nombre>
+              <RapportInscrit>   1,46</RapportInscrit>
+              <RapportVotant>   2,84</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,36</RapportInscrit>
+              <RapportVotant>   0,71</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>136</Nombre>
+              <RapportInscrit>  49,64</RapportInscrit>
+              <RapportVotant>  96,45</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>POUVREAU</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   3,68</RapportExprime>
+                <RapportInscrit>   1,82</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>MOULARD</NomPsn>
+                <PrenomPsn>Jacqueline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   2,21</RapportExprime>
+                <RapportInscrit>   1,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SÉJOURNET</NomPsn>
+                <PrenomPsn>Agnès</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   4,41</RapportExprime>
+                <RapportInscrit>   2,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GÉNIN</NomPsn>
+                <PrenomPsn>Gaëlle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,47</RapportExprime>
+                <RapportInscrit>   0,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GARRAUD</NomPsn>
+                <PrenomPsn>Jean-Paul</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>  22,06</RapportExprime>
+                <RapportInscrit>  10,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DELAMORTE</NomPsn>
+                <PrenomPsn>Julien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,47</RapportExprime>
+                <RapportInscrit>   0,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOUDIÉ</NomPsn>
+                <PrenomPsn>Florent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>55</NbVoix>
+                <RapportExprime>  40,44</RapportExprime>
+                <RapportInscrit>  20,07</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LAMOTHE</NomPsn>
+                <PrenomPsn>Nolwenn</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>GARANTO</NomPsn>
+                <PrenomPsn>Antoine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   2,21</RapportExprime>
+                <RapportInscrit>   1,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BAJOU</NomPsn>
+                <PrenomPsn>Eloïse</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>  13,24</RapportExprime>
+                <RapportInscrit>   6,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>CHADOURNE</NomPsn>
+                <PrenomPsn>Sandrine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   8,09</RapportExprime>
+                <RapportInscrit>   4,01</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>274</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>145</Nombre>
+              <RapportInscrit>  52,92</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>129</Nombre>
+              <RapportInscrit>  47,08</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   6,20</RapportInscrit>
+              <RapportVotant>  13,18</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>112</Nombre>
+              <RapportInscrit>  40,88</RapportInscrit>
+              <RapportVotant>  86,82</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOUDIÉ</NomPsn>
+                <PrenomPsn>Florent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>83</NbVoix>
+                <RapportExprime>  74,11</RapportExprime>
+                <RapportInscrit>  30,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>CHADOURNE</NomPsn>
+                <PrenomPsn>Sandrine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>  25,89</RapportExprime>
+                <RapportInscrit>  10,58</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

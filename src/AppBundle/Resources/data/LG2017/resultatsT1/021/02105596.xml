@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>21</CodDpt>
+    <CodMinDpt>21</CodMinDpt>
+    <CodDpt3Car>021</CodDpt3Car>
+    <LibDpt>Côte-d&apos;Or</LibDpt>
+    <Commune>
+      <CodSubCom>596</CodSubCom>
+      <LibSubCom>Savouges</LibSubCom>
+      <CodCirLg>05</CodCirLg>
+      <LibFraSubCom>Savouges - 5ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>249</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>94</Nombre>
+              <RapportInscrit>  37,75</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>155</Nombre>
+              <RapportInscrit>  62,25</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   2,41</RapportInscrit>
+              <RapportVotant>   3,87</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>149</Nombre>
+              <RapportInscrit>  59,84</RapportInscrit>
+              <RapportVotant>  96,13</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>KREMER</NomPsn>
+                <PrenomPsn>Elisabeth</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   6,71</RapportExprime>
+                <RapportInscrit>   4,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FLACHE</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   4,70</RapportExprime>
+                <RapportInscrit>   2,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CARDOT</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,67</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>POULLOT</NomPsn>
+                <PrenomPsn>Hubert</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>53</NbVoix>
+                <RapportExprime>  35,57</RapportExprime>
+                <RapportInscrit>  21,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>LIORET</NomPsn>
+                <PrenomPsn>René</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>  14,09</RapportExprime>
+                <RapportInscrit>   8,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PARIS</NomPsn>
+                <PrenomPsn>Didier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>53</NbVoix>
+                <RapportExprime>  35,57</RapportExprime>
+                <RapportInscrit>  21,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CLAIR</NomPsn>
+                <PrenomPsn>Edouard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,34</RapportExprime>
+                <RapportInscrit>   0,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BERNHARD</NomPsn>
+                <PrenomPsn>Carole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,34</RapportExprime>
+                <RapportInscrit>   0,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>PETET</NomPsn>
+                <PrenomPsn>Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>MULLER</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

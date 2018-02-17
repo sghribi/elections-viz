@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>01</CodDpt>
+    <CodMinDpt>01</CodMinDpt>
+    <CodDpt3Car>001</CodDpt3Car>
+    <LibDpt>Ain</LibDpt>
+    <Commune>
+      <CodSubCom>374</CodSubCom>
+      <LibSubCom>Saint-Martin-du-Mont</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Saint-Martin-du-Mont - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1326</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>651</Nombre>
+              <RapportInscrit>  49,10</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>675</Nombre>
+              <RapportInscrit>  50,90</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,60</RapportInscrit>
+              <RapportVotant>   1,19</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>667</Nombre>
+              <RapportInscrit>  50,30</RapportInscrit>
+              <RapportVotant>  98,81</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MALLET</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>248</NbVoix>
+                <RapportExprime>  37,18</RapportExprime>
+                <RapportInscrit>  18,70</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BLATRIX-CONTAT</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>   8,40</RapportExprime>
+                <RapportInscrit>   4,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LÉPAGNOT</NomPsn>
+                <PrenomPsn>Maude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,45</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MARTIN ZEMLIK</NomPsn>
+                <PrenomPsn>Fabrine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>67</NbVoix>
+                <RapportExprime>  10,04</RapportExprime>
+                <RapportInscrit>   5,05</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BRETON</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>165</NbVoix>
+                <RapportExprime>  24,74</RapportExprime>
+                <RapportInscrit>  12,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>CARLIER</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,30</RapportExprime>
+                <RapportInscrit>   0,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RAIMONDO</NomPsn>
+                <PrenomPsn>Laurane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   1,95</RapportExprime>
+                <RapportInscrit>   0,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>FONTAINE</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   2,25</RapportExprime>
+                <RapportInscrit>   1,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BUISSON</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>97</NbVoix>
+                <RapportExprime>  14,54</RapportExprime>
+                <RapportInscrit>   7,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BONNOT</NomPsn>
+                <PrenomPsn>Gilbert</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,15</RapportExprime>
+                <RapportInscrit>   0,08</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1326</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>738</Nombre>
+              <RapportInscrit>  55,66</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>588</Nombre>
+              <RapportInscrit>  44,34</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>44</Nombre>
+              <RapportInscrit>   3,32</RapportInscrit>
+              <RapportVotant>   7,48</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>13</Nombre>
+              <RapportInscrit>   0,98</RapportInscrit>
+              <RapportVotant>   2,21</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>531</Nombre>
+              <RapportInscrit>  40,05</RapportInscrit>
+              <RapportVotant>  90,31</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MALLET</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>256</NbVoix>
+                <RapportExprime>  48,21</RapportExprime>
+                <RapportInscrit>  19,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BRETON</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>275</NbVoix>
+                <RapportExprime>  51,79</RapportExprime>
+                <RapportInscrit>  20,74</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

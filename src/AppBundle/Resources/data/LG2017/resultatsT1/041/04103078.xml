@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>41</CodDpt>
+    <CodMinDpt>41</CodMinDpt>
+    <CodDpt3Car>041</CodDpt3Car>
+    <LibDpt>Loir-et-Cher</LibDpt>
+    <Commune>
+      <CodSubCom>078</CodSubCom>
+      <LibSubCom>Epuisay</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Epuisay - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>534</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>267</Nombre>
+              <RapportInscrit>  50,00</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>267</Nombre>
+              <RapportInscrit>  50,00</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   1,31</RapportInscrit>
+              <RapportVotant>   2,62</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,19</RapportInscrit>
+              <RapportVotant>   0,37</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>259</Nombre>
+              <RapportInscrit>  48,50</RapportInscrit>
+              <RapportVotant>  97,00</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CAGLAR</NomPsn>
+                <PrenomPsn>Burhan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,39</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LAMY</NomPsn>
+                <PrenomPsn>Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   1,16</RapportExprime>
+                <RapportInscrit>   0,56</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MARTIN</NomPsn>
+                <PrenomPsn>Marlène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>84</NbVoix>
+                <RapportExprime>  32,43</RapportExprime>
+                <RapportInscrit>  15,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CALLU</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   4,63</RapportExprime>
+                <RapportInscrit>   2,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GUELLIER</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   4,63</RapportExprime>
+                <RapportInscrit>   2,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>EVESQUE</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,54</RapportExprime>
+                <RapportInscrit>   0,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>NARQUIN</NomPsn>
+                <PrenomPsn>Jean-Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>51</NbVoix>
+                <RapportExprime>  19,69</RapportExprime>
+                <RapportInscrit>   9,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>RIVIERE</NomPsn>
+                <PrenomPsn>Cécile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>   7,72</RapportExprime>
+                <RapportInscrit>   3,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LEROY</NomPsn>
+                <PrenomPsn>Maurice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>72</NbVoix>
+                <RapportExprime>  27,80</RapportExprime>
+                <RapportInscrit>  13,48</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

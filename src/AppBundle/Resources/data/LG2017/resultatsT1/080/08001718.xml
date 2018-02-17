@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>80</CodDpt>
+    <CodMinDpt>80</CodMinDpt>
+    <CodDpt3Car>080</CodDpt3Car>
+    <LibDpt>Somme</LibDpt>
+    <Commune>
+      <CodSubCom>718</CodSubCom>
+      <LibSubCom>Saint-Sauveur</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Saint-Sauveur - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1095</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>483</Nombre>
+              <RapportInscrit>  44,11</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>612</Nombre>
+              <RapportInscrit>  55,89</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   1,46</RapportInscrit>
+              <RapportVotant>   2,61</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>4</Nombre>
+              <RapportInscrit>   0,37</RapportInscrit>
+              <RapportVotant>   0,65</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>592</Nombre>
+              <RapportInscrit>  54,06</RapportInscrit>
+              <RapportVotant>  96,73</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>NGUYEN</NomPsn>
+                <PrenomPsn>Mai-Linh</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,34</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>AISSAOUI</NomPsn>
+                <PrenomPsn>Amal</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,51</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MOUKO</NomPsn>
+                <PrenomPsn>Ricky</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,34</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>REITZMAN</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,51</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>FLAHAUT</NomPsn>
+                <PrenomPsn>Yvon</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,84</RapportExprime>
+                <RapportInscrit>   0,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>RUFFIN</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>139</NbVoix>
+                <RapportExprime>  23,48</RapportExprime>
+                <RapportInscrit>  12,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>DE LAPERSONNE</NomPsn>
+                <PrenomPsn>Franck</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>130</NbVoix>
+                <RapportExprime>  21,96</RapportExprime>
+                <RapportInscrit>  11,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DUMONT</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>226</NbVoix>
+                <RapportExprime>  38,18</RapportExprime>
+                <RapportInscrit>  20,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DECAYEUX</NomPsn>
+                <PrenomPsn>Stéphane</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>41</NbVoix>
+                <RapportExprime>   6,93</RapportExprime>
+                <RapportInscrit>   3,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>TRYOEN</NomPsn>
+                <PrenomPsn>Florient</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   2,03</RapportExprime>
+                <RapportInscrit>   1,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>BOISTARD</NomPsn>
+                <PrenomPsn>Pascale</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   4,90</RapportExprime>
+                <RapportInscrit>   2,65</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

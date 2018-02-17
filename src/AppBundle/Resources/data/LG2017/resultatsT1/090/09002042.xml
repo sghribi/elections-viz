@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>90</CodDpt>
+    <CodMinDpt>90</CodMinDpt>
+    <CodDpt3Car>090</CodDpt3Car>
+    <LibDpt>Territoire de Belfort</LibDpt>
+    <Commune>
+      <CodSubCom>042</CodSubCom>
+      <LibSubCom>Evette-Salbert</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Evette-Salbert - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1797</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>811</Nombre>
+              <RapportInscrit>  45,13</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>986</Nombre>
+              <RapportInscrit>  54,87</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>21</Nombre>
+              <RapportInscrit>   1,17</RapportInscrit>
+              <RapportVotant>   2,13</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,17</RapportInscrit>
+              <RapportVotant>   0,30</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>962</Nombre>
+              <RapportInscrit>  53,53</RapportInscrit>
+              <RapportVotant>  97,57</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>PARENTY</NomPsn>
+                <PrenomPsn>Jean</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   0,94</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>ARCHAMBAULT</NomPsn>
+                <PrenomPsn>Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   0,94</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>JEUDY</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>78</NbVoix>
+                <RapportExprime>   8,11</RapportExprime>
+                <RapportInscrit>   4,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>KERN</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>337</NbVoix>
+                <RapportExprime>  35,03</RapportExprime>
+                <RapportInscrit>  18,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>SOLER</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>95</NbVoix>
+                <RapportExprime>   9,88</RapportExprime>
+                <RapportInscrit>   5,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PHEULPIN</NomPsn>
+                <PrenomPsn>Jean-Marie</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   1,46</RapportExprime>
+                <RapportInscrit>   0,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CLAVEQUIN</NomPsn>
+                <PrenomPsn>Maude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>53</NbVoix>
+                <RapportExprime>   5,51</RapportExprime>
+                <RapportInscrit>   2,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LEROY</NomPsn>
+                <PrenomPsn>Laila</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>97</NbVoix>
+                <RapportExprime>  10,08</RapportExprime>
+                <RapportInscrit>   5,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MURINGER</NomPsn>
+                <PrenomPsn>Jean-Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   1,87</RapportExprime>
+                <RapportInscrit>   1,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>ZUMKELLER</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>245</NbVoix>
+                <RapportExprime>  25,47</RapportExprime>
+                <RapportInscrit>  13,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MARCEAU</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,62</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>LEMQADDEH</NomPsn>
+                <PrenomPsn>Noureddine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,10</RapportExprime>
+                <RapportInscrit>   0,06</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

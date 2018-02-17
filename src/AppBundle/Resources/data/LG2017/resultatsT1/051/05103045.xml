@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>51</CodDpt>
+    <CodMinDpt>51</CodMinDpt>
+    <CodDpt3Car>051</CodDpt3Car>
+    <LibDpt>Marne</LibDpt>
+    <Commune>
+      <CodSubCom>045</CodSubCom>
+      <LibSubCom>Beaunay</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Beaunay - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>82</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>38</Nombre>
+              <RapportInscrit>  46,34</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>44</Nombre>
+              <RapportInscrit>  53,66</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   2,44</RapportInscrit>
+              <RapportVotant>   4,55</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>42</Nombre>
+              <RapportInscrit>  51,22</RapportInscrit>
+              <RapportVotant>  95,45</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LAMAILLE</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>  11,90</RapportExprime>
+                <RapportInscrit>   6,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>GOSSEAU</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LECLERCQ-CHAUDET</NomPsn>
+                <PrenomPsn>Colette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>NICANOR</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>PAILLARD</NomPsn>
+                <PrenomPsn>Rachel</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>  21,43</RapportExprime>
+                <RapportInscrit>  10,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PHILIPPO</NomPsn>
+                <PrenomPsn>Baptiste</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>  26,19</RapportExprime>
+                <RapportInscrit>  13,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>JACQUES</NomPsn>
+                <PrenomPsn>Roland</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>  14,29</RapportExprime>
+                <RapportInscrit>   7,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MARTINET</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BLAVIER</NomPsn>
+                <PrenomPsn>Jacky</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>MILUTINOVIC</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>GIRARDIN</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>  26,19</RapportExprime>
+                <RapportInscrit>  13,41</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>25</CodDpt>
+    <CodMinDpt>25</CodMinDpt>
+    <CodDpt3Car>025</CodDpt3Car>
+    <LibDpt>Doubs</LibDpt>
+    <Commune>
+      <CodSubCom>526</CodSubCom>
+      <LibSubCom>Sainte-Suzanne</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Sainte-Suzanne - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1055</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>579</Nombre>
+              <RapportInscrit>  54,88</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>476</Nombre>
+              <RapportInscrit>  45,12</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   0,66</RapportInscrit>
+              <RapportVotant>   1,47</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,47</RapportInscrit>
+              <RapportVotant>   1,05</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>464</Nombre>
+              <RapportInscrit>  43,98</RapportInscrit>
+              <RapportVotant>  97,48</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CARTIER</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>48</NbVoix>
+                <RapportExprime>  10,34</RapportExprime>
+                <RapportInscrit>   4,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>JOANNÈS</NomPsn>
+                <PrenomPsn>Odile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   3,02</RapportExprime>
+                <RapportInscrit>   1,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>VIALLET</NomPsn>
+                <PrenomPsn>Loup</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>126</NbVoix>
+                <RapportExprime>  27,16</RapportExprime>
+                <RapportInscrit>  11,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>DRIANO</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,86</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>COMAS</NomPsn>
+                <PrenomPsn>Karine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,86</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PATOIS</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,29</RapportExprime>
+                <RapportInscrit>   0,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MARCHAL</NomPsn>
+                <PrenomPsn>Sidonie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   8,19</RapportExprime>
+                <RapportInscrit>   3,60</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ESPOLIO</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>54</NbVoix>
+                <RapportExprime>  11,64</RapportExprime>
+                <RapportInscrit>   5,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SOMMER</NomPsn>
+                <PrenomPsn>Denis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>170</NbVoix>
+                <RapportExprime>  36,64</RapportExprime>
+                <RapportInscrit>  16,11</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

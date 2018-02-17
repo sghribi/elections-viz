@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>76</CodDpt>
+    <CodMinDpt>76</CodMinDpt>
+    <CodDpt3Car>076</CodDpt3Car>
+    <LibDpt>Seine-Maritime</LibDpt>
+    <Commune>
+      <CodSubCom>110</CodSubCom>
+      <LibSubCom>Bois-Himont</LibSubCom>
+      <CodCirLg>10</CodCirLg>
+      <LibFraSubCom>Bois-Himont - 10ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>300</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>151</Nombre>
+              <RapportInscrit>  50,33</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>149</Nombre>
+              <RapportInscrit>  49,67</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,67</RapportInscrit>
+              <RapportVotant>   1,34</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   1,00</RapportInscrit>
+              <RapportVotant>   2,01</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>144</Nombre>
+              <RapportInscrit>  48,00</RapportInscrit>
+              <RapportVotant>  96,64</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>THEVENOT</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   4,86</RapportExprime>
+                <RapportInscrit>   2,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LECOQ-CHERBLANC</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   9,72</RapportExprime>
+                <RapportInscrit>   4,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BATUT</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>54</NbVoix>
+                <RapportExprime>  37,50</RapportExprime>
+                <RapportInscrit>  18,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CHEMSI</NomPsn>
+                <PrenomPsn>Faraj</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BLONDEL</NomPsn>
+                <PrenomPsn>Stacy</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>31</NbVoix>
+                <RapportExprime>  21,53</RapportExprime>
+                <RapportInscrit>  10,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>LAPERT</NomPsn>
+                <PrenomPsn>Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,39</RapportExprime>
+                <RapportInscrit>   0,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>D&apos;ANJOU</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>  13,89</RapportExprime>
+                <RapportInscrit>   6,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LETACQ</NomPsn>
+                <PrenomPsn>Brice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DUJARDIN</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   3,47</RapportExprime>
+                <RapportInscrit>   1,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>GUIROUS</NomPsn>
+                <PrenomPsn>Réjane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>ROUSSEL</NomPsn>
+                <PrenomPsn>Annette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   2,78</RapportExprime>
+                <RapportInscrit>   1,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>MAZIER</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   4,86</RapportExprime>
+                <RapportInscrit>   2,33</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>60</CodDpt>
+    <CodMinDpt>60</CodMinDpt>
+    <CodDpt3Car>060</CodDpt3Car>
+    <LibDpt>Oise</LibDpt>
+    <Commune>
+      <CodSubCom>612</CodSubCom>
+      <LibSubCom>Senlis</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Senlis - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>10727</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>5519</Nombre>
+              <RapportInscrit>  51,45</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>5208</Nombre>
+              <RapportInscrit>  48,55</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>58</Nombre>
+              <RapportInscrit>   0,54</RapportInscrit>
+              <RapportVotant>   1,11</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>19</Nombre>
+              <RapportInscrit>   0,18</RapportInscrit>
+              <RapportVotant>   0,36</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>5131</Nombre>
+              <RapportInscrit>  47,83</RapportInscrit>
+              <RapportVotant>  98,52</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BERNARD</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>206</NbVoix>
+                <RapportExprime>   4,01</RapportExprime>
+                <RapportInscrit>   1,92</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>TROSZCZYNSKI</NomPsn>
+                <PrenomPsn>Mylène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>743</NbVoix>
+                <RapportExprime>  14,48</RapportExprime>
+                <RapportInscrit>   6,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SÉBIRE</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>109</NbVoix>
+                <RapportExprime>   2,12</RapportExprime>
+                <RapportInscrit>   1,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>DASINI</NomPsn>
+                <PrenomPsn>Caroline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>34</NbVoix>
+                <RapportExprime>   0,66</RapportExprime>
+                <RapportInscrit>   0,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BREBANT</NomPsn>
+                <PrenomPsn>Caroline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>85</NbVoix>
+                <RapportExprime>   1,66</RapportExprime>
+                <RapportInscrit>   0,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>WOERTH</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>1536</NbVoix>
+                <RapportExprime>  29,94</RapportExprime>
+                <RapportInscrit>  14,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BATTAGLIA</NomPsn>
+                <PrenomPsn>Martin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>327</NbVoix>
+                <RapportExprime>   6,37</RapportExprime>
+                <RapportInscrit>   3,05</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>WILQUIN</NomPsn>
+                <PrenomPsn>Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>95</NbVoix>
+                <RapportExprime>   1,85</RapportExprime>
+                <RapportInscrit>   0,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DAO CASTES</NomPsn>
+                <PrenomPsn>Véronique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>LOZANO</NomPsn>
+                <PrenomPsn>Stéphanie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1902</NbVoix>
+                <RapportExprime>  37,07</RapportExprime>
+                <RapportInscrit>  17,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LEYRIS</NomPsn>
+                <PrenomPsn>Yann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>   1,09</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>10727</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>5912</Nombre>
+              <RapportInscrit>  55,11</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>4815</Nombre>
+              <RapportInscrit>  44,89</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>241</Nombre>
+              <RapportInscrit>   2,25</RapportInscrit>
+              <RapportVotant>   5,01</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>92</Nombre>
+              <RapportInscrit>   0,86</RapportInscrit>
+              <RapportVotant>   1,91</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>4482</Nombre>
+              <RapportInscrit>  41,78</RapportInscrit>
+              <RapportVotant>  93,08</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>WOERTH</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>2259</NbVoix>
+                <RapportExprime>  50,40</RapportExprime>
+                <RapportInscrit>  21,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>LOZANO</NomPsn>
+                <PrenomPsn>Stéphanie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>2223</NbVoix>
+                <RapportExprime>  49,60</RapportExprime>
+                <RapportInscrit>  20,72</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

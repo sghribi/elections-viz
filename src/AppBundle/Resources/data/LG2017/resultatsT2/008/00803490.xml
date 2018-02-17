@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>08</CodDpt>
+    <CodMinDpt>08</CodMinDpt>
+    <CodDpt3Car>008</CodDpt3Car>
+    <LibDpt>Ardennes</LibDpt>
+    <Commune>
+      <CodSubCom>490</CodSubCom>
+      <LibSubCom>Vouziers</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Vouziers - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2902</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1397</Nombre>
+              <RapportInscrit>  48,14</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1505</Nombre>
+              <RapportInscrit>  51,86</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>24</Nombre>
+              <RapportInscrit>   0,83</RapportInscrit>
+              <RapportVotant>   1,59</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   0,55</RapportInscrit>
+              <RapportVotant>   1,06</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1465</Nombre>
+              <RapportInscrit>  50,48</RapportInscrit>
+              <RapportVotant>  97,34</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>OCTAVE</NomPsn>
+                <PrenomPsn>Nadia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   0,82</RapportExprime>
+                <RapportInscrit>   0,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>HERBILLON</NomPsn>
+                <PrenomPsn>Didier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>178</NbVoix>
+                <RapportExprime>  12,15</RapportExprime>
+                <RapportInscrit>   6,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>VORILLION</NomPsn>
+                <PrenomPsn>Christelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>242</NbVoix>
+                <RapportExprime>  16,52</RapportExprime>
+                <RapportInscrit>   8,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GALLET</NomPsn>
+                <PrenomPsn>Christelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>   1,30</RapportExprime>
+                <RapportInscrit>   0,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DE BALMAIN</NomPsn>
+                <PrenomPsn>Roselyne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,68</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>WARSMANN</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>619</NbVoix>
+                <RapportExprime>  42,25</RapportExprime>
+                <RapportInscrit>  21,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BLOMME</NomPsn>
+                <PrenomPsn>Amandine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>264</NbVoix>
+                <RapportExprime>  18,02</RapportExprime>
+                <RapportInscrit>   9,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MAOUCHE</NomPsn>
+                <PrenomPsn>Dalila</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SAUVAGE</NomPsn>
+                <PrenomPsn>Cédric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PERRIN</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>91</NbVoix>
+                <RapportExprime>   6,21</RapportExprime>
+                <RapportInscrit>   3,14</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2902</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1568</Nombre>
+              <RapportInscrit>  54,03</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1334</Nombre>
+              <RapportInscrit>  45,97</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>115</Nombre>
+              <RapportInscrit>   3,96</RapportInscrit>
+              <RapportVotant>   8,62</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>43</Nombre>
+              <RapportInscrit>   1,48</RapportInscrit>
+              <RapportVotant>   3,22</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1176</Nombre>
+              <RapportInscrit>  40,52</RapportInscrit>
+              <RapportVotant>  88,16</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>WARSMANN</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>892</NbVoix>
+                <RapportExprime>  75,85</RapportExprime>
+                <RapportInscrit>  30,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BLOMME</NomPsn>
+                <PrenomPsn>Amandine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>284</NbVoix>
+                <RapportExprime>  24,15</RapportExprime>
+                <RapportInscrit>   9,79</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

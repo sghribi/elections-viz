@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>42</CodDpt>
+    <CodMinDpt>42</CodMinDpt>
+    <CodDpt3Car>042</CodDpt3Car>
+    <LibDpt>Loire</LibDpt>
+    <Commune>
+      <CodSubCom>097</CodSubCom>
+      <LibSubCom>La Fouillouse</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>La Fouillouse - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3481</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1797</Nombre>
+              <RapportInscrit>  51,62</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1684</Nombre>
+              <RapportInscrit>  48,38</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>15</Nombre>
+              <RapportInscrit>   0,43</RapportInscrit>
+              <RapportVotant>   0,89</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>9</Nombre>
+              <RapportInscrit>   0,26</RapportInscrit>
+              <RapportVotant>   0,53</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1660</Nombre>
+              <RapportInscrit>  47,69</RapportInscrit>
+              <RapportVotant>  98,57</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MOULIN</NomPsn>
+                <PrenomPsn>André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,42</RapportExprime>
+                <RapportInscrit>   0,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>CAILLON</NomPsn>
+                <PrenomPsn>Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>152</NbVoix>
+                <RapportExprime>   9,16</RapportExprime>
+                <RapportInscrit>   4,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SIMONIN-CHAILLOT</NomPsn>
+                <PrenomPsn>Patricia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   2,29</RapportExprime>
+                <RapportInscrit>   1,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>FOREST</NomPsn>
+                <PrenomPsn>Nicole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   1,08</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>FAURE-MUNTIAN</NomPsn>
+                <PrenomPsn>Valéria</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>601</NbVoix>
+                <RapportExprime>  36,20</RapportExprime>
+                <RapportInscrit>  17,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MEUNIER</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>SURPLY</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>279</NbVoix>
+                <RapportExprime>  16,81</RapportExprime>
+                <RapportInscrit>   8,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DUPORT</NomPsn>
+                <PrenomPsn>André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   0,84</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ROCHEBLOINE</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>434</NbVoix>
+                <RapportExprime>  26,14</RapportExprime>
+                <RapportInscrit>  12,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CLERC</NomPsn>
+                <PrenomPsn>Mireille</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   0,54</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>KIZIRIAN</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>91</NbVoix>
+                <RapportExprime>   5,48</RapportExprime>
+                <RapportInscrit>   2,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>VEAU</NomPsn>
+                <PrenomPsn>Céline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,66</RapportExprime>
+                <RapportInscrit>   0,32</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

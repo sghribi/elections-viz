@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>45</CodDpt>
+    <CodMinDpt>45</CodMinDpt>
+    <CodDpt3Car>045</CodDpt3Car>
+    <LibDpt>Loiret</LibDpt>
+    <Commune>
+      <CodSubCom>146</CodSubCom>
+      <LibSubCom>La Ferté-Saint-Aubin</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>La Ferté-Saint-Aubin - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>5325</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2659</Nombre>
+              <RapportInscrit>  49,93</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2666</Nombre>
+              <RapportInscrit>  50,07</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>46</Nombre>
+              <RapportInscrit>   0,86</RapportInscrit>
+              <RapportVotant>   1,73</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>23</Nombre>
+              <RapportInscrit>   0,43</RapportInscrit>
+              <RapportVotant>   0,86</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2597</Nombre>
+              <RapportInscrit>  48,77</RapportInscrit>
+              <RapportVotant>  97,41</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CHELLY</NomPsn>
+                <PrenomPsn>Jihan</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1046</NbVoix>
+                <RapportExprime>  40,28</RapportExprime>
+                <RapportInscrit>  19,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DE GEVIGNEY</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>439</NbVoix>
+                <RapportExprime>  16,90</RapportExprime>
+                <RapportInscrit>   8,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DE GANAY</NomPsn>
+                <PrenomPsn>Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>469</NbVoix>
+                <RapportExprime>  18,06</RapportExprime>
+                <RapportInscrit>   8,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>ALEXANDRE</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,08</RapportExprime>
+                <RapportInscrit>   0,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GUIRLET</NomPsn>
+                <PrenomPsn>Benoît</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   0,46</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>HEGRON</NomPsn>
+                <PrenomPsn>Lise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>   0,73</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BARRET</NomPsn>
+                <PrenomPsn>Monique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>65</NbVoix>
+                <RapportExprime>   2,50</RapportExprime>
+                <RapportInscrit>   1,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CHAABANE</NomPsn>
+                <PrenomPsn>Amyne</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   1,46</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>PETIT</NomPsn>
+                <PrenomPsn>Cédric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>179</NbVoix>
+                <RapportExprime>   6,89</RapportExprime>
+                <RapportInscrit>   3,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>NAULIN</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>23</NbVoix>
+                <RapportExprime>   0,89</RapportExprime>
+                <RapportInscrit>   0,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MERLOT</NomPsn>
+                <PrenomPsn>Kevin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>305</NbVoix>
+                <RapportExprime>  11,74</RapportExprime>
+                <RapportInscrit>   5,73</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

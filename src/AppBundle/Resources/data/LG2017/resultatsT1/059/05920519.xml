@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>59</CodDpt>
+    <CodMinDpt>59</CodMinDpt>
+    <CodDpt3Car>059</CodDpt3Car>
+    <LibDpt>Nord</LibDpt>
+    <Commune>
+      <CodSubCom>519</CodSubCom>
+      <LibSubCom>Rumegies</LibSubCom>
+      <CodCirLg>20</CodCirLg>
+      <LibFraSubCom>Rumegies - 20ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1319</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>651</Nombre>
+              <RapportInscrit>  49,36</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>668</Nombre>
+              <RapportInscrit>  50,64</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>14</Nombre>
+              <RapportInscrit>   1,06</RapportInscrit>
+              <RapportVotant>   2,10</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,08</RapportInscrit>
+              <RapportVotant>   0,15</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>653</Nombre>
+              <RapportInscrit>  49,51</RapportInscrit>
+              <RapportVotant>  97,75</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BIGOT</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>26</NbVoix>
+                <RapportExprime>   3,98</RapportExprime>
+                <RapportInscrit>   1,97</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>SLABOLEPSZY</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LECLERCQ</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,46</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CARPENTIER</NomPsn>
+                <PrenomPsn>Christelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>AUBERT</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>RENAUD</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>119</NbVoix>
+                <RapportExprime>  18,22</RapportExprime>
+                <RapportInscrit>   9,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RICHER</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>50</NbVoix>
+                <RapportExprime>   7,66</RapportExprime>
+                <RapportInscrit>   3,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ZIELINSKI</NomPsn>
+                <PrenomPsn>Daniel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>191</NbVoix>
+                <RapportExprime>  29,25</RapportExprime>
+                <RapportInscrit>  14,48</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DE DANNE</NomPsn>
+                <PrenomPsn>Ludovic</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>114</NbVoix>
+                <RapportExprime>  17,46</RapportExprime>
+                <RapportInscrit>   8,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BUSTIN</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>33</NbVoix>
+                <RapportExprime>   5,05</RapportExprime>
+                <RapportInscrit>   2,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>ROUSSEL</NomPsn>
+                <PrenomPsn>Fabien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>67</NbVoix>
+                <RapportExprime>  10,26</RapportExprime>
+                <RapportInscrit>   5,08</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>CASTELAIN</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   4,44</RapportExprime>
+                <RapportInscrit>   2,20</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

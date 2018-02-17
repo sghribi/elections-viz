@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>62</CodDpt>
+    <CodMinDpt>62</CodMinDpt>
+    <CodDpt3Car>062</CodDpt3Car>
+    <LibDpt>Pas-de-Calais</LibDpt>
+    <Commune>
+      <CodSubCom>403</CodSubCom>
+      <LibSubCom>Hallines</LibSubCom>
+      <CodCirLg>06</CodCirLg>
+      <LibFraSubCom>Hallines - 6ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>993</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>475</Nombre>
+              <RapportInscrit>  47,83</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>518</Nombre>
+              <RapportInscrit>  52,17</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>10</Nombre>
+              <RapportInscrit>   1,01</RapportInscrit>
+              <RapportVotant>   1,93</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   1,21</RapportInscrit>
+              <RapportVotant>   2,32</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>496</Nombre>
+              <RapportInscrit>  49,95</RapportInscrit>
+              <RapportVotant>  95,75</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BLAUWART</NomPsn>
+                <PrenomPsn>Claudine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,61</RapportExprime>
+                <RapportInscrit>   0,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DENIMAL</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,81</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BOURGUIGNON</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>233</NbVoix>
+                <RapportExprime>  46,98</RapportExprime>
+                <RapportInscrit>  23,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>TACCOEN</NomPsn>
+                <PrenomPsn>Jean-Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>  11,29</RapportExprime>
+                <RapportInscrit>   5,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DUVIEUBOURG</NomPsn>
+                <PrenomPsn>Patricia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   3,23</RapportExprime>
+                <RapportInscrit>   1,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DEMAREY</NomPsn>
+                <PrenomPsn>Nadine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>54</NbVoix>
+                <RapportExprime>  10,89</RapportExprime>
+                <RapportInscrit>   5,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOURGEOIS</NomPsn>
+                <PrenomPsn>Marie-Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>109</NbVoix>
+                <RapportExprime>  21,98</RapportExprime>
+                <RapportInscrit>  10,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>TALPAERT</NomPsn>
+                <PrenomPsn>Charlotte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   2,02</RapportExprime>
+                <RapportInscrit>   1,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LEGRAND</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,21</RapportExprime>
+                <RapportInscrit>   0,60</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>993</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>534</Nombre>
+              <RapportInscrit>  53,78</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>459</Nombre>
+              <RapportInscrit>  46,22</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   1,61</RapportInscrit>
+              <RapportVotant>   3,49</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   1,71</RapportInscrit>
+              <RapportVotant>   3,70</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>426</Nombre>
+              <RapportInscrit>  42,90</RapportInscrit>
+              <RapportVotant>  92,81</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BOURGUIGNON</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>263</NbVoix>
+                <RapportExprime>  61,74</RapportExprime>
+                <RapportInscrit>  26,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOURGEOIS</NomPsn>
+                <PrenomPsn>Marie-Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>163</NbVoix>
+                <RapportExprime>  38,26</RapportExprime>
+                <RapportInscrit>  16,41</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

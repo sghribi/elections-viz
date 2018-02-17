@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>08</CodDpt>
+    <CodMinDpt>08</CodMinDpt>
+    <CodDpt3Car>008</CodDpt3Car>
+    <LibDpt>Ardennes</LibDpt>
+    <Commune>
+      <CodSubCom>298</CodSubCom>
+      <LibSubCom>Montcy-Notre-Dame</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Montcy-Notre-Dame - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1205</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>609</Nombre>
+              <RapportInscrit>  50,54</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>596</Nombre>
+              <RapportInscrit>  49,46</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,66</RapportInscrit>
+              <RapportVotant>   1,34</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>588</Nombre>
+              <RapportInscrit>  48,80</RapportInscrit>
+              <RapportVotant>  98,66</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MORALI</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>160</NbVoix>
+                <RapportExprime>  27,21</RapportExprime>
+                <RapportInscrit>  13,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LORENZO</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>83</NbVoix>
+                <RapportExprime>  14,12</RapportExprime>
+                <RapportInscrit>   6,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>POMMIER</NomPsn>
+                <PrenomPsn>Nesida</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,36</RapportExprime>
+                <RapportInscrit>   0,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VERLHAC</NomPsn>
+                <PrenomPsn>Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>50</NbVoix>
+                <RapportExprime>   8,50</RapportExprime>
+                <RapportInscrit>   4,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DALLA-ROSA</NomPsn>
+                <PrenomPsn>Sylvain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>25</NbVoix>
+                <RapportExprime>   4,25</RapportExprime>
+                <RapportInscrit>   2,07</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DUMONT</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>51</NbVoix>
+                <RapportExprime>   8,67</RapportExprime>
+                <RapportInscrit>   4,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GOULDEN</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,68</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>FERIO</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,68</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ANDRÉO</NomPsn>
+                <PrenomPsn>Fabien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,19</RapportExprime>
+                <RapportInscrit>   0,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>POLETTI</NomPsn>
+                <PrenomPsn>Bérengère</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>196</NbVoix>
+                <RapportExprime>  33,33</RapportExprime>
+                <RapportInscrit>  16,27</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

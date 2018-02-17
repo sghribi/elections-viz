@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>09</CodDpt>
+    <CodMinDpt>09</CodMinDpt>
+    <CodDpt3Car>009</CodDpt3Car>
+    <LibDpt>Ariège</LibDpt>
+    <Commune>
+      <CodSubCom>238</CodSubCom>
+      <LibSubCom>Les Pujols</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Les Pujols - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>555</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>230</Nombre>
+              <RapportInscrit>  41,44</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>325</Nombre>
+              <RapportInscrit>  58,56</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,90</RapportInscrit>
+              <RapportVotant>   1,54</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,90</RapportInscrit>
+              <RapportVotant>   1,54</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>315</Nombre>
+              <RapportInscrit>  56,76</RapportInscrit>
+              <RapportVotant>  96,92</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DJEDAINI</NomPsn>
+                <PrenomPsn>Guy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,32</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BROSSERON</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   1,59</RapportExprime>
+                <RapportInscrit>   0,90</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>HEREDIA</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,63</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CALLEJA</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>33</NbVoix>
+                <RapportExprime>  10,48</RapportExprime>
+                <RapportInscrit>   5,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ALLEMAND</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,32</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GONDRAN</NomPsn>
+                <PrenomPsn>Bernard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>48</NbVoix>
+                <RapportExprime>  15,24</RapportExprime>
+                <RapportInscrit>   8,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RATSIMBA</NomPsn>
+                <PrenomPsn>Berthe</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,32</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BERTRAND-VINZERICH</NomPsn>
+                <PrenomPsn>Huguette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>67</NbVoix>
+                <RapportExprime>  21,27</RapportExprime>
+                <RapportInscrit>  12,07</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LARIVE</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>42</NbVoix>
+                <RapportExprime>  13,33</RapportExprime>
+                <RapportInscrit>   7,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>FAURÉ</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>114</NbVoix>
+                <RapportExprime>  36,19</RapportExprime>
+                <RapportInscrit>  20,54</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DEDIEU-COUMENAY</NomPsn>
+                <PrenomPsn>Bernadette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,32</RapportExprime>
+                <RapportInscrit>   0,18</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

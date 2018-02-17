@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>93</CodDpt>
+    <CodMinDpt>93</CodMinDpt>
+    <CodDpt3Car>093</CodDpt3Car>
+    <LibDpt>Seine-Saint-Denis</LibDpt>
+    <Commune>
+      <CodSubCom>007</CodSubCom>
+      <LibSubCom>Le Blanc-Mesnil</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Le Blanc-Mesnil - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>24775</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>15578</Nombre>
+              <RapportInscrit>  62,88</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>9197</Nombre>
+              <RapportInscrit>  37,12</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>142</Nombre>
+              <RapportInscrit>   0,57</RapportInscrit>
+              <RapportVotant>   1,54</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>74</Nombre>
+              <RapportInscrit>   0,30</RapportInscrit>
+              <RapportVotant>   0,80</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>8981</Nombre>
+              <RapportInscrit>  36,25</RapportInscrit>
+              <RapportVotant>  97,65</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CERRIGONE</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>2313</NbVoix>
+                <RapportExprime>  25,75</RapportExprime>
+                <RapportInscrit>   9,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>THEVENOT</NomPsn>
+                <PrenomPsn>Prisca</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1987</NbVoix>
+                <RapportExprime>  22,12</RapportExprime>
+                <RapportInscrit>   8,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>REZKALLA</NomPsn>
+                <PrenomPsn>Nabiha</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>204</NbVoix>
+                <RapportExprime>   2,27</RapportExprime>
+                <RapportInscrit>   0,82</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BRESTEAU</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>89</NbVoix>
+                <RapportExprime>   0,99</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CLAVEL</NomPsn>
+                <PrenomPsn>Gilles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>945</NbVoix>
+                <RapportExprime>  10,52</RapportExprime>
+                <RapportInscrit>   3,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>CHARROUF</NomPsn>
+                <PrenomPsn>Lahcène</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>104</NbVoix>
+                <RapportExprime>   1,16</RapportExprime>
+                <RapportInscrit>   0,42</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>FOURNET</NomPsn>
+                <PrenomPsn>Serge</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>95</NbVoix>
+                <RapportExprime>   1,06</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BUFFET</NomPsn>
+                <PrenomPsn>Marie-George</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>2941</NbVoix>
+                <RapportExprime>  32,75</RapportExprime>
+                <RapportInscrit>  11,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>AMZAL</NomPsn>
+                <PrenomPsn>Najia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>215</NbVoix>
+                <RapportExprime>   2,39</RapportExprime>
+                <RapportInscrit>   0,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BOZARIC</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>88</NbVoix>
+                <RapportExprime>   0,98</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

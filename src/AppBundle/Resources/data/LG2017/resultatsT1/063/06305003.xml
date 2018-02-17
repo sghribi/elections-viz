@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>63</CodDpt>
+    <CodMinDpt>63</CodMinDpt>
+    <CodDpt3Car>063</CodDpt3Car>
+    <LibDpt>Puy-de-Dôme</LibDpt>
+    <Commune>
+      <CodSubCom>003</CodSubCom>
+      <LibSubCom>Ambert</LibSubCom>
+      <CodCirLg>05</CodCirLg>
+      <LibFraSubCom>Ambert - 5ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4943</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2308</Nombre>
+              <RapportInscrit>  46,69</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2635</Nombre>
+              <RapportInscrit>  53,31</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>20</Nombre>
+              <RapportInscrit>   0,40</RapportInscrit>
+              <RapportVotant>   0,76</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>22</Nombre>
+              <RapportInscrit>   0,45</RapportInscrit>
+              <RapportVotant>   0,83</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2593</Nombre>
+              <RapportInscrit>  52,46</RapportInscrit>
+              <RapportVotant>  98,41</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>PERRET</NomPsn>
+                <PrenomPsn>Sara</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>78</NbVoix>
+                <RapportExprime>   3,01</RapportExprime>
+                <RapportInscrit>   1,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LAUBRETON</NomPsn>
+                <PrenomPsn>Jeannine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   0,50</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BETENFELD</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>23</NbVoix>
+                <RapportExprime>   0,89</RapportExprime>
+                <RapportInscrit>   0,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PRÉVOST</NomPsn>
+                <PrenomPsn>Jérémy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>35</NbVoix>
+                <RapportExprime>   1,35</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GARDETTE</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>674</NbVoix>
+                <RapportExprime>  25,99</RapportExprime>
+                <RapportInscrit>  13,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>JAYET</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>165</NbVoix>
+                <RapportExprime>   6,36</RapportExprime>
+                <RapportInscrit>   3,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MONTAGNON</NomPsn>
+                <PrenomPsn>Mikaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>   0,81</RapportExprime>
+                <RapportInscrit>   0,42</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LESPAGNOL</NomPsn>
+                <PrenomPsn>Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>27</NbVoix>
+                <RapportExprime>   1,04</RapportExprime>
+                <RapportInscrit>   0,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DINOUARD</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>49</NbVoix>
+                <RapportExprime>   1,89</RapportExprime>
+                <RapportInscrit>   0,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>FOUGÈRE</NomPsn>
+                <PrenomPsn>Myriam</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>432</NbVoix>
+                <RapportExprime>  16,66</RapportExprime>
+                <RapportInscrit>   8,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>CHASSAIGNE</NomPsn>
+                <PrenomPsn>André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>1069</NbVoix>
+                <RapportExprime>  41,23</RapportExprime>
+                <RapportInscrit>  21,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>CAPRON</NomPsn>
+                <PrenomPsn>Gabrielle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,27</RapportExprime>
+                <RapportInscrit>   0,14</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>01</CodDpt>
+    <CodMinDpt>01</CodMinDpt>
+    <CodDpt3Car>001</CodDpt3Car>
+    <LibDpt>Ain</LibDpt>
+    <Commune>
+      <CodSubCom>451</CodSubCom>
+      <LibSubCom>Viriat</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Viriat - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4653</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2325</Nombre>
+              <RapportInscrit>  49,97</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2328</Nombre>
+              <RapportInscrit>  50,03</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>30</Nombre>
+              <RapportInscrit>   0,64</RapportInscrit>
+              <RapportVotant>   1,29</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,04</RapportInscrit>
+              <RapportVotant>   0,09</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2296</Nombre>
+              <RapportInscrit>  49,34</RapportInscrit>
+              <RapportVotant>  98,63</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MALLET</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>737</NbVoix>
+                <RapportExprime>  32,10</RapportExprime>
+                <RapportInscrit>  15,84</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BLATRIX-CONTAT</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>223</NbVoix>
+                <RapportExprime>   9,71</RapportExprime>
+                <RapportInscrit>   4,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LÉPAGNOT</NomPsn>
+                <PrenomPsn>Maude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,30</RapportExprime>
+                <RapportInscrit>   0,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MARTIN ZEMLIK</NomPsn>
+                <PrenomPsn>Fabrine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>170</NbVoix>
+                <RapportExprime>   7,40</RapportExprime>
+                <RapportInscrit>   3,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BRETON</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>784</NbVoix>
+                <RapportExprime>  34,15</RapportExprime>
+                <RapportInscrit>  16,85</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>CARLIER</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   0,57</RapportExprime>
+                <RapportInscrit>   0,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RAIMONDO</NomPsn>
+                <PrenomPsn>Laurane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>34</NbVoix>
+                <RapportExprime>   1,48</RapportExprime>
+                <RapportInscrit>   0,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>FONTAINE</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BUISSON</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>300</NbVoix>
+                <RapportExprime>  13,07</RapportExprime>
+                <RapportInscrit>   6,45</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BONNOT</NomPsn>
+                <PrenomPsn>Gilbert</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,48</RapportExprime>
+                <RapportInscrit>   0,24</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

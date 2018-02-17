@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>12</CodDpt>
+    <CodMinDpt>12</CodMinDpt>
+    <CodDpt3Car>012</CodDpt3Car>
+    <LibDpt>Aveyron</LibDpt>
+    <Commune>
+      <CodSubCom>057</CodSubCom>
+      <LibSubCom>Cassagnes-Bégonhès</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Cassagnes-Bégonhès - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>817</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>291</Nombre>
+              <RapportInscrit>  35,62</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>526</Nombre>
+              <RapportInscrit>  64,38</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,61</RapportInscrit>
+              <RapportVotant>   0,95</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   0,86</RapportInscrit>
+              <RapportVotant>   1,33</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>514</Nombre>
+              <RapportInscrit>  62,91</RapportInscrit>
+              <RapportVotant>  97,72</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>AUSTRUY</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>192</NbVoix>
+                <RapportExprime>  37,35</RapportExprime>
+                <RapportInscrit>  23,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>COMBES</NomPsn>
+                <PrenomPsn>Bernard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>TARROUX</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,97</RapportExprime>
+                <RapportInscrit>   0,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VIALA</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>186</NbVoix>
+                <RapportExprime>  36,19</RapportExprime>
+                <RapportInscrit>  22,77</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ABRIAC</NomPsn>
+                <PrenomPsn>Muriel</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>40</NbVoix>
+                <RapportExprime>   7,78</RapportExprime>
+                <RapportInscrit>   4,90</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>LAUR</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>57</NbVoix>
+                <RapportExprime>  11,09</RapportExprime>
+                <RapportInscrit>   6,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GARCINI</NomPsn>
+                <PrenomPsn>Régina</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   3,31</RapportExprime>
+                <RapportInscrit>   2,08</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>PACCHIELE</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>NOËL</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,58</RapportExprime>
+                <RapportInscrit>   0,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>TEMPLE</NomPsn>
+                <PrenomPsn>Henri</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,73</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

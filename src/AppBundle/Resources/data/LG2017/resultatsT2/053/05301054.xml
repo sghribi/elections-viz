@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>53</CodDpt>
+    <CodMinDpt>53</CodMinDpt>
+    <CodDpt3Car>053</CodDpt3Car>
+    <LibDpt>Mayenne</LibDpt>
+    <Commune>
+      <CodSubCom>054</CodSubCom>
+      <LibSubCom>Changé</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Changé - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4847</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2187</Nombre>
+              <RapportInscrit>  45,12</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2660</Nombre>
+              <RapportInscrit>  54,88</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>35</Nombre>
+              <RapportInscrit>   0,72</RapportInscrit>
+              <RapportVotant>   1,32</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>13</Nombre>
+              <RapportInscrit>   0,27</RapportInscrit>
+              <RapportVotant>   0,49</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2612</Nombre>
+              <RapportInscrit>  53,89</RapportInscrit>
+              <RapportVotant>  98,20</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>HABAULT</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>95</NbVoix>
+                <RapportExprime>   3,64</RapportExprime>
+                <RapportInscrit>   1,96</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>AMELIN</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,15</RapportExprime>
+                <RapportInscrit>   0,08</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>RANNOU</NomPsn>
+                <PrenomPsn>Maël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>91</NbVoix>
+                <RapportExprime>   3,48</RapportExprime>
+                <RapportInscrit>   1,88</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GAROT</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>648</NbVoix>
+                <RapportExprime>  24,81</RapportExprime>
+                <RapportInscrit>  13,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DE LA MORINIÈRE</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>163</NbVoix>
+                <RapportExprime>   6,24</RapportExprime>
+                <RapportInscrit>   3,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MOTTIER</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>926</NbVoix>
+                <RapportExprime>  35,45</RapportExprime>
+                <RapportInscrit>  19,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CHOMEL</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>140</NbVoix>
+                <RapportExprime>   5,36</RapportExprime>
+                <RapportInscrit>   2,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>SOULTANI-VIGNERON</NomPsn>
+                <PrenomPsn>Samia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>494</NbVoix>
+                <RapportExprime>  18,91</RapportExprime>
+                <RapportInscrit>  10,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>GUILLOT</NomPsn>
+                <PrenomPsn>Aurélien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   0,65</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>MAHÉ GENERO</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>28</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>STIZ</NomPsn>
+                <PrenomPsn>Luccio</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,23</RapportExprime>
+                <RapportInscrit>   0,12</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4847</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2532</Nombre>
+              <RapportInscrit>  52,24</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2315</Nombre>
+              <RapportInscrit>  47,76</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>143</Nombre>
+              <RapportInscrit>   2,95</RapportInscrit>
+              <RapportVotant>   6,18</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>49</Nombre>
+              <RapportInscrit>   1,01</RapportInscrit>
+              <RapportVotant>   2,12</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2123</Nombre>
+              <RapportInscrit>  43,80</RapportInscrit>
+              <RapportVotant>  91,71</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GAROT</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>1124</NbVoix>
+                <RapportExprime>  52,94</RapportExprime>
+                <RapportInscrit>  23,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MOTTIER</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>999</NbVoix>
+                <RapportExprime>  47,06</RapportExprime>
+                <RapportInscrit>  20,61</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>32</CodDpt>
+    <CodMinDpt>32</CodMinDpt>
+    <CodDpt3Car>032</CodDpt3Car>
+    <LibDpt>Gers</LibDpt>
+    <Commune>
+      <CodSubCom>331</CodSubCom>
+      <LibSubCom>Preignan</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Preignan - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>879</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>362</Nombre>
+              <RapportInscrit>  41,18</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>517</Nombre>
+              <RapportInscrit>  58,82</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   1,93</RapportInscrit>
+              <RapportVotant>   3,29</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   0,80</RapportInscrit>
+              <RapportVotant>   1,35</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>493</Nombre>
+              <RapportInscrit>  56,09</RapportInscrit>
+              <RapportVotant>  95,36</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DUPORT</NomPsn>
+                <PrenomPsn>Romain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,41</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DUPOUEY</NomPsn>
+                <PrenomPsn>Francis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>93</NbVoix>
+                <RapportExprime>  18,86</RapportExprime>
+                <RapportInscrit>  10,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BAUDOIS</NomPsn>
+                <PrenomPsn>Sylviane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>23</NbVoix>
+                <RapportExprime>   4,67</RapportExprime>
+                <RapportInscrit>   2,62</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PEREZ</NomPsn>
+                <PrenomPsn>Vivien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,11</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CAZENEUVE</NomPsn>
+                <PrenomPsn>Jean-René</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>185</NbVoix>
+                <RapportExprime>  37,53</RapportExprime>
+                <RapportInscrit>  21,05</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PÉNÉTRO</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>71</NbVoix>
+                <RapportExprime>  14,40</RapportExprime>
+                <RapportInscrit>   8,08</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TERRAIN</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>59</NbVoix>
+                <RapportExprime>  11,97</RapportExprime>
+                <RapportInscrit>   6,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CHARETON</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,41</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SKOWRONEK</NomPsn>
+                <PrenomPsn>Annabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,22</RapportExprime>
+                <RapportInscrit>   0,68</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PIERREISNARD</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>50</NbVoix>
+                <RapportExprime>  10,14</RapportExprime>
+                <RapportInscrit>   5,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MATHARAN</NomPsn>
+                <PrenomPsn>Benoît</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,11</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>879</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>419</Nombre>
+              <RapportInscrit>  47,67</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>460</Nombre>
+              <RapportInscrit>  52,33</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>51</Nombre>
+              <RapportInscrit>   5,80</RapportInscrit>
+              <RapportVotant>  11,09</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>38</Nombre>
+              <RapportInscrit>   4,32</RapportInscrit>
+              <RapportVotant>   8,26</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>371</Nombre>
+              <RapportInscrit>  42,21</RapportInscrit>
+              <RapportVotant>  80,65</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DUPOUEY</NomPsn>
+                <PrenomPsn>Francis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>138</NbVoix>
+                <RapportExprime>  37,20</RapportExprime>
+                <RapportInscrit>  15,70</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CAZENEUVE</NomPsn>
+                <PrenomPsn>Jean-René</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>233</NbVoix>
+                <RapportExprime>  62,80</RapportExprime>
+                <RapportInscrit>  26,51</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

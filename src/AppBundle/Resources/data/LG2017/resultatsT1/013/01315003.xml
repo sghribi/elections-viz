@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>13</CodDpt>
+    <CodMinDpt>13</CodMinDpt>
+    <CodDpt3Car>013</CodDpt3Car>
+    <LibDpt>Bouches-du-Rhône</LibDpt>
+    <Commune>
+      <CodSubCom>003</CodSubCom>
+      <LibSubCom>Alleins</LibSubCom>
+      <CodCirLg>15</CodCirLg>
+      <LibFraSubCom>Alleins - 15ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2020</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>988</Nombre>
+              <RapportInscrit>  48,91</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1032</Nombre>
+              <RapportInscrit>  51,09</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>29</Nombre>
+              <RapportInscrit>   1,44</RapportInscrit>
+              <RapportVotant>   2,81</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>4</Nombre>
+              <RapportInscrit>   0,20</RapportInscrit>
+              <RapportVotant>   0,39</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>999</Nombre>
+              <RapportInscrit>  49,46</RapportInscrit>
+              <RapportVotant>  96,80</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>FARRO</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>363</NbVoix>
+                <RapportExprime>  36,34</RapportExprime>
+                <RapportInscrit>  17,97</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>JUNG</NomPsn>
+                <PrenomPsn>Michèle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>120</NbVoix>
+                <RapportExprime>  12,01</RapportExprime>
+                <RapportInscrit>   5,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CASTANET</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   1,70</RapportExprime>
+                <RapportInscrit>   0,84</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MOLL</NomPsn>
+                <PrenomPsn>Cécile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   2,90</RapportExprime>
+                <RapportInscrit>   1,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GARCIA MATEO</NomPsn>
+                <PrenomPsn>Lucas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>   2,10</RapportExprime>
+                <RapportInscrit>   1,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MOUSSET-SEISSON</NomPsn>
+                <PrenomPsn>Jean-Alexandre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>216</NbVoix>
+                <RapportExprime>  21,62</RapportExprime>
+                <RapportInscrit>  10,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TABARACCI</NomPsn>
+                <PrenomPsn>Denise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,70</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>HAENSLER</NomPsn>
+                <PrenomPsn>Hélène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>52</NbVoix>
+                <RapportExprime>   5,21</RapportExprime>
+                <RapportInscrit>   2,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LAGRANGE</NomPsn>
+                <PrenomPsn>Noëlle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,70</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>FORTANÉ</NomPsn>
+                <PrenomPsn>Jean-Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   1,10</RapportExprime>
+                <RapportInscrit>   0,54</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>REYNÈS</NomPsn>
+                <PrenomPsn>Bernard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>156</NbVoix>
+                <RapportExprime>  15,62</RapportExprime>
+                <RapportInscrit>   7,72</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

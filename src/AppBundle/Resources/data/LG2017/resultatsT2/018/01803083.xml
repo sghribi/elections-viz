@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>18</CodDpt>
+    <CodMinDpt>18</CodMinDpt>
+    <CodDpt3Car>018</CodDpt3Car>
+    <LibDpt>Cher</LibDpt>
+    <Commune>
+      <CodSubCom>083</CodSubCom>
+      <LibSubCom>Culan</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Culan - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>567</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>270</Nombre>
+              <RapportInscrit>  47,62</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>297</Nombre>
+              <RapportInscrit>  52,38</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,41</RapportInscrit>
+              <RapportVotant>   2,69</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,88</RapportInscrit>
+              <RapportVotant>   1,68</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>284</Nombre>
+              <RapportInscrit>  50,09</RapportInscrit>
+              <RapportVotant>  95,62</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BESSARD</NomPsn>
+                <PrenomPsn>Magali</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   2,11</RapportExprime>
+                <RapportInscrit>   1,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>THEVENIN</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   3,52</RapportExprime>
+                <RapportInscrit>   1,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>RODRIC</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   3,17</RapportExprime>
+                <RapportInscrit>   1,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>KERVRAN</NomPsn>
+                <PrenomPsn>Loïc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>81</NbVoix>
+                <RapportExprime>  28,52</RapportExprime>
+                <RapportInscrit>  14,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>RIFFET</NomPsn>
+                <PrenomPsn>Jean</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   5,63</RapportExprime>
+                <RapportInscrit>   2,82</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GALUT</NomPsn>
+                <PrenomPsn>Yann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>59</NbVoix>
+                <RapportExprime>  20,77</RapportExprime>
+                <RapportInscrit>  10,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BEATRIX</NomPsn>
+                <PrenomPsn>Olivier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>36</NbVoix>
+                <RapportExprime>  12,68</RapportExprime>
+                <RapportInscrit>   6,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>VAISSON</NomPsn>
+                <PrenomPsn>Samuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   5,99</RapportExprime>
+                <RapportInscrit>   3,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MENGUY</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,41</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>COSYNS</NomPsn>
+                <PrenomPsn>Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LE GOÏC</NomPsn>
+                <PrenomPsn>Jordan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>44</NbVoix>
+                <RapportExprime>  15,49</RapportExprime>
+                <RapportInscrit>   7,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>BELLET</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,70</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>567</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>288</Nombre>
+              <RapportInscrit>  50,79</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>279</Nombre>
+              <RapportInscrit>  49,21</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>18</Nombre>
+              <RapportInscrit>   3,17</RapportInscrit>
+              <RapportVotant>   6,45</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>15</Nombre>
+              <RapportInscrit>   2,65</RapportInscrit>
+              <RapportVotant>   5,38</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>246</Nombre>
+              <RapportInscrit>  43,39</RapportInscrit>
+              <RapportVotant>  88,17</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>KERVRAN</NomPsn>
+                <PrenomPsn>Loïc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>124</NbVoix>
+                <RapportExprime>  50,41</RapportExprime>
+                <RapportInscrit>  21,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GALUT</NomPsn>
+                <PrenomPsn>Yann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>122</NbVoix>
+                <RapportExprime>  49,59</RapportExprime>
+                <RapportInscrit>  21,52</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>2B</CodDpt>
+    <CodMinDpt>2B</CodMinDpt>
+    <CodDpt3Car>02B</CodDpt3Car>
+    <LibDpt>Haute-Corse</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>3</NumPanneauCand>
+            <NomPsn>GANDOLFI-SCHEIT</NomPsn>
+            <PrenomPsn>Sauveur</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>9</NumPanneauCand>
+            <NomPsn>CASTELLANI</NomPsn>
+            <PrenomPsn>Michel</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REG</CodNua>
+            <LibNua>Régionaliste</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>4</NumPanneauCand>
+            <NomPsn>ACQUAVIVA</NomPsn>
+            <PrenomPsn>Jean-Félix</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REG</CodNua>
+            <LibNua>Régionaliste</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>6</NumPanneauCand>
+            <NomPsn>GIUDICI</NomPsn>
+            <PrenomPsn>Francis</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>12</CodDpt>
+    <CodMinDpt>12</CodMinDpt>
+    <CodDpt3Car>012</CodDpt3Car>
+    <LibDpt>Aveyron</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>2</NumPanneauCand>
+            <NomPsn>MAZARS</NomPsn>
+            <PrenomPsn>Stéphane</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>9</NumPanneauCand>
+            <NomPsn>CENSI</NomPsn>
+            <PrenomPsn>Yves</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>5</NumPanneauCand>
+            <NomPsn>BLANC</NomPsn>
+            <PrenomPsn>Anne</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>03</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>AUSTRUY</NomPsn>
+            <PrenomPsn>Jean-Louis</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>4</NumPanneauCand>
+            <NomPsn>VIALA</NomPsn>
+            <PrenomPsn>Arnaud</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

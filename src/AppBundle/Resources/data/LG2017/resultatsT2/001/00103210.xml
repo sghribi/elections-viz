@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>01</CodDpt>
+    <CodMinDpt>01</CodMinDpt>
+    <CodDpt3Car>001</CodDpt3Car>
+    <LibDpt>Ain</LibDpt>
+    <Commune>
+      <CodSubCom>210</CodSubCom>
+      <LibSubCom>Lélex</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Lélex - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>184</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>79</Nombre>
+              <RapportInscrit>  42,93</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>105</Nombre>
+              <RapportInscrit>  57,07</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,54</RapportInscrit>
+              <RapportVotant>   0,95</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>104</Nombre>
+              <RapportInscrit>  56,52</RapportInscrit>
+              <RapportVotant>  99,05</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BORNE</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,92</RapportExprime>
+                <RapportInscrit>   1,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>MERCIER</NomPsn>
+                <PrenomPsn>Jean</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   2,88</RapportExprime>
+                <RapportInscrit>   1,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BLOCH</NomPsn>
+                <PrenomPsn>Jean Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GIVERNET</NomPsn>
+                <PrenomPsn>Olga</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>41</NbVoix>
+                <RapportExprime>  39,42</RapportExprime>
+                <RapportInscrit>  22,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>SACCHI-HASSANEIN</NomPsn>
+                <PrenomPsn>Géraldine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   2,88</RapportExprime>
+                <RapportInscrit>   1,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>NOBLET</NomPsn>
+                <PrenomPsn>Gaëtan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   9,62</RapportExprime>
+                <RapportInscrit>   5,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PERNOD BEAUDON</NomPsn>
+                <PrenomPsn>Stéphanie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>39</NbVoix>
+                <RapportExprime>  37,50</RapportExprime>
+                <RapportInscrit>  21,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>JOLIE</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   4,81</RapportExprime>
+                <RapportInscrit>   2,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LAHY</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>GENTILE</NomPsn>
+                <PrenomPsn>Fabrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MOZER</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,96</RapportExprime>
+                <RapportInscrit>   0,54</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>184</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>80</Nombre>
+              <RapportInscrit>  43,48</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>104</Nombre>
+              <RapportInscrit>  56,52</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   3,26</RapportInscrit>
+              <RapportVotant>   5,77</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   1,09</RapportInscrit>
+              <RapportVotant>   1,92</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>96</Nombre>
+              <RapportInscrit>  52,17</RapportInscrit>
+              <RapportVotant>  92,31</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GIVERNET</NomPsn>
+                <PrenomPsn>Olga</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>54</NbVoix>
+                <RapportExprime>  56,25</RapportExprime>
+                <RapportInscrit>  29,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PERNOD BEAUDON</NomPsn>
+                <PrenomPsn>Stéphanie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>42</NbVoix>
+                <RapportExprime>  43,75</RapportExprime>
+                <RapportInscrit>  22,83</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

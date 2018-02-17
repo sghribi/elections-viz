@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>55</CodDpt>
+    <CodMinDpt>55</CodMinDpt>
+    <CodDpt3Car>055</CodDpt3Car>
+    <LibDpt>Meuse</LibDpt>
+    <Commune>
+      <CodSubCom>063</CodSubCom>
+      <LibSubCom>Bouligny</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Bouligny - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1787</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1114</Nombre>
+              <RapportInscrit>  62,34</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>673</Nombre>
+              <RapportInscrit>  37,66</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>18</Nombre>
+              <RapportInscrit>   1,01</RapportInscrit>
+              <RapportVotant>   2,67</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,17</RapportInscrit>
+              <RapportVotant>   0,45</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>652</Nombre>
+              <RapportInscrit>  36,49</RapportInscrit>
+              <RapportVotant>  96,88</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DHYVERT</NomPsn>
+                <PrenomPsn>Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>   3,07</RapportExprime>
+                <RapportInscrit>   1,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FRANCESCHINI</NomPsn>
+                <PrenomPsn>François-Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>64</NbVoix>
+                <RapportExprime>   9,82</RapportExprime>
+                <RapportInscrit>   3,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DUMONT</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>23</NbVoix>
+                <RapportExprime>   3,53</RapportExprime>
+                <RapportInscrit>   1,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CLÉMENT</NomPsn>
+                <PrenomPsn>Michaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>94</NbVoix>
+                <RapportExprime>  14,42</RapportExprime>
+                <RapportInscrit>   5,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CARIOU</NomPsn>
+                <PrenomPsn>Emilie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>130</NbVoix>
+                <RapportExprime>  19,94</RapportExprime>
+                <RapportInscrit>   7,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>REGENT</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>46</NbVoix>
+                <RapportExprime>   7,06</RapportExprime>
+                <RapportInscrit>   2,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>VILAIN</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>143</NbVoix>
+                <RapportExprime>  21,93</RapportExprime>
+                <RapportInscrit>   8,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DUMONT</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>125</NbVoix>
+                <RapportExprime>  19,17</RapportExprime>
+                <RapportInscrit>   6,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>PÉRIN</NomPsn>
+                <PrenomPsn>Marcel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,92</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>VASSEUR</NomPsn>
+                <PrenomPsn>Maryse</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,15</RapportExprime>
+                <RapportInscrit>   0,06</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

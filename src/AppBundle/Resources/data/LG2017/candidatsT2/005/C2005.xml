@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>05</CodDpt>
+    <CodMinDpt>05</CodMinDpt>
+    <CodDpt3Car>005</CodDpt3Car>
+    <LibDpt>Hautes-Alpes</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>4</NumPanneauCand>
+            <NomPsn>ASSO</NomPsn>
+            <PrenomPsn>Catherine</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>11</NumPanneauCand>
+            <NomPsn>BOYER</NomPsn>
+            <PrenomPsn>Pascale</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>GIRAUD</NomPsn>
+            <PrenomPsn>Joël</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>6</NumPanneauCand>
+            <NomPsn>MURGIA</NomPsn>
+            <PrenomPsn>Arnaud</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>DVD</CodNua>
+            <LibNua>Divers droite</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

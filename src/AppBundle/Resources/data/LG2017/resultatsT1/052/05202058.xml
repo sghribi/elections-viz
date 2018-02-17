@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>52</CodDpt>
+    <CodMinDpt>52</CodMinDpt>
+    <CodDpt3Car>052</CodDpt3Car>
+    <LibDpt>Haute-Marne</LibDpt>
+    <Commune>
+      <CodSubCom>058</CodSubCom>
+      <LibSubCom>Bologne</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Bologne - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1387</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>731</Nombre>
+              <RapportInscrit>  52,70</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>656</Nombre>
+              <RapportInscrit>  47,30</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>13</Nombre>
+              <RapportInscrit>   0,94</RapportInscrit>
+              <RapportVotant>   1,98</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,36</RapportInscrit>
+              <RapportVotant>   0,76</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>638</Nombre>
+              <RapportInscrit>  46,00</RapportInscrit>
+              <RapportVotant>  97,26</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BERTHET</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>190</NbVoix>
+                <RapportExprime>  29,78</RapportExprime>
+                <RapportInscrit>  13,70</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FABRE</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>144</NbVoix>
+                <RapportExprime>  22,57</RapportExprime>
+                <RapportInscrit>  10,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DESFRETIER</NomPsn>
+                <PrenomPsn>Antoine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>   2,98</RapportExprime>
+                <RapportInscrit>   1,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MONNIER</NomPsn>
+                <PrenomPsn>Daniel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>58</NbVoix>
+                <RapportExprime>   9,09</RapportExprime>
+                <RapportInscrit>   4,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CORNUT-GENTILLE</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>202</NbVoix>
+                <RapportExprime>  31,66</RapportExprime>
+                <RapportInscrit>  14,56</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GONZALEZ</NomPsn>
+                <PrenomPsn>Edouard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,94</RapportExprime>
+                <RapportInscrit>   0,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>OLIVIER</NomPsn>
+                <PrenomPsn>Laurence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,63</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ROFFIDAL</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   2,19</RapportExprime>
+                <RapportInscrit>   1,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>HALIN</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,16</RapportExprime>
+                <RapportInscrit>   0,07</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

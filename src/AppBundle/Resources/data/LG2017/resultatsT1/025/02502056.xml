@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>25</CodDpt>
+    <CodMinDpt>25</CodMinDpt>
+    <CodDpt3Car>025</CodDpt3Car>
+    <LibDpt>Doubs</LibDpt>
+    <Commune>
+      <CodSubCom>056</CodSubCom>
+      <LibSubCom>Besançon</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Besançon - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>36991</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>19241</Nombre>
+              <RapportInscrit>  52,02</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>17750</Nombre>
+              <RapportInscrit>  47,98</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>275</Nombre>
+              <RapportInscrit>   0,74</RapportInscrit>
+              <RapportVotant>   1,55</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>181</Nombre>
+              <RapportInscrit>   0,49</RapportInscrit>
+              <RapportVotant>   1,02</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>17294</Nombre>
+              <RapportInscrit>  46,75</RapportInscrit>
+              <RapportVotant>  97,43</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>ALAUZET</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>7506</NbVoix>
+                <RapportExprime>  43,40</RapportExprime>
+                <RapportInscrit>  20,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FRANÇOIS</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>362</NbVoix>
+                <RapportExprime>   2,09</RapportExprime>
+                <RapportInscrit>   0,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DE MAIO</NomPsn>
+                <PrenomPsn>Nadine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>174</NbVoix>
+                <RapportExprime>   1,01</RapportExprime>
+                <RapportInscrit>   0,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>FAGAUT</NomPsn>
+                <PrenomPsn>Ludovic</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>3070</NbVoix>
+                <RapportExprime>  17,75</RapportExprime>
+                <RapportInscrit>   8,30</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CHOMETTE</NomPsn>
+                <PrenomPsn>Jean-Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>292</NbVoix>
+                <RapportExprime>   1,69</RapportExprime>
+                <RapportInscrit>   0,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>LATOURNERIE</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>135</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>ARNOUX</NomPsn>
+                <PrenomPsn>Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>2662</NbVoix>
+                <RapportExprime>  15,39</RapportExprime>
+                <RapportInscrit>   7,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DA CRUZ</NomPsn>
+                <PrenomPsn>José</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>49</NbVoix>
+                <RapportExprime>   0,28</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LIME</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>1510</NbVoix>
+                <RapportExprime>   8,73</RapportExprime>
+                <RapportInscrit>   4,08</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>DELCAMBRE</NomPsn>
+                <PrenomPsn>Fabrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>128</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>ACARD</NomPsn>
+                <PrenomPsn>Julien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>1406</NbVoix>
+                <RapportExprime>   8,13</RapportExprime>
+                <RapportInscrit>   3,80</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

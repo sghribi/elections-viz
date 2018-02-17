@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>29</CodDpt>
+    <CodMinDpt>29</CodMinDpt>
+    <CodDpt3Car>029</CodDpt3Car>
+    <LibDpt>Finistère</LibDpt>
+    <Commune>
+      <CodSubCom>084</CodSubCom>
+      <LibSubCom>Ile-Molène</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Ile-Molène - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>291</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>133</Nombre>
+              <RapportInscrit>  45,70</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>158</Nombre>
+              <RapportInscrit>  54,30</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,69</RapportInscrit>
+              <RapportVotant>   1,27</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,34</RapportInscrit>
+              <RapportVotant>   0,63</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>155</Nombre>
+              <RapportInscrit>  53,26</RapportInscrit>
+              <RapportVotant>  98,10</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DUPRAT</NomPsn>
+                <PrenomPsn>Loïc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REG</CodNua>
+                <LibNua>Régionaliste</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,65</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>PANAGET</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   8,39</RapportExprime>
+                <RapportInscrit>   4,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>THOMAS</NomPsn>
+                <PrenomPsn>Marie-Louise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>LE GAC</NomPsn>
+                <PrenomPsn>Didier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>74</NbVoix>
+                <RapportExprime>  47,74</RapportExprime>
+                <RapportInscrit>  25,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DE PARCEVAUX</NomPsn>
+                <PrenomPsn>Marie-Laure</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GUEGUEN</NomPsn>
+                <PrenomPsn>Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,65</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BLEUNVEN</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>27</NbVoix>
+                <RapportExprime>  17,42</RapportExprime>
+                <RapportInscrit>   9,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>APPERE</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,29</RapportExprime>
+                <RapportInscrit>   0,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>CAM</NomPsn>
+                <PrenomPsn>Jean-Paul</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,29</RapportExprime>
+                <RapportInscrit>   0,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>LEAL</NomPsn>
+                <PrenomPsn>Guy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>  12,26</RapportExprime>
+                <RapportInscrit>   6,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MOUCHOT</NomPsn>
+                <PrenomPsn>Marie-Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   7,10</RapportExprime>
+                <RapportInscrit>   3,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>MORIN</NomPsn>
+                <PrenomPsn>Romain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   1,94</RapportExprime>
+                <RapportInscrit>   1,03</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>ALMERAS</NomPsn>
+                <PrenomPsn>Fabrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,29</RapportExprime>
+                <RapportInscrit>   0,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>14</NumPanneauCand>
+                <NomPsn>MERLIN</NomPsn>
+                <PrenomPsn>Fabrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

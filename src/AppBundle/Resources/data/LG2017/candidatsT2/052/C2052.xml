@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>52</CodDpt>
+    <CodMinDpt>52</CodMinDpt>
+    <CodDpt3Car>052</CodDpt3Car>
+    <LibDpt>Haute-Marne</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>GUENÉ</NomPsn>
+            <PrenomPsn>Adrien</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>5</NumPanneauCand>
+            <NomPsn>ABBA</NomPsn>
+            <PrenomPsn>Bérangère</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>2</NumPanneauCand>
+            <NomPsn>FABRE</NomPsn>
+            <PrenomPsn>Frédéric</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>FN</CodNua>
+            <LibNua>Front National</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>5</NumPanneauCand>
+            <NomPsn>CORNUT-GENTILLE</NomPsn>
+            <PrenomPsn>François</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

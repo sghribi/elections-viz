@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>38</CodDpt>
+    <CodMinDpt>38</CodMinDpt>
+    <CodDpt3Car>038</CodDpt3Car>
+    <LibDpt>Isère</LibDpt>
+    <Commune>
+      <CodSubCom>026</CodSubCom>
+      <LibSubCom>La Balme-les-Grottes</LibSubCom>
+      <CodCirLg>06</CodCirLg>
+      <LibFraSubCom>La Balme-les-Grottes - 6ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>688</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>363</Nombre>
+              <RapportInscrit>  52,76</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>325</Nombre>
+              <RapportInscrit>  47,24</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,29</RapportInscrit>
+              <RapportVotant>   0,62</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>323</Nombre>
+              <RapportInscrit>  46,95</RapportInscrit>
+              <RapportVotant>  99,38</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>SADESKI</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,31</RapportExprime>
+                <RapportInscrit>   0,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>WEBER</NomPsn>
+                <PrenomPsn>Jean-Baptiste</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,62</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BOLLEAU</NomPsn>
+                <PrenomPsn>Alexandre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   3,41</RapportExprime>
+                <RapportInscrit>   1,60</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VIALLON</NomPsn>
+                <PrenomPsn>Cécile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   2,48</RapportExprime>
+                <RapportInscrit>   1,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GOMEZ</NomPsn>
+                <PrenomPsn>Denise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,93</RapportExprime>
+                <RapportInscrit>   0,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DÉZEMPTE</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>84</NbVoix>
+                <RapportExprime>  26,01</RapportExprime>
+                <RapportInscrit>  12,21</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MOYNE-BRESSAND</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>58</NbVoix>
+                <RapportExprime>  17,96</RapportExprime>
+                <RapportInscrit>   8,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MOTIN</NomPsn>
+                <PrenomPsn>Cendra</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>106</NbVoix>
+                <RapportExprime>  32,82</RapportExprime>
+                <RapportInscrit>  15,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>AYDIN</NomPsn>
+                <PrenomPsn>Michael</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>  11,76</RapportExprime>
+                <RapportInscrit>   5,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PENAVAIRE</NomPsn>
+                <PrenomPsn>Frédérique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,93</RapportExprime>
+                <RapportInscrit>   0,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LIENARD</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   2,79</RapportExprime>
+                <RapportInscrit>   1,31</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>688</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>397</Nombre>
+              <RapportInscrit>  57,70</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>291</Nombre>
+              <RapportInscrit>  42,30</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   0,87</RapportInscrit>
+              <RapportVotant>   2,06</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   0,87</RapportInscrit>
+              <RapportVotant>   2,06</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>279</Nombre>
+              <RapportInscrit>  40,55</RapportInscrit>
+              <RapportVotant>  95,88</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DÉZEMPTE</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>139</NbVoix>
+                <RapportExprime>  49,82</RapportExprime>
+                <RapportInscrit>  20,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MOTIN</NomPsn>
+                <PrenomPsn>Cendra</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>140</NbVoix>
+                <RapportExprime>  50,18</RapportExprime>
+                <RapportInscrit>  20,35</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

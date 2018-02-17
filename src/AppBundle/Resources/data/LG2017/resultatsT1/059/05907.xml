@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>59</CodDpt>
+    <CodMinDpt>59</CodMinDpt>
+    <CodDpt3Car>059</CodDpt3Car>
+    <LibDpt>Nord</LibDpt>
+    <Circonscription>
+      <CodCirLg>07</CodCirLg>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>72443</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>39528</Nombre>
+              <RapportInscrit>  54,56</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>32915</Nombre>
+              <RapportInscrit>  45,44</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>400</Nombre>
+              <RapportInscrit>   0,55</RapportInscrit>
+              <RapportVotant>   1,22</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>166</Nombre>
+              <RapportInscrit>   0,23</RapportInscrit>
+              <RapportVotant>   0,50</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>32349</Nombre>
+              <RapportInscrit>  44,65</RapportInscrit>
+              <RapportVotant>  98,28</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DEQUIDT</NomPsn>
+                <PrenomPsn>Jonathan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>240</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>VERCAMER</NomPsn>
+                <PrenomPsn>Francis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>8269</NbVoix>
+                <RapportExprime>  25,56</RapportExprime>
+                <RapportInscrit>  11,41</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CHOUYA</NomPsn>
+                <PrenomPsn>Abdelkader</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>285</NbVoix>
+                <RapportExprime>   0,88</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MERLEVEDE</NomPsn>
+                <PrenomPsn>Yann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>4792</NbVoix>
+                <RapportExprime>  14,81</RapportExprime>
+                <RapportInscrit>   6,61</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>COOLZAET</NomPsn>
+                <PrenomPsn>Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>4761</NbVoix>
+                <RapportExprime>  14,72</RapportExprime>
+                <RapportInscrit>   6,57</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>VERSPIEREN</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>11226</NbVoix>
+                <RapportExprime>  34,70</RapportExprime>
+                <RapportInscrit>  15,50</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TOILLON</NomPsn>
+                <PrenomPsn>Renée</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>285</NbVoix>
+                <RapportExprime>   0,88</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>VIARD</NomPsn>
+                <PrenomPsn>Hélène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>1220</NbVoix>
+                <RapportExprime>   3,77</RapportExprime>
+                <RapportInscrit>   1,68</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SGARD</NomPsn>
+                <PrenomPsn>Marlène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>193</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CHOUIA</NomPsn>
+                <PrenomPsn>Karima</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>1078</NbVoix>
+                <RapportExprime>   3,33</RapportExprime>
+                <RapportInscrit>   1,49</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Circonscription>
+  </Departement>
+</Election>

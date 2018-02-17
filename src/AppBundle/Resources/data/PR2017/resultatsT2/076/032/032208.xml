@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Présidentielle</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodReg>76</CodReg>
+    <CodReg3Car>076</CodReg3Car>
+    <LibReg>Occitanie</LibReg>
+    <CodDpt>32</CodDpt>
+    <CodMinDpt>32</CodMinDpt>
+    <CodDpt3Car>032</CodDpt3Car>
+    <LibDpt>Gers</LibDpt>
+    <Commune>
+      <CodSubCom>208</CodSubCom>
+      <LibSubCom>Lectoure</LibSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2748</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>461</Nombre>
+              <RapportInscrit>  16,78</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2287</Nombre>
+              <RapportInscrit>  83,22</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>35</Nombre>
+              <RapportInscrit>   1,27</RapportInscrit>
+              <RapportVotant>   1,53</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>25</Nombre>
+              <RapportInscrit>   0,91</RapportInscrit>
+              <RapportVotant>   1,09</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2227</Nombre>
+              <RapportInscrit>  81,04</RapportInscrit>
+              <RapportVotant>  97,38</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DUPONT-AIGNAN</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>113</NbVoix>
+                <RapportExprime>   5,07</RapportExprime>
+                <RapportInscrit>   4,11</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LE PEN</NomPsn>
+                <PrenomPsn>Marine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <NbVoix>341</NbVoix>
+                <RapportExprime>  15,31</RapportExprime>
+                <RapportInscrit>  12,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MACRON</NomPsn>
+                <PrenomPsn>Emmanuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>562</NbVoix>
+                <RapportExprime>  25,24</RapportExprime>
+                <RapportInscrit>  20,45</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HAMON</NomPsn>
+                <PrenomPsn>Benoît</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>181</NbVoix>
+                <RapportExprime>   8,13</RapportExprime>
+                <RapportInscrit>   6,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ARTHAUD</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   0,72</RapportExprime>
+                <RapportInscrit>   0,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>POUTOU</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>25</NbVoix>
+                <RapportExprime>   1,12</RapportExprime>
+                <RapportInscrit>   0,91</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CHEMINADE</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,18</RapportExprime>
+                <RapportInscrit>   0,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LASSALLE</NomPsn>
+                <PrenomPsn>Jean</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>80</NbVoix>
+                <RapportExprime>   3,59</RapportExprime>
+                <RapportInscrit>   2,91</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MÉLENCHON</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>367</NbVoix>
+                <RapportExprime>  16,48</RapportExprime>
+                <RapportInscrit>  13,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>ASSELINEAU</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>28</NbVoix>
+                <RapportExprime>   1,26</RapportExprime>
+                <RapportInscrit>   1,02</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>FILLON</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>510</NbVoix>
+                <RapportExprime>  22,90</RapportExprime>
+                <RapportInscrit>  18,56</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2748</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>567</Nombre>
+              <RapportInscrit>  20,63</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2181</Nombre>
+              <RapportInscrit>  79,37</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>205</Nombre>
+              <RapportInscrit>   7,46</RapportInscrit>
+              <RapportVotant>   9,40</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>97</Nombre>
+              <RapportInscrit>   3,53</RapportInscrit>
+              <RapportVotant>   4,45</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1879</Nombre>
+              <RapportInscrit>  68,38</RapportInscrit>
+              <RapportVotant>  86,15</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MACRON</NomPsn>
+                <PrenomPsn>Emmanuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <NbVoix>1294</NbVoix>
+                <RapportExprime>  68,87</RapportExprime>
+                <RapportInscrit>  47,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LE PEN</NomPsn>
+                <PrenomPsn>Marine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <NbVoix>585</NbVoix>
+                <RapportExprime>  31,13</RapportExprime>
+                <RapportInscrit>  21,29</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

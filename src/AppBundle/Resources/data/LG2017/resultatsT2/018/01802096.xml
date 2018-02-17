@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>18</CodDpt>
+    <CodMinDpt>18</CodMinDpt>
+    <CodDpt3Car>018</CodDpt3Car>
+    <LibDpt>Cher</LibDpt>
+    <Commune>
+      <CodSubCom>096</CodSubCom>
+      <LibSubCom>Foëcy</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Foëcy - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1524</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>738</Nombre>
+              <RapportInscrit>  48,43</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>786</Nombre>
+              <RapportInscrit>  51,57</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>20</Nombre>
+              <RapportInscrit>   1,31</RapportInscrit>
+              <RapportVotant>   2,54</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,20</RapportInscrit>
+              <RapportVotant>   0,38</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>763</Nombre>
+              <RapportInscrit>  50,07</RapportInscrit>
+              <RapportVotant>  97,07</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CARTON</NomPsn>
+                <PrenomPsn>Richard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   2,88</RapportExprime>
+                <RapportInscrit>   1,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BERTRAND</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>77</NbVoix>
+                <RapportExprime>  10,09</RapportExprime>
+                <RapportInscrit>   5,05</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SANSU</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>258</NbVoix>
+                <RapportExprime>  33,81</RapportExprime>
+                <RapportInscrit>  16,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PERRAGIN</NomPsn>
+                <PrenomPsn>Charly</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,52</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>PETIT</NomPsn>
+                <PrenomPsn>Marie-Thérèse</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>24</NbVoix>
+                <RapportExprime>   3,15</RapportExprime>
+                <RapportInscrit>   1,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>ROBIN</NomPsn>
+                <PrenomPsn>Régis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   1,18</RapportExprime>
+                <RapportInscrit>   0,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RAIMBAULT</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>132</NbVoix>
+                <RapportExprime>  17,30</RapportExprime>
+                <RapportInscrit>   8,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ESSAYAN</NomPsn>
+                <PrenomPsn>Nadia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>222</NbVoix>
+                <RapportExprime>  29,10</RapportExprime>
+                <RapportInscrit>  14,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SINSOULIER-BIGOT</NomPsn>
+                <PrenomPsn>Agnès</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   1,57</RapportExprime>
+                <RapportInscrit>   0,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>SICOT</NomPsn>
+                <PrenomPsn>Carole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,39</RapportExprime>
+                <RapportInscrit>   0,20</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1524</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>808</Nombre>
+              <RapportInscrit>  53,02</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>716</Nombre>
+              <RapportInscrit>  46,98</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>48</Nombre>
+              <RapportInscrit>   3,15</RapportInscrit>
+              <RapportVotant>   6,70</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>24</Nombre>
+              <RapportInscrit>   1,57</RapportInscrit>
+              <RapportVotant>   3,35</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>644</Nombre>
+              <RapportInscrit>  42,26</RapportInscrit>
+              <RapportVotant>  89,94</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SANSU</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>373</NbVoix>
+                <RapportExprime>  57,92</RapportExprime>
+                <RapportInscrit>  24,48</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ESSAYAN</NomPsn>
+                <PrenomPsn>Nadia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>271</NbVoix>
+                <RapportExprime>  42,08</RapportExprime>
+                <RapportInscrit>  17,78</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

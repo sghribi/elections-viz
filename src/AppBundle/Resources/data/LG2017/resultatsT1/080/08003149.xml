@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>80</CodDpt>
+    <CodMinDpt>80</CodMinDpt>
+    <CodDpt3Car>080</CodDpt3Car>
+    <LibDpt>Somme</LibDpt>
+    <Commune>
+      <CodSubCom>149</CodSubCom>
+      <LibSubCom>Buigny-Saint-Maclou</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Buigny-Saint-Maclou - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>431</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>162</Nombre>
+              <RapportInscrit>  37,59</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>269</Nombre>
+              <RapportInscrit>  62,41</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   1,16</RapportInscrit>
+              <RapportVotant>   1,86</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,23</RapportInscrit>
+              <RapportVotant>   0,37</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>263</Nombre>
+              <RapportInscrit>  61,02</RapportInscrit>
+              <RapportVotant>  97,77</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LENGELÉ</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,52</RapportExprime>
+                <RapportInscrit>   0,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BUISINE</NomPsn>
+                <PrenomPsn>Jean-Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   6,46</RapportExprime>
+                <RapportInscrit>   3,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MONGIN</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   1,14</RapportExprime>
+                <RapportInscrit>   0,70</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BRUSADELLI-DORION</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>  14,45</RapportExprime>
+                <RapportInscrit>   8,82</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>LOTTIN</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   2,28</RapportExprime>
+                <RapportInscrit>   1,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>CHASSOULIER</NomPsn>
+                <PrenomPsn>Rémy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,38</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PETIT</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   2,66</RapportExprime>
+                <RapportInscrit>   1,62</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CHAGNON</NomPsn>
+                <PrenomPsn>Patricia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>  21,29</RapportExprime>
+                <RapportInscrit>  12,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MAQUET</NomPsn>
+                <PrenomPsn>Emmanuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>60</NbVoix>
+                <RapportExprime>  22,81</RapportExprime>
+                <RapportInscrit>  13,92</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>LEDET</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,76</RapportExprime>
+                <RapportInscrit>   0,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>MARIAGE</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>69</NbVoix>
+                <RapportExprime>  26,24</RapportExprime>
+                <RapportInscrit>  16,01</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

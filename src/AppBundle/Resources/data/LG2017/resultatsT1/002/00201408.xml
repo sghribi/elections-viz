@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>02</CodDpt>
+    <CodMinDpt>02</CodMinDpt>
+    <CodDpt3Car>002</CodDpt3Car>
+    <LibDpt>Aisne</LibDpt>
+    <Commune>
+      <CodSubCom>408</CodSubCom>
+      <LibSubCom>Laon</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Laon - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>15348</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>8620</Nombre>
+              <RapportInscrit>  56,16</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>6728</Nombre>
+              <RapportInscrit>  43,84</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>68</Nombre>
+              <RapportInscrit>   0,44</RapportInscrit>
+              <RapportVotant>   1,01</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>23</Nombre>
+              <RapportInscrit>   0,15</RapportInscrit>
+              <RapportVotant>   0,34</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>6637</Nombre>
+              <RapportInscrit>  43,24</RapportInscrit>
+              <RapportVotant>  98,65</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>COULON</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>1003</NbVoix>
+                <RapportExprime>  15,11</RapportExprime>
+                <RapportInscrit>   6,54</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FOURNIÉ TURQUIN</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>383</NbVoix>
+                <RapportExprime>   5,77</RapportExprime>
+                <RapportInscrit>   2,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BONO-VANDORME</NomPsn>
+                <PrenomPsn>Aude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>2017</NbVoix>
+                <RapportExprime>  30,39</RapportExprime>
+                <RapportInscrit>  13,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PHILIPPOT</NomPsn>
+                <PrenomPsn>Damien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>1220</NbVoix>
+                <RapportExprime>  18,38</RapportExprime>
+                <RapportInscrit>   7,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>FERRAND</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>53</NbVoix>
+                <RapportExprime>   0,80</RapportExprime>
+                <RapportInscrit>   0,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BOULAY</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>60</NbVoix>
+                <RapportExprime>   0,90</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PERNELLE</NomPsn>
+                <PrenomPsn>Jean-Loup</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>81</NbVoix>
+                <RapportExprime>   1,22</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>KARIMET</NomPsn>
+                <PrenomPsn>Fawaz</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>1320</NbVoix>
+                <RapportExprime>  19,89</RapportExprime>
+                <RapportInscrit>   8,60</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>CHAMBLAY</NomPsn>
+                <PrenomPsn>Jean-Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>458</NbVoix>
+                <RapportExprime>   6,90</RapportExprime>
+                <RapportInscrit>   2,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>GOBLET</NomPsn>
+                <PrenomPsn>Antoine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>42</NbVoix>
+                <RapportExprime>   0,63</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

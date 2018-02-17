@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>80</CodDpt>
+    <CodMinDpt>80</CodMinDpt>
+    <CodDpt3Car>080</CodDpt3Car>
+    <LibDpt>Somme</LibDpt>
+    <Commune>
+      <CodSubCom>443</CodSubCom>
+      <LibSubCom>Hornoy-le-Bourg</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Hornoy-le-Bourg - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1271</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>555</Nombre>
+              <RapportInscrit>  43,67</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>716</Nombre>
+              <RapportInscrit>  56,33</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>23</Nombre>
+              <RapportInscrit>   1,81</RapportInscrit>
+              <RapportVotant>   3,21</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>4</Nombre>
+              <RapportInscrit>   0,31</RapportInscrit>
+              <RapportVotant>   0,56</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>689</Nombre>
+              <RapportInscrit>  54,21</RapportInscrit>
+              <RapportVotant>  96,23</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>WYBO</NomPsn>
+                <PrenomPsn>Patricia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   2,61</RapportExprime>
+                <RapportInscrit>   1,42</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FLAMENT</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LE CORRONC</NomPsn>
+                <PrenomPsn>Sabrina</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>DOMISE</NomPsn>
+                <PrenomPsn>Martin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>191</NbVoix>
+                <RapportExprime>  27,72</RapportExprime>
+                <RapportInscrit>  15,03</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>RICHERMOZ</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>142</NbVoix>
+                <RapportExprime>  20,61</RapportExprime>
+                <RapportInscrit>  11,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>HERTOUT</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>61</NbVoix>
+                <RapportExprime>   8,85</RapportExprime>
+                <RapportInscrit>   4,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>HEREN</NomPsn>
+                <PrenomPsn>Elodie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>27</NbVoix>
+                <RapportExprime>   3,92</RapportExprime>
+                <RapportInscrit>   2,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>HIVER</NomPsn>
+                <PrenomPsn>Christelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,16</RapportExprime>
+                <RapportInscrit>   0,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MAKOWSKI</NomPsn>
+                <PrenomPsn>Adam</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,16</RapportExprime>
+                <RapportInscrit>   0,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>LECLABART</NomPsn>
+                <PrenomPsn>Jean-Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>220</NbVoix>
+                <RapportExprime>  31,93</RapportExprime>
+                <RapportInscrit>  17,31</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

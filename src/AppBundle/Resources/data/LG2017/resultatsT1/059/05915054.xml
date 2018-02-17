@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>59</CodDpt>
+    <CodMinDpt>59</CodMinDpt>
+    <CodDpt3Car>059</CodDpt3Car>
+    <LibDpt>Nord</LibDpt>
+    <Commune>
+      <CodSubCom>054</CodSubCom>
+      <LibSubCom>Bavinchove</LibSubCom>
+      <CodCirLg>15</CodCirLg>
+      <LibFraSubCom>Bavinchove - 15ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>745</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>361</Nombre>
+              <RapportInscrit>  48,46</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>384</Nombre>
+              <RapportInscrit>  51,54</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,07</RapportInscrit>
+              <RapportVotant>   2,08</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,40</RapportInscrit>
+              <RapportVotant>   0,78</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>373</Nombre>
+              <RapportInscrit>  50,07</RapportInscrit>
+              <RapportVotant>  97,14</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>FACHE</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   2,68</RapportExprime>
+                <RapportInscrit>   1,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DE TEMMERMAN</NomPsn>
+                <PrenomPsn>Jennifer</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>119</NbVoix>
+                <RapportExprime>  31,90</RapportExprime>
+                <RapportInscrit>  15,97</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>POILLY</NomPsn>
+                <PrenomPsn>Clotilde</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,27</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>WALRAEVE</NomPsn>
+                <PrenomPsn>Hervé</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>46</NbVoix>
+                <RapportExprime>  12,33</RapportExprime>
+                <RapportInscrit>   6,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>LABITTE</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   3,49</RapportExprime>
+                <RapportInscrit>   1,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>FICHEUX</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   7,77</RapportExprime>
+                <RapportInscrit>   3,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PRINCE</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>85</NbVoix>
+                <RapportExprime>  22,79</RapportExprime>
+                <RapportInscrit>  11,41</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BATAILLE</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>61</NbVoix>
+                <RapportExprime>  16,35</RapportExprime>
+                <RapportInscrit>   8,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LECLAIRE</NomPsn>
+                <PrenomPsn>Gautier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,61</RapportExprime>
+                <RapportInscrit>   0,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>DUBOIS</NomPsn>
+                <PrenomPsn>Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,80</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

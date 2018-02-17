@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>33</CodDpt>
+    <CodMinDpt>33</CodMinDpt>
+    <CodDpt3Car>033</CodDpt3Car>
+    <LibDpt>Gironde</LibDpt>
+    <Commune>
+      <CodSubCom>397</CodSubCom>
+      <LibSubCom>Sainte-Eulalie</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Sainte-Eulalie - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3277</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1487</Nombre>
+              <RapportInscrit>  45,38</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1790</Nombre>
+              <RapportInscrit>  54,62</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   0,49</RapportInscrit>
+              <RapportVotant>   0,89</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   0,21</RapportInscrit>
+              <RapportVotant>   0,39</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1767</Nombre>
+              <RapportInscrit>  53,92</RapportInscrit>
+              <RapportVotant>  98,72</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DAVID</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>156</NbVoix>
+                <RapportExprime>   8,83</RapportExprime>
+                <RapportInscrit>   4,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BRIVARY</NomPsn>
+                <PrenomPsn>Anne-Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DESVALOIS</NomPsn>
+                <PrenomPsn>Laure</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>47</NbVoix>
+                <RapportExprime>   2,66</RapportExprime>
+                <RapportInscrit>   1,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HOSTIER</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,57</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>GILLES</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,11</RapportExprime>
+                <RapportInscrit>   0,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>HADON</NomPsn>
+                <PrenomPsn>Serge</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>193</NbVoix>
+                <RapportExprime>  10,92</RapportExprime>
+                <RapportInscrit>   5,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BAL</NomPsn>
+                <PrenomPsn>Berivan</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>27</NbVoix>
+                <RapportExprime>   1,53</RapportExprime>
+                <RapportInscrit>   0,82</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BESSON</NomPsn>
+                <PrenomPsn>Maud</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>190</NbVoix>
+                <RapportExprime>  10,75</RapportExprime>
+                <RapportInscrit>   5,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>S&apos;KALLI-BOUAZIZA</NomPsn>
+                <PrenomPsn>Aziz</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>393</NbVoix>
+                <RapportExprime>  22,24</RapportExprime>
+                <RapportInscrit>  11,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>HÉRAUD</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,23</RapportExprime>
+                <RapportInscrit>   0,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DAUMAND</NomPsn>
+                <PrenomPsn>Daphné</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>LAPORTE</NomPsn>
+                <PrenomPsn>Hubert</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>714</NbVoix>
+                <RapportExprime>  40,41</RapportExprime>
+                <RapportInscrit>  21,79</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3277</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1990</Nombre>
+              <RapportInscrit>  60,73</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1287</Nombre>
+              <RapportInscrit>  39,27</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>146</Nombre>
+              <RapportInscrit>   4,46</RapportInscrit>
+              <RapportVotant>  11,34</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>74</Nombre>
+              <RapportInscrit>   2,26</RapportInscrit>
+              <RapportVotant>   5,75</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1067</Nombre>
+              <RapportInscrit>  32,56</RapportInscrit>
+              <RapportVotant>  82,91</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DAVID</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>507</NbVoix>
+                <RapportExprime>  47,52</RapportExprime>
+                <RapportInscrit>  15,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>S&apos;KALLI-BOUAZIZA</NomPsn>
+                <PrenomPsn>Aziz</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>560</NbVoix>
+                <RapportExprime>  52,48</RapportExprime>
+                <RapportInscrit>  17,09</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

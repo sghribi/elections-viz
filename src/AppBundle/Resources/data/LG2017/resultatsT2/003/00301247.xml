@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>03</CodDpt>
+    <CodMinDpt>03</CodMinDpt>
+    <CodDpt3Car>003</CodDpt3Car>
+    <LibDpt>Allier</LibDpt>
+    <Commune>
+      <CodSubCom>247</CodSubCom>
+      <LibSubCom>Saint-Menoux</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Saint-Menoux - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>789</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>271</Nombre>
+              <RapportInscrit>  34,35</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>518</Nombre>
+              <RapportInscrit>  65,65</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>9</Nombre>
+              <RapportInscrit>   1,14</RapportInscrit>
+              <RapportVotant>   1,74</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,63</RapportInscrit>
+              <RapportVotant>   0,97</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>504</Nombre>
+              <RapportInscrit>  63,88</RapportInscrit>
+              <RapportVotant>  97,30</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>POINAMBALOM</NomPsn>
+                <PrenomPsn>Luderce</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   2,78</RapportExprime>
+                <RapportInscrit>   1,77</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>AMATO</NomPsn>
+                <PrenomPsn>Albino</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   1,98</RapportExprime>
+                <RapportInscrit>   1,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DOMECK</NomPsn>
+                <PrenomPsn>Hasna</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PÉRISSOL</NomPsn>
+                <PrenomPsn>Pierre-André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>32</NbVoix>
+                <RapportExprime>   6,35</RapportExprime>
+                <RapportInscrit>   4,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>MALLOT</NomPsn>
+                <PrenomPsn>Jean</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MOTTET</NomPsn>
+                <PrenomPsn>Fabienne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,79</RapportExprime>
+                <RapportInscrit>   0,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RIVIERE</NomPsn>
+                <PrenomPsn>Pauline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>61</NbVoix>
+                <RapportExprime>  12,10</RapportExprime>
+                <RapportInscrit>   7,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>COLLOT</NomPsn>
+                <PrenomPsn>Jean-Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ALEXANDRE</NomPsn>
+                <PrenomPsn>Magali</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   3,17</RapportExprime>
+                <RapportInscrit>   2,03</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CIUCH</NomPsn>
+                <PrenomPsn>Michèle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   4,37</RapportExprime>
+                <RapportInscrit>   2,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DUFRÈGNE</NomPsn>
+                <PrenomPsn>Jean-Paul</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>339</NbVoix>
+                <RapportExprime>  67,26</RapportExprime>
+                <RapportInscrit>  42,97</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>BLACHE</NomPsn>
+                <PrenomPsn>Corentin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,20</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>789</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>228</Nombre>
+              <RapportInscrit>  28,90</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>561</Nombre>
+              <RapportInscrit>  71,10</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>21</Nombre>
+              <RapportInscrit>   2,66</RapportInscrit>
+              <RapportVotant>   3,74</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   1,52</RapportInscrit>
+              <RapportVotant>   2,14</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>528</Nombre>
+              <RapportInscrit>  66,92</RapportInscrit>
+              <RapportVotant>  94,12</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RIVIERE</NomPsn>
+                <PrenomPsn>Pauline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>77</NbVoix>
+                <RapportExprime>  14,58</RapportExprime>
+                <RapportInscrit>   9,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DUFRÈGNE</NomPsn>
+                <PrenomPsn>Jean-Paul</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>451</NbVoix>
+                <RapportExprime>  85,42</RapportExprime>
+                <RapportInscrit>  57,16</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

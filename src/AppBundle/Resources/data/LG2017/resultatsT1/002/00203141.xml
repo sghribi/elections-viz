@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>02</CodDpt>
+    <CodMinDpt>02</CodMinDpt>
+    <CodDpt3Car>002</CodDpt3Car>
+    <LibDpt>Aisne</LibDpt>
+    <Commune>
+      <CodSubCom>141</CodSubCom>
+      <LibSubCom>La Capelle</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>La Capelle - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1283</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>748</Nombre>
+              <RapportInscrit>  58,30</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>535</Nombre>
+              <RapportInscrit>  41,70</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   1,25</RapportInscrit>
+              <RapportVotant>   2,99</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,23</RapportInscrit>
+              <RapportVotant>   0,56</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>516</Nombre>
+              <RapportInscrit>  40,22</RapportInscrit>
+              <RapportVotant>  96,45</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MORTET</NomPsn>
+                <PrenomPsn>Alexandra</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>42</NbVoix>
+                <RapportExprime>   8,14</RapportExprime>
+                <RapportInscrit>   3,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>PARENT</NomPsn>
+                <PrenomPsn>Christophe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   2,13</RapportExprime>
+                <RapportInscrit>   0,86</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BRICOUT</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>111</NbVoix>
+                <RapportExprime>  21,51</RapportExprime>
+                <RapportInscrit>   8,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HUSILLOS-CRESPO</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>75</NbVoix>
+                <RapportExprime>  14,53</RapportExprime>
+                <RapportInscrit>   5,85</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>THÉRY-HERMAIN</NomPsn>
+                <PrenomPsn>Clémence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,39</RapportExprime>
+                <RapportInscrit>   0,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>TORRE</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>   3,88</RapportExprime>
+                <RapportInscrit>   1,56</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>VOISIN</NomPsn>
+                <PrenomPsn>Laetitia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,97</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>GALL</NomPsn>
+                <PrenomPsn>Aurélien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>MARLOT</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>116</NbVoix>
+                <RapportExprime>  22,48</RapportExprime>
+                <RapportInscrit>   9,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>HANSEN-CATTA</NomPsn>
+                <PrenomPsn>Paul-Henry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>130</NbVoix>
+                <RapportExprime>  25,19</RapportExprime>
+                <RapportInscrit>  10,13</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

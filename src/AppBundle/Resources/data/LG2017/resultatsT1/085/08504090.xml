@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>85</CodDpt>
+    <CodMinDpt>85</CodMinDpt>
+    <CodDpt3Car>085</CodDpt3Car>
+    <LibDpt>Vendée</LibDpt>
+    <Commune>
+      <CodSubCom>090</CodSubCom>
+      <LibSubCom>Sèvremont</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Sèvremont - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4601</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2275</Nombre>
+              <RapportInscrit>  49,45</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2326</Nombre>
+              <RapportInscrit>  50,55</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>47</Nombre>
+              <RapportInscrit>   1,02</RapportInscrit>
+              <RapportVotant>   2,02</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   0,37</RapportInscrit>
+              <RapportVotant>   0,73</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2262</Nombre>
+              <RapportInscrit>  49,16</RapportInscrit>
+              <RapportVotant>  97,25</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LEGUILLE-BALLOY</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1044</NbVoix>
+                <RapportExprime>  46,15</RapportExprime>
+                <RapportInscrit>  22,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>LAVERGNE</NomPsn>
+                <PrenomPsn>Anita</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>160</NbVoix>
+                <RapportExprime>   7,07</RapportExprime>
+                <RapportInscrit>   3,48</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>PERRIER</NomPsn>
+                <PrenomPsn>Tiphaine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   0,97</RapportExprime>
+                <RapportInscrit>   0,48</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>GOICHON</NomPsn>
+                <PrenomPsn>Claudine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>76</NbVoix>
+                <RapportExprime>   3,36</RapportExprime>
+                <RapportInscrit>   1,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>MICHENAUD</NomPsn>
+                <PrenomPsn>Marie-Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>45</NbVoix>
+                <RapportExprime>   1,99</RapportExprime>
+                <RapportInscrit>   0,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>MONTASSIER</NomPsn>
+                <PrenomPsn>Wilfrid</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>689</NbVoix>
+                <RapportExprime>  30,46</RapportExprime>
+                <RapportInscrit>  14,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOUR</NomPsn>
+                <PrenomPsn>Claude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   0,66</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ROUILLIER</NomPsn>
+                <PrenomPsn>Caroline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>24</NbVoix>
+                <RapportExprime>   1,06</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>VICENTÉ</NomPsn>
+                <PrenomPsn>Denise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>187</NbVoix>
+                <RapportExprime>   8,27</RapportExprime>
+                <RapportInscrit>   4,06</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

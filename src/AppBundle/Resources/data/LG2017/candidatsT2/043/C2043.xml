@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>43</CodDpt>
+    <CodMinDpt>43</CodMinDpt>
+    <CodDpt3Car>043</CodDpt3Car>
+    <LibDpt>Haute-Loire</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>GALLIEN</NomPsn>
+            <PrenomPsn>Cécile</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>9</NumPanneauCand>
+            <NomPsn>VALENTIN</NomPsn>
+            <PrenomPsn>Isabelle</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>VIGIER</NomPsn>
+            <PrenomPsn>Jean-Pierre</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>9</NumPanneauCand>
+            <NomPsn>ETEOCLE</NomPsn>
+            <PrenomPsn>Pierre</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

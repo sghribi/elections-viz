@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>76</CodDpt>
+    <CodMinDpt>76</CodMinDpt>
+    <CodDpt3Car>076</CodDpt3Car>
+    <LibDpt>Seine-Maritime</LibDpt>
+    <Circonscription>
+      <CodCirLg>06</CodCirLg>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>109582</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>51726</Nombre>
+              <RapportInscrit>  47,20</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>57856</Nombre>
+              <RapportInscrit>  52,80</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>1020</Nombre>
+              <RapportInscrit>   0,93</RapportInscrit>
+              <RapportVotant>   1,76</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>279</Nombre>
+              <RapportInscrit>   0,25</RapportInscrit>
+              <RapportVotant>   0,48</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>56557</Nombre>
+              <RapportInscrit>  51,61</RapportInscrit>
+              <RapportVotant>  97,75</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MOISAN</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>676</NbVoix>
+                <RapportExprime>   1,20</RapportExprime>
+                <RapportInscrit>   0,62</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>GROUT</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>509</NbVoix>
+                <RapportExprime>   0,90</RapportExprime>
+                <RapportInscrit>   0,46</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CORDIN</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>418</NbVoix>
+                <RapportExprime>   0,74</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>LE VERN</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>5407</NbVoix>
+                <RapportExprime>   9,56</RapportExprime>
+                <RapportInscrit>   4,93</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DUFOUR</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>15197</NbVoix>
+                <RapportExprime>  26,87</RapportExprime>
+                <RapportInscrit>  13,87</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BAY</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>12886</NbVoix>
+                <RapportExprime>  22,78</RapportExprime>
+                <RapportInscrit>  11,76</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>JUMEL</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>12906</NbVoix>
+                <RapportExprime>  22,82</RapportExprime>
+                <RapportInscrit>  11,78</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LEFEBVRE</NomPsn>
+                <PrenomPsn>Blandine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>8558</NbVoix>
+                <RapportExprime>  15,13</RapportExprime>
+                <RapportInscrit>   7,81</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Circonscription>
+  </Departement>
+</Election>

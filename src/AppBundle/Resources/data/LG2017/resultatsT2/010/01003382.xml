@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>10</CodDpt>
+    <CodMinDpt>10</CodMinDpt>
+    <CodDpt3Car>010</CodDpt3Car>
+    <LibDpt>Aube</LibDpt>
+    <Commune>
+      <CodSubCom>382</CodSubCom>
+      <LibSubCom>Traînel</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Traînel - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>700</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>353</Nombre>
+              <RapportInscrit>  50,43</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>347</Nombre>
+              <RapportInscrit>  49,57</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,71</RapportInscrit>
+              <RapportVotant>   1,44</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,14</RapportInscrit>
+              <RapportVotant>   0,29</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>341</Nombre>
+              <RapportInscrit>  48,71</RapportInscrit>
+              <RapportVotant>  98,27</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>PACOT</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,29</RapportExprime>
+                <RapportInscrit>   0,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>RANC</NomPsn>
+                <PrenomPsn>Angélique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>106</NbVoix>
+                <RapportExprime>  31,09</RapportExprime>
+                <RapportInscrit>  15,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BOUTEILLER</NomPsn>
+                <PrenomPsn>Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   8,50</RapportExprime>
+                <RapportInscrit>   4,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MENUEL</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>84</NbVoix>
+                <RapportExprime>  24,63</RapportExprime>
+                <RapportInscrit>  12,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DEHARBE</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,29</RapportExprime>
+                <RapportInscrit>   0,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>STOCCO</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>COLLOT-TOUZÉ</NomPsn>
+                <PrenomPsn>Nelly</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,88</RapportExprime>
+                <RapportInscrit>   0,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ANDRIEUX</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,59</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>CARTE</NomPsn>
+                <PrenomPsn>Chrystel</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BLANCHON</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LANDRÉAT</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>103</NbVoix>
+                <RapportExprime>  30,21</RapportExprime>
+                <RapportInscrit>  14,71</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>700</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>431</Nombre>
+              <RapportInscrit>  61,57</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>269</Nombre>
+              <RapportInscrit>  38,43</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>19</Nombre>
+              <RapportInscrit>   2,71</RapportInscrit>
+              <RapportVotant>   7,06</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,14</RapportInscrit>
+              <RapportVotant>   2,97</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>242</Nombre>
+              <RapportInscrit>  34,57</RapportInscrit>
+              <RapportVotant>  89,96</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MENUEL</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>148</NbVoix>
+                <RapportExprime>  61,16</RapportExprime>
+                <RapportInscrit>  21,14</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LANDRÉAT</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>94</NbVoix>
+                <RapportExprime>  38,84</RapportExprime>
+                <RapportInscrit>  13,43</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

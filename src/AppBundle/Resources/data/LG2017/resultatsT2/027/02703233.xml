@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>27</CodDpt>
+    <CodMinDpt>27</CodMinDpt>
+    <CodDpt3Car>027</CodDpt3Car>
+    <LibDpt>Eure</LibDpt>
+    <Commune>
+      <CodSubCom>233</CodSubCom>
+      <LibSubCom>Fatouville-Grestain</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Fatouville-Grestain - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>604</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>279</Nombre>
+              <RapportInscrit>  46,19</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>325</Nombre>
+              <RapportInscrit>  53,81</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>7</Nombre>
+              <RapportInscrit>   1,16</RapportInscrit>
+              <RapportVotant>   2,15</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>318</Nombre>
+              <RapportInscrit>  52,65</RapportInscrit>
+              <RapportVotant>  97,85</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>NORMAND</NomPsn>
+                <PrenomPsn>Mathieu</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,94</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>HAKI</NomPsn>
+                <PrenomPsn>Marie-Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,89</RapportExprime>
+                <RapportInscrit>   0,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>AMANIEU</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,63</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HOUSSIN</NomPsn>
+                <PrenomPsn>Timothée</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>83</NbVoix>
+                <RapportExprime>  26,10</RapportExprime>
+                <RapportInscrit>  13,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BIBET</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>53</NbVoix>
+                <RapportExprime>  16,67</RapportExprime>
+                <RapportInscrit>   8,77</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>RÉGENTÊTE</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   2,52</RapportExprime>
+                <RapportInscrit>   1,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TAMARELLE-VERHAEGHE</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>92</NbVoix>
+                <RapportExprime>  28,93</RapportExprime>
+                <RapportInscrit>  15,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>BALLEYDIER</NomPsn>
+                <PrenomPsn>Claudette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,94</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LAVERGNE</NomPsn>
+                <PrenomPsn>Gwenhaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>48</NbVoix>
+                <RapportExprime>  15,09</RapportExprime>
+                <RapportInscrit>   7,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PALACIOS</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,31</RapportExprime>
+                <RapportInscrit>   0,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DUONG</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>   5,97</RapportExprime>
+                <RapportInscrit>   3,15</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>604</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>336</Nombre>
+              <RapportInscrit>  55,63</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>268</Nombre>
+              <RapportInscrit>  44,37</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   2,81</RapportInscrit>
+              <RapportVotant>   6,34</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,32</RapportInscrit>
+              <RapportVotant>   2,99</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>243</Nombre>
+              <RapportInscrit>  40,23</RapportInscrit>
+              <RapportVotant>  90,67</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HOUSSIN</NomPsn>
+                <PrenomPsn>Timothée</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>123</NbVoix>
+                <RapportExprime>  50,62</RapportExprime>
+                <RapportInscrit>  20,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TAMARELLE-VERHAEGHE</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>120</NbVoix>
+                <RapportExprime>  49,38</RapportExprime>
+                <RapportInscrit>  19,87</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

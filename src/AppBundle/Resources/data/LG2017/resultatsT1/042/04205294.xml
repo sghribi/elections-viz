@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>42</CodDpt>
+    <CodMinDpt>42</CodMinDpt>
+    <CodDpt3Car>042</CodDpt3Car>
+    <LibDpt>Loire</LibDpt>
+    <Commune>
+      <CodSubCom>294</CodSubCom>
+      <LibSubCom>Saint-Vincent-de-Boisset</LibSubCom>
+      <CodCirLg>05</CodCirLg>
+      <LibFraSubCom>Saint-Vincent-de-Boisset - 5ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>780</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>339</Nombre>
+              <RapportInscrit>  43,46</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>441</Nombre>
+              <RapportInscrit>  56,54</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,64</RapportInscrit>
+              <RapportVotant>   1,13</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,13</RapportInscrit>
+              <RapportVotant>   0,23</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>435</Nombre>
+              <RapportInscrit>  55,77</RapportInscrit>
+              <RapportVotant>  98,64</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DUMOULIN</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   3,91</RapportExprime>
+                <RapportInscrit>   2,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>ROCHE</NomPsn>
+                <PrenomPsn>Édith</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,23</RapportExprime>
+                <RapportInscrit>   0,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BROSSET</NomPsn>
+                <PrenomPsn>Sarah</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>60</NbVoix>
+                <RapportExprime>  13,79</RapportExprime>
+                <RapportInscrit>   7,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MAURICE</NomPsn>
+                <PrenomPsn>Karine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,84</RapportExprime>
+                <RapportInscrit>   1,03</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>VALENTIN</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   2,99</RapportExprime>
+                <RapportInscrit>   1,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>ROUSSEL</NomPsn>
+                <PrenomPsn>Colette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,92</RapportExprime>
+                <RapportInscrit>   0,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>SARLES</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>184</NbVoix>
+                <RapportExprime>  42,30</RapportExprime>
+                <RapportInscrit>  23,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ROBIN</NomPsn>
+                <PrenomPsn>Clotilde</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>110</NbVoix>
+                <RapportExprime>  25,29</RapportExprime>
+                <RapportInscrit>  14,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>THOMAS</NomPsn>
+                <PrenomPsn>Céline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,46</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>VILLEMAGNE</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,69</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>FIQUEMO</NomPsn>
+                <PrenomPsn>Brice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,92</RapportExprime>
+                <RapportInscrit>   0,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>RAKOSE-TRUCHET</NomPsn>
+                <PrenomPsn>Véronique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   6,67</RapportExprime>
+                <RapportInscrit>   3,72</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

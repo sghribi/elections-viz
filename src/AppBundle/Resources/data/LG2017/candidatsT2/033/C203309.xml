@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>33</CodDpt>
+    <CodMinDpt>33</CodMinDpt>
+    <CodDpt3Car>033</CodDpt3Car>
+    <LibDpt>Gironde</LibDpt>
+    <Circonscription>
+      <CodCirLg>09</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>8</NumPanneauCand>
+          <NomPsn>SAVARY</NomPsn>
+          <PrenomPsn>Gilles</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>SOC</CodNua>
+          <LibNua>Parti socialiste</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>9</NumPanneauCand>
+          <NomPsn>METTE</NomPsn>
+          <PrenomPsn>Sophie</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>74</CodDpt>
+    <CodMinDpt>74</CodMinDpt>
+    <CodDpt3Car>074</CodDpt3Car>
+    <LibDpt>Haute-Savoie</LibDpt>
+    <Commune>
+      <CodSubCom>258</CodSubCom>
+      <LibSubCom>Samoëns</LibSubCom>
+      <CodCirLg>06</CodCirLg>
+      <LibFraSubCom>Samoëns - 6ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2120</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1001</Nombre>
+              <RapportInscrit>  47,22</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1119</Nombre>
+              <RapportInscrit>  52,78</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>22</Nombre>
+              <RapportInscrit>   1,04</RapportInscrit>
+              <RapportVotant>   1,97</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,38</RapportInscrit>
+              <RapportVotant>   0,71</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1089</Nombre>
+              <RapportInscrit>  51,37</RapportInscrit>
+              <RapportVotant>  97,32</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BIGUET</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REG</CodNua>
+                <LibNua>Régionaliste</LibNua>
+                <NbVoix>24</NbVoix>
+                <RapportExprime>   2,20</RapportExprime>
+                <RapportInscrit>   1,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>SARLIN</NomPsn>
+                <PrenomPsn>Amélie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>16</NbVoix>
+                <RapportExprime>   1,47</RapportExprime>
+                <RapportInscrit>   0,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DION</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>371</NbVoix>
+                <RapportExprime>  34,07</RapportExprime>
+                <RapportInscrit>  17,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BRIANCEAU</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>74</NbVoix>
+                <RapportExprime>   6,80</RapportExprime>
+                <RapportInscrit>   3,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CHAMPLY</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>   5,14</RapportExprime>
+                <RapportInscrit>   2,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DERRIEN</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,37</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>ROSEREN</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>403</NbVoix>
+                <RapportExprime>  37,01</RapportExprime>
+                <RapportInscrit>  19,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>HEDRICH</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>   1,84</RapportExprime>
+                <RapportInscrit>   0,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>AOUN</NomPsn>
+                <PrenomPsn>Karam</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>55</NbVoix>
+                <RapportExprime>   5,05</RapportExprime>
+                <RapportInscrit>   2,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>VENJEAN</NomPsn>
+                <PrenomPsn>Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>59</NbVoix>
+                <RapportExprime>   5,42</RapportExprime>
+                <RapportInscrit>   2,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DUCROT</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,64</RapportExprime>
+                <RapportInscrit>   0,33</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

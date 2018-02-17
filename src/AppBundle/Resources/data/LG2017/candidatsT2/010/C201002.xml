@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>10</CodDpt>
+    <CodMinDpt>10</CodMinDpt>
+    <CodDpt3Car>010</CodDpt3Car>
+    <LibDpt>Aube</LibDpt>
+    <Circonscription>
+      <CodCirLg>02</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>11</NumPanneauCand>
+          <NomPsn>BAZIN-MALGRAS</NomPsn>
+          <PrenomPsn>Valérie</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>HADDAD</NomPsn>
+          <PrenomPsn>Djamila</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

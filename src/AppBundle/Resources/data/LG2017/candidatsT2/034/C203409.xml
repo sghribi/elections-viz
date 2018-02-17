@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>34</CodDpt>
+    <CodMinDpt>34</CodMinDpt>
+    <CodDpt3Car>034</CodDpt3Car>
+    <LibDpt>Hérault</LibDpt>
+    <Circonscription>
+      <CodCirLg>09</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>2</NumPanneauCand>
+          <NomPsn>VOUZELLAUD</NomPsn>
+          <PrenomPsn>Guillaume</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FN</CodNua>
+          <LibNua>Front National</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>7</NumPanneauCand>
+          <NomPsn>VIGNAL</NomPsn>
+          <PrenomPsn>Patrick</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

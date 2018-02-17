@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>45</CodDpt>
+    <CodMinDpt>45</CodMinDpt>
+    <CodDpt3Car>045</CodDpt3Car>
+    <LibDpt>Loiret</LibDpt>
+    <Circonscription>
+      <CodCirLg>06</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>3</NumPanneauCand>
+          <NomPsn>RAMOS</NomPsn>
+          <PrenomPsn>Richard</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>4</NumPanneauCand>
+          <NomPsn>LECLERC</NomPsn>
+          <PrenomPsn>Alexandrine</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>UDI</CodNua>
+          <LibNua>Union des Démocrates et Indépendants</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

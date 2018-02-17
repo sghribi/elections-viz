@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>48</CodDpt>
+    <CodMinDpt>48</CodMinDpt>
+    <CodDpt3Car>048</CodDpt3Car>
+    <LibDpt>Lozère</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>4</NumPanneauCand>
+            <NomPsn>MOREL A L&apos;HUISSIER</NomPsn>
+            <PrenomPsn>Pierre</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>5</NumPanneauCand>
+            <NomPsn>PALOMBI</NomPsn>
+            <PrenomPsn>Francis</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>15</CodDpt>
+    <CodMinDpt>15</CodMinDpt>
+    <CodDpt3Car>015</CodDpt3Car>
+    <LibDpt>Cantal</LibDpt>
+    <Commune>
+      <CodSubCom>014</CodSubCom>
+      <LibSubCom>Aurillac</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Aurillac - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>17491</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>8195</Nombre>
+              <RapportInscrit>  46,85</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>9296</Nombre>
+              <RapportInscrit>  53,15</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>143</Nombre>
+              <RapportInscrit>   0,82</RapportInscrit>
+              <RapportVotant>   1,54</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>69</Nombre>
+              <RapportInscrit>   0,39</RapportInscrit>
+              <RapportVotant>   0,74</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>9084</Nombre>
+              <RapportInscrit>  51,94</RapportInscrit>
+              <RapportVotant>  97,72</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>DAUVILLIER</NomPsn>
+                <PrenomPsn>Rémy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>64</NbVoix>
+                <RapportExprime>   0,70</RapportExprime>
+                <RapportInscrit>   0,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BONHOURE</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>1089</NbVoix>
+                <RapportExprime>  11,99</RapportExprime>
+                <RapportInscrit>   6,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BARRIER</NomPsn>
+                <PrenomPsn>Jean-François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>265</NbVoix>
+                <RapportExprime>   2,92</RapportExprime>
+                <RapportInscrit>   1,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PAUTRAT</NomPsn>
+                <PrenomPsn>Grégory</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>52</NbVoix>
+                <RapportExprime>   0,57</RapportExprime>
+                <RapportInscrit>   0,30</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>FRÉCHOU</NomPsn>
+                <PrenomPsn>Stéphane</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>646</NbVoix>
+                <RapportExprime>   7,11</RapportExprime>
+                <RapportInscrit>   3,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>VERMANDE</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>261</NbVoix>
+                <RapportExprime>   2,87</RapportExprime>
+                <RapportInscrit>   1,49</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>NATHER</NomPsn>
+                <PrenomPsn>Marie-Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>554</NbVoix>
+                <RapportExprime>   6,10</RapportExprime>
+                <RapportInscrit>   3,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>FABRE</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>126</NbVoix>
+                <RapportExprime>   1,39</RapportExprime>
+                <RapportInscrit>   0,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DANEMANS</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>3575</NbVoix>
+                <RapportExprime>  39,35</RapportExprime>
+                <RapportInscrit>  20,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>DESCOEUR</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>2452</NbVoix>
+                <RapportExprime>  26,99</RapportExprime>
+                <RapportInscrit>  14,02</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

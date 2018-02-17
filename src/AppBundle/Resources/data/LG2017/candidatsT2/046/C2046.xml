@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>46</CodDpt>
+    <CodMinDpt>46</CodMinDpt>
+    <CodDpt3Car>046</CodDpt3Car>
+    <LibDpt>Lot</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>MAUREL</NomPsn>
+            <PrenomPsn>Sébastien</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>8</NumPanneauCand>
+            <NomPsn>PRADIÉ</NomPsn>
+            <PrenomPsn>Aurélien</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>10</NumPanneauCand>
+            <NomPsn>TIEGNA</NomPsn>
+            <PrenomPsn>Huguette</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>11</NumPanneauCand>
+            <NomPsn>LABARTHE</NomPsn>
+            <PrenomPsn>Vincent</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>SOC</CodNua>
+            <LibNua>Parti socialiste</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>75</CodDpt>
+    <CodMinDpt>75</CodMinDpt>
+    <CodDpt3Car>075</CodDpt3Car>
+    <LibDpt>Paris</LibDpt>
+    <Circonscription>
+      <CodCirLg>11</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>SZPINER</NomPsn>
+          <PrenomPsn>Francis</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>14</NumPanneauCand>
+          <NomPsn>DE SARNEZ</NomPsn>
+          <PrenomPsn>Marielle</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

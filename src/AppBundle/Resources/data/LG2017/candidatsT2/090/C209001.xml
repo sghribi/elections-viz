@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>90</CodDpt>
+    <CodMinDpt>90</CodMinDpt>
+    <CodDpt3Car>090</CodDpt3Car>
+    <LibDpt>Territoire de Belfort</LibDpt>
+    <Circonscription>
+      <CodCirLg>01</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>4</NumPanneauCand>
+          <NomPsn>GRUDLER</NomPsn>
+          <PrenomPsn>Christophe</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>6</NumPanneauCand>
+          <NomPsn>BOUCARD</NomPsn>
+          <PrenomPsn>Ian</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

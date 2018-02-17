@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>80</CodDpt>
+    <CodMinDpt>80</CodMinDpt>
+    <CodDpt3Car>080</CodDpt3Car>
+    <LibDpt>Somme</LibDpt>
+    <Commune>
+      <CodSubCom>410</CodSubCom>
+      <LibSubCom>Ham</LibSubCom>
+      <CodCirLg>05</CodCirLg>
+      <LibFraSubCom>Ham - 5ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3116</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1677</Nombre>
+              <RapportInscrit>  53,82</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1439</Nombre>
+              <RapportInscrit>  46,18</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>30</Nombre>
+              <RapportInscrit>   0,96</RapportInscrit>
+              <RapportVotant>   2,08</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>14</Nombre>
+              <RapportInscrit>   0,45</RapportInscrit>
+              <RapportVotant>   0,97</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1395</Nombre>
+              <RapportInscrit>  44,77</RapportInscrit>
+              <RapportVotant>  96,94</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>ROUSSEL</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>80</NbVoix>
+                <RapportExprime>   5,73</RapportExprime>
+                <RapportInscrit>   2,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>SPINELLI</NomPsn>
+                <PrenomPsn>Olivier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>166</NbVoix>
+                <RapportExprime>  11,90</RapportExprime>
+                <RapportInscrit>   5,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DEMILLY</NomPsn>
+                <PrenomPsn>Stéphane</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>656</NbVoix>
+                <RapportExprime>  47,03</RapportExprime>
+                <RapportInscrit>  21,05</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VINDEVOGEL</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>58</NbVoix>
+                <RapportExprime>   4,16</RapportExprime>
+                <RapportInscrit>   1,86</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>PERDU</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   1,29</RapportExprime>
+                <RapportInscrit>   0,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>SOROKINA-DOLLE</NomPsn>
+                <PrenomPsn>Olga</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   2,08</RapportExprime>
+                <RapportInscrit>   0,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MAKOWSKI</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,50</RapportExprime>
+                <RapportInscrit>   0,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>GRIMAUX</NomPsn>
+                <PrenomPsn>Loïc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>364</NbVoix>
+                <RapportExprime>  26,09</RapportExprime>
+                <RapportInscrit>  11,68</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LIÉVRARD</NomPsn>
+                <PrenomPsn>Régis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   1,22</RapportExprime>
+                <RapportInscrit>   0,55</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

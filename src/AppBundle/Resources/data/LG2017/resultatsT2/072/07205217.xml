@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>72</CodDpt>
+    <CodMinDpt>72</CodMinDpt>
+    <CodDpt3Car>072</CodDpt3Car>
+    <LibDpt>Sarthe</LibDpt>
+    <Commune>
+      <CodSubCom>217</CodSubCom>
+      <LibSubCom>Neuville-sur-Sarthe</LibSubCom>
+      <CodCirLg>05</CodCirLg>
+      <LibFraSubCom>Neuville-sur-Sarthe - 5ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1952</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>776</Nombre>
+              <RapportInscrit>  39,75</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1176</Nombre>
+              <RapportInscrit>  60,25</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   0,87</RapportInscrit>
+              <RapportVotant>   1,45</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,15</RapportInscrit>
+              <RapportVotant>   0,26</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1156</Nombre>
+              <RapportInscrit>  59,22</RapportInscrit>
+              <RapportVotant>  98,30</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>PETIT</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   1,04</RapportExprime>
+                <RapportInscrit>   0,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FOUQUET</NomPsn>
+                <PrenomPsn>Karine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,61</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>FABUREL</NomPsn>
+                <PrenomPsn>Luc-Marie</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>135</NbVoix>
+                <RapportExprime>  11,68</RapportExprime>
+                <RapportInscrit>   6,92</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>ROLLAND</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,61</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>COLIN</NomPsn>
+                <PrenomPsn>Willy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>403</NbVoix>
+                <RapportExprime>  34,86</RapportExprime>
+                <RapportInscrit>  20,65</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BRINGUY</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>43</NbVoix>
+                <RapportExprime>   3,72</RapportExprime>
+                <RapportInscrit>   2,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GRELIER</NomPsn>
+                <PrenomPsn>Jean-Carles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>397</NbVoix>
+                <RapportExprime>  34,34</RapportExprime>
+                <RapportInscrit>  20,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CADEAU</NomPsn>
+                <PrenomPsn>Samuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>36</NbVoix>
+                <RapportExprime>   3,11</RapportExprime>
+                <RapportInscrit>   1,84</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DUPIN</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,61</RapportExprime>
+                <RapportInscrit>   0,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BAYLE DE JESSÉ</NomPsn>
+                <PrenomPsn>Cécile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   1,21</RapportExprime>
+                <RapportInscrit>   0,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DE VILMAREST</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>80</NbVoix>
+                <RapportExprime>   6,92</RapportExprime>
+                <RapportInscrit>   4,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>HERVIEU</NomPsn>
+                <PrenomPsn>Antoine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,52</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>ARSENIO</NomPsn>
+                <PrenomPsn>Aurélie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,46</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1952</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>941</Nombre>
+              <RapportInscrit>  48,21</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1011</Nombre>
+              <RapportInscrit>  51,79</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>69</Nombre>
+              <RapportInscrit>   3,53</RapportInscrit>
+              <RapportVotant>   6,82</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   0,61</RapportInscrit>
+              <RapportVotant>   1,19</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>930</Nombre>
+              <RapportInscrit>  47,64</RapportInscrit>
+              <RapportVotant>  91,99</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>COLIN</NomPsn>
+                <PrenomPsn>Willy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>420</NbVoix>
+                <RapportExprime>  45,16</RapportExprime>
+                <RapportInscrit>  21,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GRELIER</NomPsn>
+                <PrenomPsn>Jean-Carles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>510</NbVoix>
+                <RapportExprime>  54,84</RapportExprime>
+                <RapportInscrit>  26,13</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

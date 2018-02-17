@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>77</CodDpt>
+    <CodMinDpt>77</CodMinDpt>
+    <CodDpt3Car>077</CodDpt3Car>
+    <LibDpt>Seine-et-Marne</LibDpt>
+    <Commune>
+      <CodSubCom>203</CodSubCom>
+      <LibSubCom>Germigny-l&apos;Evêque</LibSubCom>
+      <CodCirLg>06</CodCirLg>
+      <LibFraSubCom>Germigny-l&apos;Evêque - 6ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1072</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>506</Nombre>
+              <RapportInscrit>  47,20</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>566</Nombre>
+              <RapportInscrit>  52,80</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,75</RapportInscrit>
+              <RapportVotant>   1,41</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>558</Nombre>
+              <RapportInscrit>  52,05</RapportInscrit>
+              <RapportVotant>  98,59</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LECLERCQ</NomPsn>
+                <PrenomPsn>Séverine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   3,05</RapportExprime>
+                <RapportInscrit>   1,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>GASNIERE</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>RIEUPET</NomPsn>
+                <PrenomPsn>Annie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PARIGI</NomPsn>
+                <PrenomPsn>Jean-François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>135</NbVoix>
+                <RapportExprime>  24,19</RapportExprime>
+                <RapportInscrit>  12,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>SOUVERAIN</NomPsn>
+                <PrenomPsn>Martial</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   2,15</RapportExprime>
+                <RapportInscrit>   1,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>ROULLAUD</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>96</NbVoix>
+                <RapportExprime>  17,20</RapportExprime>
+                <RapportInscrit>   8,96</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MORELLE</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>32</NbVoix>
+                <RapportExprime>   5,73</RapportExprime>
+                <RapportInscrit>   2,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MARTIG-DECÈS</NomPsn>
+                <PrenomPsn>Laëtitia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>205</NbVoix>
+                <RapportExprime>  36,74</RapportExprime>
+                <RapportInscrit>  19,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>DELAGE</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>52</NbVoix>
+                <RapportExprime>   9,32</RapportExprime>
+                <RapportInscrit>   4,85</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>JOBELIN</NomPsn>
+                <PrenomPsn>Coralie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,54</RapportExprime>
+                <RapportInscrit>   0,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LEGENTIL</NomPsn>
+                <PrenomPsn>Jonathan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1072</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>586</Nombre>
+              <RapportInscrit>  54,66</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>486</Nombre>
+              <RapportInscrit>  45,34</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>34</Nombre>
+              <RapportInscrit>   3,17</RapportInscrit>
+              <RapportVotant>   7,00</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   1,49</RapportInscrit>
+              <RapportVotant>   3,29</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>436</Nombre>
+              <RapportInscrit>  40,67</RapportInscrit>
+              <RapportVotant>  89,71</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PARIGI</NomPsn>
+                <PrenomPsn>Jean-François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>212</NbVoix>
+                <RapportExprime>  48,62</RapportExprime>
+                <RapportInscrit>  19,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MARTIG-DECÈS</NomPsn>
+                <PrenomPsn>Laëtitia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>224</NbVoix>
+                <RapportExprime>  51,38</RapportExprime>
+                <RapportInscrit>  20,90</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

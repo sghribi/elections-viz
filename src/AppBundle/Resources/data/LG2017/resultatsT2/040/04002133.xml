@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>40</CodDpt>
+    <CodMinDpt>40</CodMinDpt>
+    <CodDpt3Car>040</CodDpt3Car>
+    <LibDpt>Landes</LibDpt>
+    <Commune>
+      <CodSubCom>133</CodSubCom>
+      <LibSubCom>Labenne</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Labenne - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4453</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2153</Nombre>
+              <RapportInscrit>  48,35</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2300</Nombre>
+              <RapportInscrit>  51,65</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>24</Nombre>
+              <RapportInscrit>   0,54</RapportInscrit>
+              <RapportVotant>   1,04</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>17</Nombre>
+              <RapportInscrit>   0,38</RapportInscrit>
+              <RapportVotant>   0,74</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2259</Nombre>
+              <RapportInscrit>  50,73</RapportInscrit>
+              <RapportVotant>  98,22</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LESPADE</NomPsn>
+                <PrenomPsn>Jean-Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>131</NbVoix>
+                <RapportExprime>   5,80</RapportExprime>
+                <RapportInscrit>   2,94</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>CAUSSE</NomPsn>
+                <PrenomPsn>Lionel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>962</NbVoix>
+                <RapportExprime>  42,59</RapportExprime>
+                <RapportInscrit>  21,60</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DELAVENNE</NomPsn>
+                <PrenomPsn>Marie-Ange</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>122</NbVoix>
+                <RapportExprime>   5,40</RapportExprime>
+                <RapportInscrit>   2,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>PACOT</NomPsn>
+                <PrenomPsn>Sylviane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>187</NbVoix>
+                <RapportExprime>   8,28</RapportExprime>
+                <RapportInscrit>   4,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>POURRUT</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   1,68</RapportExprime>
+                <RapportInscrit>   0,85</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DACHARRY</NomPsn>
+                <PrenomPsn>Caroline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>335</NbVoix>
+                <RapportExprime>  14,83</RapportExprime>
+                <RapportInscrit>   7,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>LAVIT</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   0,80</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>GARCIA</NomPsn>
+                <PrenomPsn>Francis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>284</NbVoix>
+                <RapportExprime>  12,57</RapportExprime>
+                <RapportInscrit>   6,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>TOUSIS</NomPsn>
+                <PrenomPsn>Didier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   0,53</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CASTÉRA</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,44</RapportExprime>
+                <RapportInscrit>   0,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>BASLY-LAPEGUE</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>160</NbVoix>
+                <RapportExprime>   7,08</RapportExprime>
+                <RapportInscrit>   3,59</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4453</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2581</Nombre>
+              <RapportInscrit>  57,96</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1872</Nombre>
+              <RapportInscrit>  42,04</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>67</Nombre>
+              <RapportInscrit>   1,50</RapportInscrit>
+              <RapportVotant>   3,58</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>82</Nombre>
+              <RapportInscrit>   1,84</RapportInscrit>
+              <RapportVotant>   4,38</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1723</Nombre>
+              <RapportInscrit>  38,69</RapportInscrit>
+              <RapportVotant>  92,04</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>CAUSSE</NomPsn>
+                <PrenomPsn>Lionel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1027</NbVoix>
+                <RapportExprime>  59,61</RapportExprime>
+                <RapportInscrit>  23,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DACHARRY</NomPsn>
+                <PrenomPsn>Caroline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>696</NbVoix>
+                <RapportExprime>  40,39</RapportExprime>
+                <RapportInscrit>  15,63</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

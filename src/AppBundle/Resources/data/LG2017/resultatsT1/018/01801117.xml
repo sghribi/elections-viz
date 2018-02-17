@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>18</CodDpt>
+    <CodMinDpt>18</CodMinDpt>
+    <CodDpt3Car>018</CodDpt3Car>
+    <LibDpt>Cher</LibDpt>
+    <Commune>
+      <CodSubCom>117</CodSubCom>
+      <LibSubCom>Jars</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Jars - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>416</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>204</Nombre>
+              <RapportInscrit>  49,04</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>212</Nombre>
+              <RapportInscrit>  50,96</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   1,44</RapportInscrit>
+              <RapportVotant>   2,83</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,48</RapportInscrit>
+              <RapportVotant>   0,94</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>204</Nombre>
+              <RapportInscrit>  49,04</RapportInscrit>
+              <RapportVotant>  96,23</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>GUILLAUME</NomPsn>
+                <PrenomPsn>Romain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,49</RapportExprime>
+                <RapportInscrit>   0,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>RENARD</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>   9,80</RapportExprime>
+                <RapportInscrit>   4,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>SORCELLE</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   3,92</RapportExprime>
+                <RapportInscrit>   1,92</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>CORMIER-BOULIGEON</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>43</NbVoix>
+                <RapportExprime>  21,08</RapportExprime>
+                <RapportInscrit>  10,34</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>POUZET</NomPsn>
+                <PrenomPsn>Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   3,92</RapportExprime>
+                <RapportInscrit>   1,92</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>D&apos;ORMESSON</NomPsn>
+                <PrenomPsn>Wladimir</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>72</NbVoix>
+                <RapportExprime>  35,29</RapportExprime>
+                <RapportInscrit>  17,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CERVEAU</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   2,94</RapportExprime>
+                <RapportInscrit>   1,44</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>COUEILLE</NomPsn>
+                <PrenomPsn>Jean-René</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>39</NbVoix>
+                <RapportExprime>  19,12</RapportExprime>
+                <RapportInscrit>   9,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BEZOUI</NomPsn>
+                <PrenomPsn>Céline</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   3,43</RapportExprime>
+                <RapportInscrit>   1,68</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

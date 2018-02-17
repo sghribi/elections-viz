@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZX</CodDpt>
+    <CodMinDpt>977</CodMinDpt>
+    <CodDpt3Car>977</CodDpt3Car>
+    <LibDpt>Saint-Martin/Saint-Barthélemy</LibDpt>
+    <Tours>
+      <Tour>
+        <NumTour>2</NumTour>
+        <Communes>
+          <Commune>
+            <CodCirLg>01</CodCirLg>
+            <CodSubCom>701</CodSubCom>
+            <LibSubCom>Saint-Barthélémy</LibSubCom>
+            <ResultatsParvenus>O</ResultatsParvenus>
+            <DateDerMaj>18-06-2017</DateDerMaj>
+            <HeureDerMaj>19:20:36</HeureDerMaj>
+          </Commune>
+          <Commune>
+            <CodCirLg>01</CodCirLg>
+            <CodSubCom>801</CodSubCom>
+            <LibSubCom>Saint-Martin</LibSubCom>
+            <ResultatsParvenus>O</ResultatsParvenus>
+            <DateDerMaj>18-06-2017</DateDerMaj>
+            <HeureDerMaj>19:23:00</HeureDerMaj>
+          </Commune>
+        </Communes>
+        <Circonscriptions>
+          <Circonscription>
+            <CodCirLg>01</CodCirLg>
+            <Pourvu>T2</Pourvu>
+            <ResultatsComplets>O</ResultatsComplets>
+          </Circonscription>
+        </Circonscriptions>
+      </Tour>
+    </Tours>
+  </Departement>
+</Election>

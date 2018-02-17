@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>50</CodDpt>
+    <CodMinDpt>50</CodMinDpt>
+    <CodDpt3Car>050</CodDpt3Car>
+    <LibDpt>Manche</LibDpt>
+    <Commune>
+      <CodSubCom>599</CodSubCom>
+      <LibSubCom>Tollevast</LibSubCom>
+      <CodCirLg>04</CodCirLg>
+      <LibFraSubCom>Tollevast - 4ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1034</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>481</Nombre>
+              <RapportInscrit>  46,52</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>553</Nombre>
+              <RapportInscrit>  53,48</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   1,16</RapportInscrit>
+              <RapportVotant>   2,17</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,19</RapportInscrit>
+              <RapportVotant>   0,36</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>539</Nombre>
+              <RapportInscrit>  52,13</RapportInscrit>
+              <RapportVotant>  97,47</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>HEDERER</NomPsn>
+                <PrenomPsn>Jean-Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   2,78</RapportExprime>
+                <RapportInscrit>   1,45</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BENRAMDANE</NomPsn>
+                <PrenomPsn>Abdelkader</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,56</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>GUERIN</NomPsn>
+                <PrenomPsn>Stanislas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,37</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>KRIMI</NomPsn>
+                <PrenomPsn>Sonia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>99</NbVoix>
+                <RapportExprime>  18,37</RapportExprime>
+                <RapportInscrit>   9,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>NOËL</NomPsn>
+                <PrenomPsn>Jean-Jacques</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>60</NbVoix>
+                <RapportExprime>  11,13</RapportExprime>
+                <RapportInscrit>   5,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PECORARO</NomPsn>
+                <PrenomPsn>Yvonne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>57</NbVoix>
+                <RapportExprime>  10,58</RapportExprime>
+                <RapportInscrit>   5,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>DROUGARD</NomPsn>
+                <PrenomPsn>Odile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,56</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>VARENNE</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>23</NbVoix>
+                <RapportExprime>   4,27</RapportExprime>
+                <RapportInscrit>   2,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BLIN</NomPsn>
+                <PrenomPsn>Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,93</RapportExprime>
+                <RapportInscrit>   0,48</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CATHERINE</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>63</NbVoix>
+                <RapportExprime>  11,69</RapportExprime>
+                <RapportInscrit>   6,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DHIVER</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,19</RapportExprime>
+                <RapportInscrit>   0,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>GUYON</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>52</NbVoix>
+                <RapportExprime>   9,65</RapportExprime>
+                <RapportInscrit>   5,03</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>MISTLER</NomPsn>
+                <PrenomPsn>Blaise</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>156</NbVoix>
+                <RapportExprime>  28,94</RapportExprime>
+                <RapportInscrit>  15,09</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1034</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>646</Nombre>
+              <RapportInscrit>  62,48</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>388</Nombre>
+              <RapportInscrit>  37,52</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>48</Nombre>
+              <RapportInscrit>   4,64</RapportInscrit>
+              <RapportVotant>  12,37</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>15</Nombre>
+              <RapportInscrit>   1,45</RapportInscrit>
+              <RapportVotant>   3,87</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>325</Nombre>
+              <RapportInscrit>  31,43</RapportInscrit>
+              <RapportVotant>  83,76</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>KRIMI</NomPsn>
+                <PrenomPsn>Sonia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>219</NbVoix>
+                <RapportExprime>  67,38</RapportExprime>
+                <RapportInscrit>  21,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>MISTLER</NomPsn>
+                <PrenomPsn>Blaise</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>106</NbVoix>
+                <RapportExprime>  32,62</RapportExprime>
+                <RapportInscrit>  10,25</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

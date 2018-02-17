@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>46</CodDpt>
+    <CodMinDpt>46</CodMinDpt>
+    <CodDpt3Car>046</CodDpt3Car>
+    <LibDpt>Lot</LibDpt>
+    <Commune>
+      <CodSubCom>015</CodSubCom>
+      <LibSubCom>Bagnac-sur-Célé</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Bagnac-sur-Célé - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1236</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>598</Nombre>
+              <RapportInscrit>  48,38</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>638</Nombre>
+              <RapportInscrit>  51,62</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>19</Nombre>
+              <RapportInscrit>   1,54</RapportInscrit>
+              <RapportVotant>   2,98</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>9</Nombre>
+              <RapportInscrit>   0,73</RapportInscrit>
+              <RapportVotant>   1,41</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>610</Nombre>
+              <RapportInscrit>  49,35</RapportInscrit>
+              <RapportVotant>  95,61</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>ISNARD</NomPsn>
+                <PrenomPsn>Jean-Marc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,49</RapportExprime>
+                <RapportInscrit>   0,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>MOQUET</NomPsn>
+                <PrenomPsn>Nathalie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,49</RapportExprime>
+                <RapportInscrit>   0,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LOREDO</NomPsn>
+                <PrenomPsn>Antoine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>58</NbVoix>
+                <RapportExprime>   9,51</RapportExprime>
+                <RapportInscrit>   4,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>ROUCH</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   1,64</RapportExprime>
+                <RapportInscrit>   0,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>RIBEYROTTE</NomPsn>
+                <PrenomPsn>Christian</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   1,64</RapportExprime>
+                <RapportInscrit>   0,81</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BONNEVAL</NomPsn>
+                <PrenomPsn>Marie-Rose</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,82</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CASTAGNOL</NomPsn>
+                <PrenomPsn>Virginie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>77</NbVoix>
+                <RapportExprime>  12,62</RapportExprime>
+                <RapportInscrit>   6,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DUFOUR</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>64</NbVoix>
+                <RapportExprime>  10,49</RapportExprime>
+                <RapportInscrit>   5,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>HUREAUX</NomPsn>
+                <PrenomPsn>Roland</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   3,61</RapportExprime>
+                <RapportInscrit>   1,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>TIEGNA</NomPsn>
+                <PrenomPsn>Huguette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>234</NbVoix>
+                <RapportExprime>  38,36</RapportExprime>
+                <RapportInscrit>  18,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LABARTHE</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>124</NbVoix>
+                <RapportExprime>  20,33</RapportExprime>
+                <RapportInscrit>  10,03</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1236</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>649</Nombre>
+              <RapportInscrit>  52,51</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>587</Nombre>
+              <RapportInscrit>  47,49</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>46</Nombre>
+              <RapportInscrit>   3,72</RapportInscrit>
+              <RapportVotant>   7,84</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>28</Nombre>
+              <RapportInscrit>   2,27</RapportInscrit>
+              <RapportVotant>   4,77</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>513</Nombre>
+              <RapportInscrit>  41,50</RapportInscrit>
+              <RapportVotant>  87,39</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>TIEGNA</NomPsn>
+                <PrenomPsn>Huguette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>290</NbVoix>
+                <RapportExprime>  56,53</RapportExprime>
+                <RapportInscrit>  23,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LABARTHE</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>223</NbVoix>
+                <RapportExprime>  43,47</RapportExprime>
+                <RapportInscrit>  18,04</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>59</CodDpt>
+    <CodMinDpt>59</CodMinDpt>
+    <CodDpt3Car>059</CodDpt3Car>
+    <LibDpt>Nord</LibDpt>
+    <Commune>
+      <CodSubCom>651</CodSubCom>
+      <LibSubCom>Wavrechain-sous-Denain</LibSubCom>
+      <CodCirLg>19</CodCirLg>
+      <LibFraSubCom>Wavrechain-sous-Denain - 19ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1007</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>525</Nombre>
+              <RapportInscrit>  52,14</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>482</Nombre>
+              <RapportInscrit>  47,86</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,79</RapportInscrit>
+              <RapportVotant>   1,66</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   0,30</RapportInscrit>
+              <RapportVotant>   0,62</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>471</Nombre>
+              <RapportInscrit>  46,77</RapportInscrit>
+              <RapportVotant>  97,72</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CHENU</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>180</NbVoix>
+                <RapportExprime>  38,22</RapportExprime>
+                <RapportInscrit>  17,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>POIX</NomPsn>
+                <PrenomPsn>Julien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>76</NbVoix>
+                <RapportExprime>  16,14</RapportExprime>
+                <RapportInscrit>   7,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>HEBBAR</NomPsn>
+                <PrenomPsn>Sabine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>63</NbVoix>
+                <RapportExprime>  13,38</RapportExprime>
+                <RapportInscrit>   6,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>JEAN</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>60</NbVoix>
+                <RapportExprime>  12,74</RapportExprime>
+                <RapportInscrit>   5,96</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>THOMES</NomPsn>
+                <PrenomPsn>Serge</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,85</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BLOTTIERE</NomPsn>
+                <PrenomPsn>Xavier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   1,06</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CAPRON</NomPsn>
+                <PrenomPsn>Olivier</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   2,97</RapportExprime>
+                <RapportInscrit>   1,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>WROBEL</NomPsn>
+                <PrenomPsn>Marlène</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   1,70</RapportExprime>
+                <RapportInscrit>   0,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BAMOUNE</NomPsn>
+                <PrenomPsn>Saida</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>0</NbVoix>
+                <RapportExprime>   0,00</RapportExprime>
+                <RapportInscrit>   0,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>DUFOUR-TONINI</NomPsn>
+                <PrenomPsn>Anne-Lise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>57</NbVoix>
+                <RapportExprime>  12,10</RapportExprime>
+                <RapportInscrit>   5,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>DUFOUR</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,85</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1007</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>604</Nombre>
+              <RapportInscrit>  59,98</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>403</Nombre>
+              <RapportInscrit>  40,02</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>28</Nombre>
+              <RapportInscrit>   2,78</RapportInscrit>
+              <RapportVotant>   6,95</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>18</Nombre>
+              <RapportInscrit>   1,79</RapportInscrit>
+              <RapportVotant>   4,47</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>357</Nombre>
+              <RapportInscrit>  35,45</RapportInscrit>
+              <RapportVotant>  88,59</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>CHENU</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>213</NbVoix>
+                <RapportExprime>  59,66</RapportExprime>
+                <RapportInscrit>  21,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>HEBBAR</NomPsn>
+                <PrenomPsn>Sabine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>144</NbVoix>
+                <RapportExprime>  40,34</RapportExprime>
+                <RapportInscrit>  14,30</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

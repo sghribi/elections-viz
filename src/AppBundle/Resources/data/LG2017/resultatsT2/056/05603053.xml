@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>56</CodDpt>
+    <CodMinDpt>56</CodMinDpt>
+    <CodDpt3Car>056</CodDpt3Car>
+    <LibDpt>Morbihan</LibDpt>
+    <Commune>
+      <CodSubCom>053</CodSubCom>
+      <LibSubCom>Elven</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Elven - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4220</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1966</Nombre>
+              <RapportInscrit>  46,59</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>2254</Nombre>
+              <RapportInscrit>  53,41</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>23</Nombre>
+              <RapportInscrit>   0,55</RapportInscrit>
+              <RapportVotant>   1,02</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>16</Nombre>
+              <RapportInscrit>   0,38</RapportInscrit>
+              <RapportVotant>   0,71</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>2215</Nombre>
+              <RapportInscrit>  52,49</RapportInscrit>
+              <RapportVotant>  98,27</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LE PEIH</NomPsn>
+                <PrenomPsn>Nicole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1064</NbVoix>
+                <RapportExprime>  48,04</RapportExprime>
+                <RapportInscrit>  25,21</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BAUD</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>232</NbVoix>
+                <RapportExprime>  10,47</RapportExprime>
+                <RapportInscrit>   5,50</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>ROLLAND</NomPsn>
+                <PrenomPsn>Benoît</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>151</NbVoix>
+                <RapportExprime>   6,82</RapportExprime>
+                <RapportInscrit>   3,58</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>JACQUIN</NomPsn>
+                <PrenomPsn>Jean-Luc</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REG</CodNua>
+                <LibNua>Régionaliste</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   0,99</RapportExprime>
+                <RapportInscrit>   0,52</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>PERRAULT</NomPsn>
+                <PrenomPsn>Soizic</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>180</NbVoix>
+                <RapportExprime>   8,13</RapportExprime>
+                <RapportInscrit>   4,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>NAIZAIN</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>101</NbVoix>
+                <RapportExprime>   4,56</RapportExprime>
+                <RapportInscrit>   2,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>LYON</NomPsn>
+                <PrenomPsn>Alain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   0,59</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>SOREL</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REG</CodNua>
+                <LibNua>Régionaliste</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>   1,35</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LE MOUËL</NomPsn>
+                <PrenomPsn>Marie Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>99</NbVoix>
+                <RapportExprime>   4,47</RapportExprime>
+                <RapportInscrit>   2,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>JARNY</NomPsn>
+                <PrenomPsn>Christelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   0,54</RapportExprime>
+                <RapportInscrit>   0,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>LE PENDU</NomPsn>
+                <PrenomPsn>Eric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   0,59</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>DORÉ-LUCAS</NomPsn>
+                <PrenomPsn>Marie Madeleine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>268</NbVoix>
+                <RapportExprime>  12,10</RapportExprime>
+                <RapportInscrit>   6,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>BOUCHÉ</NomPsn>
+                <PrenomPsn>Jérôme</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>   1,35</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>4220</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>2402</Nombre>
+              <RapportInscrit>  56,92</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1818</Nombre>
+              <RapportInscrit>  43,08</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>93</Nombre>
+              <RapportInscrit>   2,20</RapportInscrit>
+              <RapportVotant>   5,12</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>35</Nombre>
+              <RapportInscrit>   0,83</RapportInscrit>
+              <RapportVotant>   1,93</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1690</Nombre>
+              <RapportInscrit>  40,05</RapportInscrit>
+              <RapportVotant>  92,96</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LE PEIH</NomPsn>
+                <PrenomPsn>Nicole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>1180</NbVoix>
+                <RapportExprime>  69,82</RapportExprime>
+                <RapportInscrit>  27,96</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>DORÉ-LUCAS</NomPsn>
+                <PrenomPsn>Marie Madeleine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>510</NbVoix>
+                <RapportExprime>  30,18</RapportExprime>
+                <RapportInscrit>  12,09</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

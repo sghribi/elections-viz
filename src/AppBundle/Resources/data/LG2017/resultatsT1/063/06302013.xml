@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>63</CodDpt>
+    <CodMinDpt>63</CodMinDpt>
+    <CodDpt3Car>063</CodDpt3Car>
+    <LibDpt>Puy-de-Dôme</LibDpt>
+    <Commune>
+      <CodSubCom>013</CodSubCom>
+      <LibSubCom>Aubiat</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Aubiat - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>721</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>325</Nombre>
+              <RapportInscrit>  45,08</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>396</Nombre>
+              <RapportInscrit>  54,92</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,14</RapportInscrit>
+              <RapportVotant>   0,25</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,11</RapportInscrit>
+              <RapportVotant>   2,02</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>387</Nombre>
+              <RapportInscrit>  53,68</RapportInscrit>
+              <RapportVotant>  97,73</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>TRUCHON</NomPsn>
+                <PrenomPsn>Franck</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,78</RapportExprime>
+                <RapportInscrit>   0,42</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>CHAVELET</NomPsn>
+                <PrenomPsn>Stanislas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>58</NbVoix>
+                <RapportExprime>  14,99</RapportExprime>
+                <RapportInscrit>   8,04</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>HAMOUMOU</NomPsn>
+                <PrenomPsn>Mohand</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>97</NbVoix>
+                <RapportExprime>  25,06</RapportExprime>
+                <RapportInscrit>  13,45</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>FLORI-DUTOUR</NomPsn>
+                <PrenomPsn>Stéphanie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>72</NbVoix>
+                <RapportExprime>  18,60</RapportExprime>
+                <RapportInscrit>   9,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ESTIER</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>56</NbVoix>
+                <RapportExprime>  14,47</RapportExprime>
+                <RapportInscrit>   7,77</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PIRÈS BEAUNE</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>81</NbVoix>
+                <RapportExprime>  20,93</RapportExprime>
+                <RapportInscrit>  11,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BOURDIER BUISSON</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,52</RapportExprime>
+                <RapportInscrit>   0,28</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>VALOUR</NomPsn>
+                <PrenomPsn>Doris</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   2,33</RapportExprime>
+                <RapportInscrit>   1,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>KNAUF</NomPsn>
+                <PrenomPsn>Henri</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   2,33</RapportExprime>
+                <RapportInscrit>   1,25</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>12</CodDpt>
+    <CodMinDpt>12</CodMinDpt>
+    <CodDpt3Car>012</CodDpt3Car>
+    <LibDpt>Aveyron</LibDpt>
+    <Commune>
+      <CodSubCom>203</CodSubCom>
+      <LibSubCom>Roquefort-sur-Soulzon</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>Roquefort-sur-Soulzon - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>532</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>232</Nombre>
+              <RapportInscrit>  43,61</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>300</Nombre>
+              <RapportInscrit>  56,39</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>11</Nombre>
+              <RapportInscrit>   2,07</RapportInscrit>
+              <RapportVotant>   3,67</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   1,50</RapportInscrit>
+              <RapportVotant>   2,67</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>281</Nombre>
+              <RapportInscrit>  52,82</RapportInscrit>
+              <RapportVotant>  93,67</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>AUSTRUY</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>94</NbVoix>
+                <RapportExprime>  33,45</RapportExprime>
+                <RapportInscrit>  17,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>COMBES</NomPsn>
+                <PrenomPsn>Bernard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,42</RapportExprime>
+                <RapportInscrit>   0,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>TARROUX</NomPsn>
+                <PrenomPsn>Sophie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,71</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VIALA</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>105</NbVoix>
+                <RapportExprime>  37,37</RapportExprime>
+                <RapportInscrit>  19,74</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ABRIAC</NomPsn>
+                <PrenomPsn>Muriel</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>  10,68</RapportExprime>
+                <RapportInscrit>   5,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>LAUR</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>36</NbVoix>
+                <RapportExprime>  12,81</RapportExprime>
+                <RapportInscrit>   6,77</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GARCINI</NomPsn>
+                <PrenomPsn>Régina</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>PACCHIELE</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,42</RapportExprime>
+                <RapportInscrit>   0,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>NOËL</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,71</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>TEMPLE</NomPsn>
+                <PrenomPsn>Henri</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,56</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>532</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>237</Nombre>
+              <RapportInscrit>  44,55</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>295</Nombre>
+              <RapportInscrit>  55,45</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>25</Nombre>
+              <RapportInscrit>   4,70</RapportInscrit>
+              <RapportVotant>   8,47</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>10</Nombre>
+              <RapportInscrit>   1,88</RapportInscrit>
+              <RapportVotant>   3,39</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>260</Nombre>
+              <RapportInscrit>  48,87</RapportInscrit>
+              <RapportVotant>  88,14</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>AUSTRUY</NomPsn>
+                <PrenomPsn>Jean-Louis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>99</NbVoix>
+                <RapportExprime>  38,08</RapportExprime>
+                <RapportInscrit>  18,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>VIALA</NomPsn>
+                <PrenomPsn>Arnaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>161</NbVoix>
+                <RapportExprime>  61,92</RapportExprime>
+                <RapportInscrit>  30,26</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

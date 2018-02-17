@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>82</CodDpt>
+    <CodMinDpt>82</CodMinDpt>
+    <CodDpt3Car>082</CodDpt3Car>
+    <LibDpt>Tarn-et-Garonne</LibDpt>
+    <Commune>
+      <CodSubCom>002</CodSubCom>
+      <LibSubCom>Albias</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Albias - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2416</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1275</Nombre>
+              <RapportInscrit>  52,77</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1141</Nombre>
+              <RapportInscrit>  47,23</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>19</Nombre>
+              <RapportInscrit>   0,79</RapportInscrit>
+              <RapportVotant>   1,67</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>9</Nombre>
+              <RapportInscrit>   0,37</RapportInscrit>
+              <RapportVotant>   0,79</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1113</Nombre>
+              <RapportInscrit>  46,07</RapportInscrit>
+              <RapportVotant>  97,55</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>RABAULT</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>165</NbVoix>
+                <RapportExprime>  14,82</RapportExprime>
+                <RapportInscrit>   6,83</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BLANCO</NomPsn>
+                <PrenomPsn>Richard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   0,99</RapportExprime>
+                <RapportInscrit>   0,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DEVILLE</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>162</NbVoix>
+                <RapportExprime>  14,56</RapportExprime>
+                <RapportInscrit>   6,71</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>ARNAUD</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>   1,89</RapportExprime>
+                <RapportInscrit>   0,87</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>RIVIERE</NomPsn>
+                <PrenomPsn>Sandy</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   0,36</RapportExprime>
+                <RapportInscrit>   0,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>VIALLON</NomPsn>
+                <PrenomPsn>Thierry</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>250</NbVoix>
+                <RapportExprime>  22,46</RapportExprime>
+                <RapportInscrit>  10,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>PORTOLES</NomPsn>
+                <PrenomPsn>Rodolphe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>18</NbVoix>
+                <RapportExprime>   1,62</RapportExprime>
+                <RapportInscrit>   0,75</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MARDEGAN</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>319</NbVoix>
+                <RapportExprime>  28,66</RapportExprime>
+                <RapportInscrit>  13,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>SALGUES</NomPsn>
+                <PrenomPsn>Alexia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>13</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,54</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BAUDOZ</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>27</NbVoix>
+                <RapportExprime>   2,43</RapportExprime>
+                <RapportInscrit>   1,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>NADAL</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>123</NbVoix>
+                <RapportExprime>  11,05</RapportExprime>
+                <RapportInscrit>   5,09</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2416</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1463</Nombre>
+              <RapportInscrit>  60,55</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>953</Nombre>
+              <RapportInscrit>  39,45</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>90</Nombre>
+              <RapportInscrit>   3,73</RapportInscrit>
+              <RapportVotant>   9,44</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>49</Nombre>
+              <RapportInscrit>   2,03</RapportInscrit>
+              <RapportVotant>   5,14</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>814</Nombre>
+              <RapportInscrit>  33,69</RapportInscrit>
+              <RapportVotant>  85,41</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>RABAULT</NomPsn>
+                <PrenomPsn>Valérie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>423</NbVoix>
+                <RapportExprime>  51,97</RapportExprime>
+                <RapportInscrit>  17,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MARDEGAN</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>391</NbVoix>
+                <RapportExprime>  48,03</RapportExprime>
+                <RapportInscrit>  16,18</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

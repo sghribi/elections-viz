@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>50</CodDpt>
+    <CodMinDpt>50</CodMinDpt>
+    <CodDpt3Car>050</CodDpt3Car>
+    <LibDpt>Manche</LibDpt>
+    <Commune>
+      <CodSubCom>236</CodSubCom>
+      <LibSubCom>La Haye</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>La Haye - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3297</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1591</Nombre>
+              <RapportInscrit>  48,26</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1706</Nombre>
+              <RapportInscrit>  51,74</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>32</Nombre>
+              <RapportInscrit>   0,97</RapportInscrit>
+              <RapportVotant>   1,88</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>10</Nombre>
+              <RapportInscrit>   0,30</RapportInscrit>
+              <RapportVotant>   0,59</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1664</Nombre>
+              <RapportInscrit>  50,47</RapportInscrit>
+              <RapportVotant>  97,54</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>HUET</NomPsn>
+                <PrenomPsn>Laurent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>44</NbVoix>
+                <RapportExprime>   2,64</RapportExprime>
+                <RapportInscrit>   1,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>REBOLLE</NomPsn>
+                <PrenomPsn>Bernard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>137</NbVoix>
+                <RapportExprime>   8,23</RapportExprime>
+                <RapportInscrit>   4,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MASSON</NomPsn>
+                <PrenomPsn>Carmen</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>227</NbVoix>
+                <RapportExprime>  13,64</RapportExprime>
+                <RapportInscrit>   6,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>TAMBOUR</NomPsn>
+                <PrenomPsn>Chantal</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>41</NbVoix>
+                <RapportExprime>   2,46</RapportExprime>
+                <RapportInscrit>   1,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>HOERNER</NomPsn>
+                <PrenomPsn>Quentin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,42</RapportExprime>
+                <RapportInscrit>   0,21</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>TRAVERT</NomPsn>
+                <PrenomPsn>Stéphane</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>815</NbVoix>
+                <RapportExprime>  48,98</RapportExprime>
+                <RapportInscrit>  24,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>TRAN</NomPsn>
+                <PrenomPsn>Thi Mai Tram</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,30</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LE RACHINEL</NomPsn>
+                <PrenomPsn>Hermann</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>   1,26</RapportExprime>
+                <RapportInscrit>   0,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>COUSIN</NomPsn>
+                <PrenomPsn>Jean-Manuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>362</NbVoix>
+                <RapportExprime>  21,75</RapportExprime>
+                <RapportInscrit>  10,98</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>3295</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1794</Nombre>
+              <RapportInscrit>  54,45</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1501</Nombre>
+              <RapportInscrit>  45,55</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>88</Nombre>
+              <RapportInscrit>   2,67</RapportInscrit>
+              <RapportVotant>   5,86</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>39</Nombre>
+              <RapportInscrit>   1,18</RapportInscrit>
+              <RapportVotant>   2,60</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1374</Nombre>
+              <RapportInscrit>  41,70</RapportInscrit>
+              <RapportVotant>  91,54</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>TRAVERT</NomPsn>
+                <PrenomPsn>Stéphane</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>893</NbVoix>
+                <RapportExprime>  64,99</RapportExprime>
+                <RapportInscrit>  27,10</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>COUSIN</NomPsn>
+                <PrenomPsn>Jean-Manuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>481</NbVoix>
+                <RapportExprime>  35,01</RapportExprime>
+                <RapportInscrit>  14,60</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

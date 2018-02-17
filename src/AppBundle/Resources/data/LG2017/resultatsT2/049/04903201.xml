@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>49</CodDpt>
+    <CodMinDpt>49</CodMinDpt>
+    <CodDpt3Car>049</CodDpt3Car>
+    <LibDpt>Maine-et-Loire</LibDpt>
+    <Commune>
+      <CodSubCom>201</CodSubCom>
+      <LibSubCom>La Ménitré</LibSubCom>
+      <CodCirLg>03</CodCirLg>
+      <LibFraSubCom>La Ménitré - 3ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1599</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>751</Nombre>
+              <RapportInscrit>  46,97</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>848</Nombre>
+              <RapportInscrit>  53,03</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>27</Nombre>
+              <RapportInscrit>   1,69</RapportInscrit>
+              <RapportVotant>   3,18</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>5</Nombre>
+              <RapportInscrit>   0,31</RapportInscrit>
+              <RapportVotant>   0,59</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>816</Nombre>
+              <RapportInscrit>  51,03</RapportInscrit>
+              <RapportVotant>  96,23</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>LEROY</NomPsn>
+                <PrenomPsn>Alexandre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>RDG</CodNua>
+                <LibNua>Parti radical de gauche</LibNua>
+                <NbVoix>34</NbVoix>
+                <RapportExprime>   4,17</RapportExprime>
+                <RapportInscrit>   2,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BLSTYAK</NomPsn>
+                <PrenomPsn>Noëlle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,37</RapportExprime>
+                <RapportInscrit>   0,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DAVIAU</NomPsn>
+                <PrenomPsn>Patrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   1,23</RapportExprime>
+                <RapportInscrit>   0,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BARRAULT</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>280</NbVoix>
+                <RapportExprime>  34,31</RapportExprime>
+                <RapportInscrit>  17,51</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>D&apos;ARGENTRÉ</NomPsn>
+                <PrenomPsn>Hugues</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>11</NbVoix>
+                <RapportExprime>   1,35</RapportExprime>
+                <RapportInscrit>   0,69</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>RAVENEAU</NomPsn>
+                <PrenomPsn>Daphnée</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>62</NbVoix>
+                <RapportExprime>   7,60</RapportExprime>
+                <RapportInscrit>   3,88</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CHABRIER</NomPsn>
+                <PrenomPsn>Georges</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>96</NbVoix>
+                <RapportExprime>  11,76</RapportExprime>
+                <RapportInscrit>   6,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>MORTIER</NomPsn>
+                <PrenomPsn>Frédéric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>   2,70</RapportExprime>
+                <RapportInscrit>   1,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>LANCIEN</NomPsn>
+                <PrenomPsn>Patrice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>83</NbVoix>
+                <RapportExprime>  10,17</RapportExprime>
+                <RapportInscrit>   5,19</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PEILLON</NomPsn>
+                <PrenomPsn>Patricia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   1,23</RapportExprime>
+                <RapportInscrit>   0,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>TAUGOURDEAU</NomPsn>
+                <PrenomPsn>Jean-Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>205</NbVoix>
+                <RapportExprime>  25,12</RapportExprime>
+                <RapportInscrit>  12,82</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>1599</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>837</Nombre>
+              <RapportInscrit>  52,35</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>762</Nombre>
+              <RapportInscrit>  47,65</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>51</Nombre>
+              <RapportInscrit>   3,19</RapportInscrit>
+              <RapportVotant>   6,69</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>10</Nombre>
+              <RapportInscrit>   0,63</RapportInscrit>
+              <RapportVotant>   1,31</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>701</Nombre>
+              <RapportInscrit>  43,84</RapportInscrit>
+              <RapportVotant>  91,99</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BARRAULT</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>387</NbVoix>
+                <RapportExprime>  55,21</RapportExprime>
+                <RapportInscrit>  24,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>TAUGOURDEAU</NomPsn>
+                <PrenomPsn>Jean-Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>314</NbVoix>
+                <RapportExprime>  44,79</RapportExprime>
+                <RapportInscrit>  19,64</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

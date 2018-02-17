@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>43</CodDpt>
+    <CodMinDpt>43</CodMinDpt>
+    <CodDpt3Car>043</CodDpt3Car>
+    <LibDpt>Haute-Loire</LibDpt>
+    <Commune>
+      <CodSubCom>062</CodSubCom>
+      <LibSubCom>Chaspuzac</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Chaspuzac - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>558</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>237</Nombre>
+              <RapportInscrit>  42,47</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>321</Nombre>
+              <RapportInscrit>  57,53</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>13</Nombre>
+              <RapportInscrit>   2,33</RapportInscrit>
+              <RapportVotant>   4,05</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>6</Nombre>
+              <RapportInscrit>   1,08</RapportInscrit>
+              <RapportVotant>   1,87</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>302</Nombre>
+              <RapportInscrit>  54,12</RapportInscrit>
+              <RapportVotant>  94,08</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>VIGIER</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>127</NbVoix>
+                <RapportExprime>  42,05</RapportExprime>
+                <RapportInscrit>  22,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>BUSSELOT</NomPsn>
+                <PrenomPsn>Marie-Laure</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>12</NbVoix>
+                <RapportExprime>   3,97</RapportExprime>
+                <RapportInscrit>   2,15</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>MAUCHET</NomPsn>
+                <PrenomPsn>Renaud</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BOUTON</NomPsn>
+                <PrenomPsn>Lionel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>26</NbVoix>
+                <RapportExprime>   8,61</RapportExprime>
+                <RapportInscrit>   4,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>MONJAUZE</NomPsn>
+                <PrenomPsn>Alexis</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>8</NbVoix>
+                <RapportExprime>   2,65</RapportExprime>
+                <RapportInscrit>   1,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>FRIDLENDER</NomPsn>
+                <PrenomPsn>Georges</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,99</RapportExprime>
+                <RapportInscrit>   0,54</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>MIALON</NomPsn>
+                <PrenomPsn>Josiane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   2,32</RapportExprime>
+                <RapportInscrit>   1,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ARNAUD</NomPsn>
+                <PrenomPsn>Aurore</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>39</NbVoix>
+                <RapportExprime>  12,91</RapportExprime>
+                <RapportInscrit>   6,99</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ETEOCLE</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>67</NbVoix>
+                <RapportExprime>  22,19</RapportExprime>
+                <RapportInscrit>  12,01</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CHAUMET</NomPsn>
+                <PrenomPsn>Michelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>SARRET</NomPsn>
+                <PrenomPsn>Françoise</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   1,66</RapportExprime>
+                <RapportInscrit>   0,90</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>558</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>276</Nombre>
+              <RapportInscrit>  49,46</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>282</Nombre>
+              <RapportInscrit>  50,54</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>22</Nombre>
+              <RapportInscrit>   3,94</RapportInscrit>
+              <RapportVotant>   7,80</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>12</Nombre>
+              <RapportInscrit>   2,15</RapportInscrit>
+              <RapportVotant>   4,26</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>248</Nombre>
+              <RapportInscrit>  44,44</RapportInscrit>
+              <RapportVotant>  87,94</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>VIGIER</NomPsn>
+                <PrenomPsn>Jean-Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>169</NbVoix>
+                <RapportExprime>  68,15</RapportExprime>
+                <RapportInscrit>  30,29</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ETEOCLE</NomPsn>
+                <PrenomPsn>Pierre</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>79</NbVoix>
+                <RapportExprime>  31,85</RapportExprime>
+                <RapportInscrit>  14,16</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

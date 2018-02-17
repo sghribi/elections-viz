@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>76</CodDpt>
+    <CodMinDpt>76</CodMinDpt>
+    <CodDpt3Car>076</CodDpt3Car>
+    <LibDpt>Seine-Maritime</LibDpt>
+    <Commune>
+      <CodSubCom>101</CodSubCom>
+      <LibSubCom>Blangy-sur-Bresle</LibSubCom>
+      <CodCirLg>06</CodCirLg>
+      <LibFraSubCom>Blangy-sur-Bresle - 6ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2273</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1076</Nombre>
+              <RapportInscrit>  47,34</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1197</Nombre>
+              <RapportInscrit>  52,66</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>27</Nombre>
+              <RapportInscrit>   1,19</RapportInscrit>
+              <RapportVotant>   2,26</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>11</Nombre>
+              <RapportInscrit>   0,48</RapportInscrit>
+              <RapportVotant>   0,92</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1159</Nombre>
+              <RapportInscrit>  50,99</RapportInscrit>
+              <RapportVotant>  96,83</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MOISAN</NomPsn>
+                <PrenomPsn>Éric</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>14</NbVoix>
+                <RapportExprime>   1,21</RapportExprime>
+                <RapportInscrit>   0,62</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>GROUT</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,43</RapportExprime>
+                <RapportInscrit>   0,22</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>CORDIN</NomPsn>
+                <PrenomPsn>Michel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,31</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>LE VERN</NomPsn>
+                <PrenomPsn>Marie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>362</NbVoix>
+                <RapportExprime>  31,23</RapportExprime>
+                <RapportInscrit>  15,93</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DUFOUR</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>254</NbVoix>
+                <RapportExprime>  21,92</RapportExprime>
+                <RapportInscrit>  11,17</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BAY</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>262</NbVoix>
+                <RapportExprime>  22,61</RapportExprime>
+                <RapportInscrit>  11,53</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>JUMEL</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>141</NbVoix>
+                <RapportExprime>  12,17</RapportExprime>
+                <RapportInscrit>   6,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>LEFEBVRE</NomPsn>
+                <PrenomPsn>Blandine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>114</NbVoix>
+                <RapportExprime>   9,84</RapportExprime>
+                <RapportInscrit>   5,02</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2273</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1233</Nombre>
+              <RapportInscrit>  54,25</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1040</Nombre>
+              <RapportInscrit>  45,75</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>48</Nombre>
+              <RapportInscrit>   2,11</RapportInscrit>
+              <RapportVotant>   4,62</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>25</Nombre>
+              <RapportInscrit>   1,10</RapportInscrit>
+              <RapportVotant>   2,40</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>967</Nombre>
+              <RapportInscrit>  42,54</RapportInscrit>
+              <RapportVotant>  92,98</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DUFOUR</NomPsn>
+                <PrenomPsn>Philippe</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>389</NbVoix>
+                <RapportExprime>  40,23</RapportExprime>
+                <RapportInscrit>  17,11</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>JUMEL</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>578</NbVoix>
+                <RapportExprime>  59,77</RapportExprime>
+                <RapportInscrit>  25,43</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>79</CodDpt>
+    <CodMinDpt>79</CodMinDpt>
+    <CodDpt3Car>079</CodDpt3Car>
+    <LibDpt>Deux-Sèvres</LibDpt>
+    <Commune>
+      <CodSubCom>212</CodSubCom>
+      <LibSubCom>Plibou</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Plibou - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>150</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>74</Nombre>
+              <RapportInscrit>  49,33</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>76</Nombre>
+              <RapportInscrit>  50,67</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>76</Nombre>
+              <RapportInscrit>  50,67</RapportInscrit>
+              <RapportVotant> 100,00</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BATHO</NomPsn>
+                <PrenomPsn>Delphine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>  22,37</RapportExprime>
+                <RapportInscrit>  11,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>RÉAU</NomPsn>
+                <PrenomPsn>Laurence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>VACHON</NomPsn>
+                <PrenomPsn>Séverine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>  22,37</RapportExprime>
+                <RapportInscrit>  11,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>MAILLOU</NomPsn>
+                <PrenomPsn>Yannick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   9,21</RapportExprime>
+                <RapportInscrit>   4,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CHARBONNEAU</NomPsn>
+                <PrenomPsn>Jean-Romée</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>  11,84</RapportExprime>
+                <RapportInscrit>   6,00</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>CLÉMENT</NomPsn>
+                <PrenomPsn>Sylvie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>4</NbVoix>
+                <RapportExprime>   5,26</RapportExprime>
+                <RapportInscrit>   2,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>HEINTZ</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>20</NbVoix>
+                <RapportExprime>  26,32</RapportExprime>
+                <RapportInscrit>  13,33</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>POUPINOT</NomPsn>
+                <PrenomPsn>Nicole</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   1,32</RapportExprime>
+                <RapportInscrit>   0,67</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

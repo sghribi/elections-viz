@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>82</CodDpt>
+    <CodMinDpt>82</CodMinDpt>
+    <CodDpt3Car>082</CodDpt3Car>
+    <LibDpt>Tarn-et-Garonne</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>RABAULT</NomPsn>
+            <PrenomPsn>Valérie</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>SOC</CodNua>
+            <LibNua>Parti socialiste</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>8</NumPanneauCand>
+            <NomPsn>MARDEGAN</NomPsn>
+            <PrenomPsn>Pierre</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>10</NumPanneauCand>
+            <NomPsn>LOPEZ</NomPsn>
+            <PrenomPsn>Romain</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>FN</CodNua>
+            <LibNua>Front National</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>14</NumPanneauCand>
+            <NomPsn>PINEL</NomPsn>
+            <PrenomPsn>Sylvia</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>RDG</CodNua>
+            <LibNua>Parti radical de gauche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>72</CodDpt>
+    <CodMinDpt>72</CodMinDpt>
+    <CodDpt3Car>072</CodDpt3Car>
+    <LibDpt>Sarthe</LibDpt>
+    <Circonscription>
+      <CodCirLg>03</CodCirLg>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>85235</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>42137</Nombre>
+              <RapportInscrit>  49,44</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>43098</Nombre>
+              <RapportInscrit>  50,56</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>951</Nombre>
+              <RapportInscrit>   1,12</RapportInscrit>
+              <RapportVotant>   2,21</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>376</Nombre>
+              <RapportInscrit>   0,44</RapportInscrit>
+              <RapportVotant>   0,87</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>41771</Nombre>
+              <RapportInscrit>  49,01</RapportInscrit>
+              <RapportVotant>  96,92</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>BONNETIER</NomPsn>
+                <PrenomPsn>David</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>609</NbVoix>
+                <RapportExprime>   1,46</RapportExprime>
+                <RapportInscrit>   0,71</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>FOSSAERT</NomPsn>
+                <PrenomPsn>Barbara</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>5347</NbVoix>
+                <RapportExprime>  12,80</RapportExprime>
+                <RapportInscrit>   6,27</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>FONTENEL-PERSONNE</NomPsn>
+                <PrenomPsn>Pascale</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>13408</NbVoix>
+                <RapportExprime>  32,10</RapportExprime>
+                <RapportInscrit>  15,73</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>BARLEMONT</NomPsn>
+                <PrenomPsn>Jean-Claude</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>427</NbVoix>
+                <RapportExprime>   1,02</RapportExprime>
+                <RapportInscrit>   0,50</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>CONFINO</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>338</NbVoix>
+                <RapportExprime>   0,81</RapportExprime>
+                <RapportInscrit>   0,40</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PAVY-MORANÇAIS</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>9272</NbVoix>
+                <RapportExprime>  22,20</RapportExprime>
+                <RapportInscrit>  10,88</RapportInscrit>
+                <Elu>Bal.</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GANNAT</NomPsn>
+                <PrenomPsn>Pascal</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>6483</NbVoix>
+                <RapportExprime>  15,52</RapportExprime>
+                <RapportInscrit>   7,61</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>TRICHET-ALLAIRE</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>1245</NbVoix>
+                <RapportExprime>   2,98</RapportExprime>
+                <RapportInscrit>   1,46</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>VALLAS</NomPsn>
+                <PrenomPsn>Nordine</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>384</NbVoix>
+                <RapportExprime>   0,92</RapportExprime>
+                <RapportInscrit>   0,45</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CHAUVIN</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>3566</NbVoix>
+                <RapportExprime>   8,54</RapportExprime>
+                <RapportInscrit>   4,18</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>FERNANDEZ-TONNEL</NomPsn>
+                <PrenomPsn>Natacha</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>243</NbVoix>
+                <RapportExprime>   0,58</RapportExprime>
+                <RapportInscrit>   0,29</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>HUBERT</NomPsn>
+                <PrenomPsn>Thomas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>449</NbVoix>
+                <RapportExprime>   1,07</RapportExprime>
+                <RapportInscrit>   0,53</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>85250</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>49567</Nombre>
+              <RapportInscrit>  58,14</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>35683</Nombre>
+              <RapportInscrit>  41,86</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>3231</Nombre>
+              <RapportInscrit>   3,79</RapportInscrit>
+              <RapportVotant>   9,05</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1292</Nombre>
+              <RapportInscrit>   1,52</RapportInscrit>
+              <RapportVotant>   3,62</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>31160</Nombre>
+              <RapportInscrit>  36,55</RapportInscrit>
+              <RapportVotant>  87,32</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>FONTENEL-PERSONNE</NomPsn>
+                <PrenomPsn>Pascale</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>16730</NbVoix>
+                <RapportExprime>  53,69</RapportExprime>
+                <RapportInscrit>  19,62</RapportInscrit>
+                <Elu>oui</Elu>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>PAVY-MORANÇAIS</NomPsn>
+                <PrenomPsn>Béatrice</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>14430</NbVoix>
+                <RapportExprime>  46,31</RapportExprime>
+                <RapportInscrit>  16,93</RapportInscrit>
+                <Elu>non</Elu>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Circonscription>
+  </Departement>
+</Election>

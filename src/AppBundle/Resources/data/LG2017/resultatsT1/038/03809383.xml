@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>38</CodDpt>
+    <CodMinDpt>38</CodMinDpt>
+    <CodDpt3Car>038</CodDpt3Car>
+    <LibDpt>Isère</LibDpt>
+    <Commune>
+      <CodSubCom>383</CodSubCom>
+      <LibSubCom>Saint-Etienne-de-Crossey</LibSubCom>
+      <CodCirLg>09</CodCirLg>
+      <LibFraSubCom>Saint-Etienne-de-Crossey - 9ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2208</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>945</Nombre>
+              <RapportInscrit>  42,80</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1263</Nombre>
+              <RapportInscrit>  57,20</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,36</RapportInscrit>
+              <RapportVotant>   0,63</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>13</Nombre>
+              <RapportInscrit>   0,59</RapportInscrit>
+              <RapportVotant>   1,03</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1242</Nombre>
+              <RapportInscrit>  56,25</RapportInscrit>
+              <RapportVotant>  98,34</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>JACQUIER-LAFORGE</NomPsn>
+                <PrenomPsn>Elodie</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>588</NbVoix>
+                <RapportExprime>  47,34</RapportExprime>
+                <RapportInscrit>  26,63</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>MICOUD</NomPsn>
+                <PrenomPsn>Marie-Pierre</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>130</NbVoix>
+                <RapportExprime>  10,47</RapportExprime>
+                <RapportInscrit>   5,89</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DESIES</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>110</NbVoix>
+                <RapportExprime>   8,86</RapportExprime>
+                <RapportInscrit>   4,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>JOUSSET</NomPsn>
+                <PrenomPsn>Julien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,56</RapportExprime>
+                <RapportInscrit>   0,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>JULIAN</NomPsn>
+                <PrenomPsn>Mickaël</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>21</NbVoix>
+                <RapportExprime>   1,69</RapportExprime>
+                <RapportInscrit>   0,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GATTAZ</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>168</NbVoix>
+                <RapportExprime>  13,53</RapportExprime>
+                <RapportInscrit>   7,61</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CHOLAT</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>207</NbVoix>
+                <RapportExprime>  16,67</RapportExprime>
+                <RapportInscrit>   9,38</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DETROYAT</NomPsn>
+                <PrenomPsn>Claude</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,48</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>BARGE</NomPsn>
+                <PrenomPsn>Thibault</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXD</CodNua>
+                <LibNua>Extrême droite</LibNua>
+                <NbVoix>5</NbVoix>
+                <RapportExprime>   0,40</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

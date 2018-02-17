@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>46</CodDpt>
+    <CodMinDpt>46</CodMinDpt>
+    <CodDpt3Car>046</CodDpt3Car>
+    <LibDpt>Lot</LibDpt>
+    <Commune>
+      <CodSubCom>042</CodSubCom>
+      <LibSubCom>Cahors</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Cahors - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>13883</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>6751</Nombre>
+              <RapportInscrit>  48,63</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>7132</Nombre>
+              <RapportInscrit>  51,37</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>109</Nombre>
+              <RapportInscrit>   0,79</RapportInscrit>
+              <RapportVotant>   1,53</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>40</Nombre>
+              <RapportInscrit>   0,29</RapportInscrit>
+              <RapportVotant>   0,56</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>6983</Nombre>
+              <RapportInscrit>  50,30</RapportInscrit>
+              <RapportVotant>  97,91</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MAUREL</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>2239</NbVoix>
+                <RapportExprime>  32,06</RapportExprime>
+                <RapportInscrit>  16,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>DUPRAT</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>82</NbVoix>
+                <RapportExprime>   1,17</RapportExprime>
+                <RapportInscrit>   0,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>EBBESEN-GOUDIN</NomPsn>
+                <PrenomPsn>Mathieu</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>633</NbVoix>
+                <RapportExprime>   9,06</RapportExprime>
+                <RapportInscrit>   4,56</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>DOMENECH</NomPsn>
+                <PrenomPsn>Ghislain</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>42</NbVoix>
+                <RapportExprime>   0,60</RapportExprime>
+                <RapportInscrit>   0,30</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>ORLIAC</NomPsn>
+                <PrenomPsn>Dominique</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>RDG</CodNua>
+                <LibNua>Parti radical de gauche</LibNua>
+                <NbVoix>799</NbVoix>
+                <RapportExprime>  11,44</RapportExprime>
+                <RapportInscrit>   5,76</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BEGGIATO</NomPsn>
+                <PrenomPsn>Fanny</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>174</NbVoix>
+                <RapportExprime>   2,49</RapportExprime>
+                <RapportInscrit>   1,25</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>RINEAU</NomPsn>
+                <PrenomPsn>William</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>38</NbVoix>
+                <RapportExprime>   0,54</RapportExprime>
+                <RapportInscrit>   0,27</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>PRADIÉ</NomPsn>
+                <PrenomPsn>Aurélien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>1467</NbVoix>
+                <RapportExprime>  21,01</RapportExprime>
+                <RapportInscrit>  10,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>CRENNE</NomPsn>
+                <PrenomPsn>Emmanuel</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>548</NbVoix>
+                <RapportExprime>   7,85</RapportExprime>
+                <RapportInscrit>   3,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>EYMES</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>961</NbVoix>
+                <RapportExprime>  13,76</RapportExprime>
+                <RapportInscrit>   6,92</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>13906</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>7575</Nombre>
+              <RapportInscrit>  54,47</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>6331</Nombre>
+              <RapportInscrit>  45,53</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>586</Nombre>
+              <RapportInscrit>   4,21</RapportInscrit>
+              <RapportVotant>   9,26</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>256</Nombre>
+              <RapportInscrit>   1,84</RapportInscrit>
+              <RapportVotant>   4,04</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>5489</Nombre>
+              <RapportInscrit>  39,47</RapportInscrit>
+              <RapportVotant>  86,70</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MAUREL</NomPsn>
+                <PrenomPsn>Sébastien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>2984</NbVoix>
+                <RapportExprime>  54,36</RapportExprime>
+                <RapportInscrit>  21,46</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>PRADIÉ</NomPsn>
+                <PrenomPsn>Aurélien</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>2505</NbVoix>
+                <RapportExprime>  45,64</RapportExprime>
+                <RapportInscrit>  18,01</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

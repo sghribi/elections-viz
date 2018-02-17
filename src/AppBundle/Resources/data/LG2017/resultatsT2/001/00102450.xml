@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>01</CodDpt>
+    <CodMinDpt>01</CodMinDpt>
+    <CodDpt3Car>001</CodDpt3Car>
+    <LibDpt>Ain</LibDpt>
+    <Commune>
+      <CodSubCom>450</CodSubCom>
+      <LibSubCom>Villieu-Loyes-Mollon</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Villieu-Loyes-Mollon - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2664</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1385</Nombre>
+              <RapportInscrit>  51,99</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1279</Nombre>
+              <RapportInscrit>  48,01</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,30</RapportInscrit>
+              <RapportVotant>   0,63</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>2</Nombre>
+              <RapportInscrit>   0,08</RapportInscrit>
+              <RapportVotant>   0,16</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1269</Nombre>
+              <RapportInscrit>  47,64</RapportInscrit>
+              <RapportVotant>  99,22</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>MICHAUD</NomPsn>
+                <PrenomPsn>Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>265</NbVoix>
+                <RapportExprime>  20,88</RapportExprime>
+                <RapportInscrit>   9,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>COLIN</NomPsn>
+                <PrenomPsn>Albane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>71</NbVoix>
+                <RapportExprime>   5,59</RapportExprime>
+                <RapportInscrit>   2,67</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>LEMERRE</NomPsn>
+                <PrenomPsn>Pascale</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>37</NbVoix>
+                <RapportExprime>   2,92</RapportExprime>
+                <RapportInscrit>   1,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>SAHIN</NomPsn>
+                <PrenomPsn>Atila</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,47</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BRULLAND</NomPsn>
+                <PrenomPsn>Guy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>26</NbVoix>
+                <RapportExprime>   2,05</RapportExprime>
+                <RapportInscrit>   0,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BEGUET</NomPsn>
+                <PrenomPsn>Marie Jeanne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>421</NbVoix>
+                <RapportExprime>  33,18</RapportExprime>
+                <RapportInscrit>  15,80</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>GOUTAGNY</NomPsn>
+                <PrenomPsn>Vincent</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,55</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DE LA VERPILLIÈRE</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>309</NbVoix>
+                <RapportExprime>  24,35</RapportExprime>
+                <RapportInscrit>  11,60</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>THIEBAUT</NomPsn>
+                <PrenomPsn>Sylviane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>118</NbVoix>
+                <RapportExprime>   9,30</RapportExprime>
+                <RapportInscrit>   4,43</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>CHOMETTE</NomPsn>
+                <PrenomPsn>Sandrine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>9</NbVoix>
+                <RapportExprime>   0,71</RapportExprime>
+                <RapportInscrit>   0,34</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2653</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1610</Nombre>
+              <RapportInscrit>  60,69</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1043</Nombre>
+              <RapportInscrit>  39,31</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>58</Nombre>
+              <RapportInscrit>   2,19</RapportInscrit>
+              <RapportVotant>   5,56</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>18</Nombre>
+              <RapportInscrit>   0,68</RapportInscrit>
+              <RapportVotant>   1,73</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>967</Nombre>
+              <RapportInscrit>  36,45</RapportInscrit>
+              <RapportVotant>  92,71</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>BEGUET</NomPsn>
+                <PrenomPsn>Marie Jeanne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>MDM</CodNua>
+                <LibNua>Modem</LibNua>
+                <NbVoix>419</NbVoix>
+                <RapportExprime>  43,33</RapportExprime>
+                <RapportInscrit>  15,79</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>DE LA VERPILLIÈRE</NomPsn>
+                <PrenomPsn>Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>548</NbVoix>
+                <RapportExprime>  56,67</RapportExprime>
+                <RapportInscrit>  20,66</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

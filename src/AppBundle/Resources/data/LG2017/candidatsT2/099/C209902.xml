@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZZ</CodDpt>
+    <CodMinDpt>99</CodMinDpt>
+    <CodDpt3Car>099</CodDpt3Car>
+    <LibDpt>Français établis hors de France</LibDpt>
+    <Circonscription>
+      <CodCirLg>02</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>CORONADO</NomPsn>
+          <PrenomPsn>Sergio</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>ECO</CodNua>
+          <LibNua>Ecologiste</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>14</NumPanneauCand>
+          <NomPsn>FORTEZA</NomPsn>
+          <PrenomPsn>Paula</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

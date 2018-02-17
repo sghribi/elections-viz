@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZS</CodDpt>
+    <CodMinDpt>975</CodMinDpt>
+    <CodDpt3Car>975</CodDpt3Car>
+    <LibDpt>Saint-Pierre-et-Miquelon</LibDpt>
+    <Tours>
+      <Tour>
+        <NumTour>2</NumTour>
+        <Communes>
+          <Commune>
+            <CodCirLg>01</CodCirLg>
+            <CodSubCom>501</CodSubCom>
+            <LibSubCom>Miquelon-Langlade</LibSubCom>
+            <ResultatsParvenus>O</ResultatsParvenus>
+            <DateDerMaj>18-06-2017</DateDerMaj>
+            <HeureDerMaj>13:25:43</HeureDerMaj>
+          </Commune>
+          <Commune>
+            <CodCirLg>01</CodCirLg>
+            <CodSubCom>502</CodSubCom>
+            <LibSubCom>Saint-Pierre</LibSubCom>
+            <ResultatsParvenus>O</ResultatsParvenus>
+            <DateDerMaj>18-06-2017</DateDerMaj>
+            <HeureDerMaj>16:21:39</HeureDerMaj>
+          </Commune>
+        </Communes>
+        <Circonscriptions>
+          <Circonscription>
+            <CodCirLg>01</CodCirLg>
+            <Pourvu>T2</Pourvu>
+            <ResultatsComplets>O</ResultatsComplets>
+          </Circonscription>
+        </Circonscriptions>
+      </Tour>
+    </Tours>
+  </Departement>
+</Election>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>25</CodDpt>
+    <CodMinDpt>25</CodMinDpt>
+    <CodDpt3Car>025</CodDpt3Car>
+    <LibDpt>Doubs</LibDpt>
+    <Circonscription>
+      <CodCirLg>01</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>8</NumPanneauCand>
+          <NomPsn>ROMAGNAN</NomPsn>
+          <PrenomPsn>Barbara</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>SOC</CodNua>
+          <LibNua>Parti socialiste</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>9</NumPanneauCand>
+          <NomPsn>CHARVIER</NomPsn>
+          <PrenomPsn>Fannette</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

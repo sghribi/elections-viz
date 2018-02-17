@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>83</CodDpt>
+    <CodMinDpt>83</CodMinDpt>
+    <CodDpt3Car>083</CodDpt3Car>
+    <LibDpt>Var</LibDpt>
+    <Circonscription>
+      <CodCirLg>04</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>1</NumPanneauCand>
+          <NomPsn>LOTTIAUX</NomPsn>
+          <PrenomPsn>Philippe</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FN</CodNua>
+          <LibNua>Front National</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>13</NumPanneauCand>
+          <NomPsn>MAUBORGNE</NomPsn>
+          <PrenomPsn>Sereine</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

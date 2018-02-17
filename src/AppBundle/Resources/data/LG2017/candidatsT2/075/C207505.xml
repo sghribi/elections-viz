@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>75</CodDpt>
+    <CodMinDpt>75</CodMinDpt>
+    <CodDpt3Car>075</CodDpt3Car>
+    <LibDpt>Paris</LibDpt>
+    <Circonscription>
+      <CodCirLg>05</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>10</NumPanneauCand>
+          <NomPsn>DAGOMA</NomPsn>
+          <PrenomPsn>Seybah</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>SOC</CodNua>
+          <LibNua>Parti socialiste</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>20</NumPanneauCand>
+          <NomPsn>GRIVEAUX</NomPsn>
+          <PrenomPsn>Benjamin</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

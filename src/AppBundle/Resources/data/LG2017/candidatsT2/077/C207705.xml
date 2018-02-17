@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>77</CodDpt>
+    <CodMinDpt>77</CodMinDpt>
+    <CodDpt3Car>077</CodDpt3Car>
+    <LibDpt>Seine-et-Marne</LibDpt>
+    <Circonscription>
+      <CodCirLg>05</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>2</NumPanneauCand>
+          <NomPsn>RIESTER</NomPsn>
+          <PrenomPsn>Franck</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>10</NumPanneauCand>
+          <NomPsn>BOLLÉE</NomPsn>
+          <PrenomPsn>Joffrey</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FN</CodNua>
+          <LibNua>Front National</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

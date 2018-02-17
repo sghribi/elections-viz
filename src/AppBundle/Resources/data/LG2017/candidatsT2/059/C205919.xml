@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>59</CodDpt>
+    <CodMinDpt>59</CodMinDpt>
+    <CodDpt3Car>059</CodDpt3Car>
+    <LibDpt>Nord</LibDpt>
+    <Circonscription>
+      <CodCirLg>19</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>1</NumPanneauCand>
+          <NomPsn>CHENU</NomPsn>
+          <PrenomPsn>Sébastien</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FN</CodNua>
+          <LibNua>Front National</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>3</NumPanneauCand>
+          <NomPsn>HEBBAR</NomPsn>
+          <PrenomPsn>Sabine</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

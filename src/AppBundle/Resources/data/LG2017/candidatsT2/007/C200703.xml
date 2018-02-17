@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>07</CodDpt>
+    <CodMinDpt>07</CodMinDpt>
+    <CodDpt3Car>007</CodDpt3Car>
+    <LibDpt>Ardèche</LibDpt>
+    <Circonscription>
+      <CodCirLg>03</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>9</NumPanneauCand>
+          <NomPsn>BRUN</NomPsn>
+          <PrenomPsn>Fabrice</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>PEYRAUD</NomPsn>
+          <PrenomPsn>Matthieu</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

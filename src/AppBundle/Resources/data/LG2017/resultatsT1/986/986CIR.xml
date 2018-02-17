@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZW</CodDpt>
+    <CodMinDpt>986</CodMinDpt>
+    <CodDpt3Car>986</CodDpt3Car>
+    <LibDpt>Wallis et Futuna</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>8480</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>1588</Nombre>
+                <RapportInscrit>  18,73</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>6892</Nombre>
+                <RapportInscrit>  81,27</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>31</Nombre>
+                <RapportInscrit>   0,37</RapportInscrit>
+                <RapportVotant>   0,45</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>22</Nombre>
+                <RapportInscrit>   0,26</RapportInscrit>
+                <RapportVotant>   0,32</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>6839</Nombre>
+                <RapportInscrit>  80,65</RapportInscrit>
+                <RapportVotant>  99,23</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>POLUTELE</NomPsn>
+                  <PrenomPsn>Napole</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>3436</NbVoix>
+                  <RapportExprime>  50,24</RapportExprime>
+                  <RapportInscrit>  40,52</RapportInscrit>
+                  <Elu>oui</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>BRIAL</NomPsn>
+                  <PrenomPsn>Sylvain</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>3159</NbVoix>
+                  <RapportExprime>  46,19</RapportExprime>
+                  <RapportInscrit>  37,25</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>DELORD</NomPsn>
+                  <PrenomPsn>Hervé Michel</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>244</NbVoix>
+                  <RapportExprime>   3,57</RapportExprime>
+                  <RapportInscrit>   2,88</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

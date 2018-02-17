@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>58</CodDpt>
+    <CodMinDpt>58</CodMinDpt>
+    <CodDpt3Car>058</CodDpt3Car>
+    <LibDpt>Nièvre</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>2</NumPanneauCand>
+            <NomPsn>GOULET</NomPsn>
+            <PrenomPsn>Perrine</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>10</NumPanneauCand>
+            <NomPsn>VIGNERON</NomPsn>
+            <PrenomPsn>Pauline</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>FN</CodNua>
+            <LibNua>Front National</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>5</NumPanneauCand>
+            <NomPsn>PAUL</NomPsn>
+            <PrenomPsn>Christian</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>SOC</CodNua>
+            <LibNua>Parti socialiste</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>9</NumPanneauCand>
+            <NomPsn>PERROT</NomPsn>
+            <PrenomPsn>Patrice</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

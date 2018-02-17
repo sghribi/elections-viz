@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>50</CodDpt>
+    <CodMinDpt>50</CodMinDpt>
+    <CodDpt3Car>050</CodDpt3Car>
+    <LibDpt>Manche</LibDpt>
+    <Circonscription>
+      <CodCirLg>02</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>1</NumPanneauCand>
+          <NomPsn>HUET</NomPsn>
+          <PrenomPsn>Guenhaël</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>6</NumPanneauCand>
+          <NomPsn>SORRE</NomPsn>
+          <PrenomPsn>Bertrand</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

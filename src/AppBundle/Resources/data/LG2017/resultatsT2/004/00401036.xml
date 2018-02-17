@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>04</CodDpt>
+    <CodMinDpt>04</CodMinDpt>
+    <CodDpt3Car>004</CodDpt3Car>
+    <LibDpt>Alpes-de-Haute-Provence</LibDpt>
+    <Commune>
+      <CodSubCom>036</CodSubCom>
+      <LibSubCom>Le Brusquet</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Le Brusquet - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>820</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>316</Nombre>
+              <RapportInscrit>  38,54</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>504</Nombre>
+              <RapportInscrit>  61,46</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>8</Nombre>
+              <RapportInscrit>   0,98</RapportInscrit>
+              <RapportVotant>   1,59</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>10</Nombre>
+              <RapportInscrit>   1,22</RapportInscrit>
+              <RapportVotant>   1,98</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>486</Nombre>
+              <RapportInscrit>  59,27</RapportInscrit>
+              <RapportVotant>  96,43</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>POTIE</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   1,23</RapportExprime>
+                <RapportInscrit>   0,73</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>VITI-BERTIN</NomPsn>
+                <PrenomPsn>Florence</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>RDG</CodNua>
+                <LibNua>Parti radical de gauche</LibNua>
+                <NbVoix>19</NbVoix>
+                <RapportExprime>   3,91</RapportExprime>
+                <RapportInscrit>   2,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>BOURJAC</NomPsn>
+                <PrenomPsn>Bruno</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>17</NbVoix>
+                <RapportExprime>   3,50</RapportExprime>
+                <RapportInscrit>   2,07</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>ESMIOL</NomPsn>
+                <PrenomPsn>Gérard</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>32</NbVoix>
+                <RapportExprime>   6,58</RapportExprime>
+                <RapportInscrit>   3,90</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>BARBARIN</NomPsn>
+                <PrenomPsn>Jonathan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   0,62</RapportExprime>
+                <RapportInscrit>   0,37</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>GAZIELLO</NomPsn>
+                <PrenomPsn>Emmanuelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>90</NbVoix>
+                <RapportExprime>  18,52</RapportExprime>
+                <RapportInscrit>  10,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BAGARRY</NomPsn>
+                <PrenomPsn>Delphine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>181</NbVoix>
+                <RapportExprime>  37,24</RapportExprime>
+                <RapportInscrit>  22,07</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>ZAPARTY</NomPsn>
+                <PrenomPsn>Catherine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   0,41</RapportExprime>
+                <RapportInscrit>   0,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>CHARRIAU</NomPsn>
+                <PrenomPsn>Colette</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>31</NbVoix>
+                <RapportExprime>   6,38</RapportExprime>
+                <RapportInscrit>   3,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>BEAUMEYER</NomPsn>
+                <PrenomPsn>Brigitte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>UDI</CodNua>
+                <LibNua>Union des Démocrates et Indépendants</LibNua>
+                <NbVoix>30</NbVoix>
+                <RapportExprime>   6,17</RapportExprime>
+                <RapportInscrit>   3,66</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>BOUVIER</NomPsn>
+                <PrenomPsn>Claire</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,21</RapportExprime>
+                <RapportInscrit>   0,12</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>BRUN</NomPsn>
+                <PrenomPsn>Odile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>59</NbVoix>
+                <RapportExprime>  12,14</RapportExprime>
+                <RapportInscrit>   7,20</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>BAUDOUI MAUREL</NomPsn>
+                <PrenomPsn>Marie-Anne</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>15</NbVoix>
+                <RapportExprime>   3,09</RapportExprime>
+                <RapportInscrit>   1,83</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>820</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>427</Nombre>
+              <RapportInscrit>  52,07</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>393</Nombre>
+              <RapportInscrit>  47,93</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>24</Nombre>
+              <RapportInscrit>   2,93</RapportInscrit>
+              <RapportVotant>   6,11</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>39</Nombre>
+              <RapportInscrit>   4,76</RapportInscrit>
+              <RapportVotant>   9,92</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>330</Nombre>
+              <RapportInscrit>  40,24</RapportInscrit>
+              <RapportVotant>  83,97</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>BAGARRY</NomPsn>
+                <PrenomPsn>Delphine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>248</NbVoix>
+                <RapportExprime>  75,15</RapportExprime>
+                <RapportInscrit>  30,24</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>BRUN</NomPsn>
+                <PrenomPsn>Odile</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>82</NbVoix>
+                <RapportExprime>  24,85</RapportExprime>
+                <RapportInscrit>  10,00</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>08</CodDpt>
+    <CodMinDpt>08</CodMinDpt>
+    <CodDpt3Car>008</CodDpt3Car>
+    <LibDpt>Ardennes</LibDpt>
+    <Circonscription>
+      <CodCirLg>03</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>6</NumPanneauCand>
+          <NomPsn>WARSMANN</NomPsn>
+          <PrenomPsn>Jean-Luc</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>7</NumPanneauCand>
+          <NomPsn>BLOMME</NomPsn>
+          <PrenomPsn>Amandine</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>FN</CodNua>
+          <LibNua>Front National</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

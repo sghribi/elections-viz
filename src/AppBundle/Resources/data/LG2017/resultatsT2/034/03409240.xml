@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>34</CodDpt>
+    <CodMinDpt>34</CodMinDpt>
+    <CodDpt3Car>034</CodDpt3Car>
+    <LibDpt>Hérault</LibDpt>
+    <Commune>
+      <CodSubCom>240</CodSubCom>
+      <LibSubCom>Saint-Aunès</LibSubCom>
+      <CodCirLg>09</CodCirLg>
+      <LibFraSubCom>Saint-Aunès - 9ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2651</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1319</Nombre>
+              <RapportInscrit>  49,75</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1332</Nombre>
+              <RapportInscrit>  50,25</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>15</Nombre>
+              <RapportInscrit>   0,57</RapportInscrit>
+              <RapportVotant>   1,13</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>1</Nombre>
+              <RapportInscrit>   0,04</RapportInscrit>
+              <RapportVotant>   0,08</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1316</Nombre>
+              <RapportInscrit>  49,64</RapportInscrit>
+              <RapportVotant>  98,80</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>COISNE</NomPsn>
+                <PrenomPsn>Bertrand</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>82</NbVoix>
+                <RapportExprime>   6,23</RapportExprime>
+                <RapportInscrit>   3,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>VOUZELLAUD</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>229</NbVoix>
+                <RapportExprime>  17,40</RapportExprime>
+                <RapportInscrit>   8,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>DIANI</NomPsn>
+                <PrenomPsn>Imane</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>141</NbVoix>
+                <RapportExprime>  10,71</RapportExprime>
+                <RapportInscrit>   5,32</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>HAMMOUD</NomPsn>
+                <PrenomPsn>Myriam</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>7</NbVoix>
+                <RapportExprime>   0,53</RapportExprime>
+                <RapportInscrit>   0,26</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>JENIN-VIGNAUD</NomPsn>
+                <PrenomPsn>Joëlle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>198</NbVoix>
+                <RapportExprime>  15,05</RapportExprime>
+                <RapportInscrit>   7,47</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DUMAY</NomPsn>
+                <PrenomPsn>Frederic</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>29</NbVoix>
+                <RapportExprime>   2,20</RapportExprime>
+                <RapportInscrit>   1,09</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>VIGNAL</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>614</NbVoix>
+                <RapportExprime>  46,66</RapportExprime>
+                <RapportInscrit>  23,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CHAYNES</NomPsn>
+                <PrenomPsn>Maurice</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>6</NbVoix>
+                <RapportExprime>   0,46</RapportExprime>
+                <RapportInscrit>   0,23</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>NAZARIAN</NomPsn>
+                <PrenomPsn>Kamy</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>10</NbVoix>
+                <RapportExprime>   0,76</RapportExprime>
+                <RapportInscrit>   0,38</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>2641</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>1475</Nombre>
+              <RapportInscrit>  55,85</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>1166</Nombre>
+              <RapportInscrit>  44,15</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>80</Nombre>
+              <RapportInscrit>   3,03</RapportInscrit>
+              <RapportVotant>   6,86</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>18</Nombre>
+              <RapportInscrit>   0,68</RapportInscrit>
+              <RapportVotant>   1,54</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>1068</Nombre>
+              <RapportInscrit>  40,44</RapportInscrit>
+              <RapportVotant>  91,60</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>VOUZELLAUD</NomPsn>
+                <PrenomPsn>Guillaume</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>305</NbVoix>
+                <RapportExprime>  28,56</RapportExprime>
+                <RapportInscrit>  11,55</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>VIGNAL</NomPsn>
+                <PrenomPsn>Patrick</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>763</NbVoix>
+                <RapportExprime>  71,44</RapportExprime>
+                <RapportInscrit>  28,89</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>45</CodDpt>
+    <CodMinDpt>45</CodMinDpt>
+    <CodDpt3Car>045</CodDpt3Car>
+    <LibDpt>Loiret</LibDpt>
+    <Circonscription>
+      <CodCirLg>02</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>1</NumPanneauCand>
+          <NomPsn>GROUARD</NomPsn>
+          <PrenomPsn>Serge</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>JANVIER</NomPsn>
+          <PrenomPsn>Caroline</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

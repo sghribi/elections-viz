@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>2A</CodDpt>
+    <CodMinDpt>2A</CodMinDpt>
+    <CodDpt3Car>02A</CodDpt3Car>
+    <LibDpt>Corse-du-Sud</LibDpt>
+    <Circonscription>
+      <CodCirLg>01</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>3</NumPanneauCand>
+          <NomPsn>FERRARA</NomPsn>
+          <PrenomPsn>Jean-Jacques</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>7</NumPanneauCand>
+          <NomPsn>GUIDICELLI</NomPsn>
+          <PrenomPsn>Maria</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

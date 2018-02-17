@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZZ</CodDpt>
+    <CodMinDpt>99</CodMinDpt>
+    <CodDpt3Car>099</CodDpt3Car>
+    <LibDpt>Français établis hors de France</LibDpt>
+    <Circonscription>
+      <CodCirLg>07</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>8</NumPanneauCand>
+          <NomPsn>LE BORGN&apos;</NomPsn>
+          <PrenomPsn>Pierre-Yves</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>SOC</CodNua>
+          <LibNua>Parti socialiste</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>9</NumPanneauCand>
+          <NomPsn>PETIT</NomPsn>
+          <PrenomPsn>Frédéric</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

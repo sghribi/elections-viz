@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>69</CodDpt>
+    <CodMinDpt>69</CodMinDpt>
+    <CodDpt3Car>069</CodDpt3Car>
+    <LibDpt>Rhône</LibDpt>
+    <Circonscription>
+      <CodCirLg>03</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>6</NumPanneauCand>
+          <NomPsn>TOURAINE</NomPsn>
+          <PrenomPsn>Jean-Louis</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>14</NumPanneauCand>
+          <NomPsn>LE BRUN</NomPsn>
+          <PrenomPsn>Pascal</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FI</CodNua>
+          <LibNua>La France insoumise</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

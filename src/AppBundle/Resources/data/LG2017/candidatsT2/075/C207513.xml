@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>75</CodDpt>
+    <CodMinDpt>75</CodMinDpt>
+    <CodDpt3Car>075</CodDpt3Car>
+    <LibDpt>Paris</LibDpt>
+    <Circonscription>
+      <CodCirLg>13</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>3</NumPanneauCand>
+          <NomPsn>LAMOUR</NomPsn>
+          <PrenomPsn>Jean-François</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>12</NumPanneauCand>
+          <NomPsn>RENSON</NomPsn>
+          <PrenomPsn>Hugues</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

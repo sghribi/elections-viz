@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZX</CodDpt>
+    <CodMinDpt>977</CodMinDpt>
+    <CodDpt3Car>977</CodDpt3Car>
+    <LibDpt>Saint-Martin/Saint-Barthélemy</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>3</NumPanneauCand>
+            <NomPsn>JAVOIS</NomPsn>
+            <PrenomPsn>Claire</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>LR</CodNua>
+            <LibNua>Les Républicains</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>6</NumPanneauCand>
+            <NomPsn>BOUCHAUT-CHOISY</NomPsn>
+            <PrenomPsn>Ines</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>REM</CodNua>
+            <LibNua>La République en marche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

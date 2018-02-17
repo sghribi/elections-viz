@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>61</CodDpt>
+    <CodMinDpt>61</CodMinDpt>
+    <CodDpt3Car>061</CodDpt3Car>
+    <LibDpt>Orne</LibDpt>
+    <Commune>
+      <CodSubCom>001</CodSubCom>
+      <LibSubCom>Alençon</LibSubCom>
+      <CodCirLg>01</CodCirLg>
+      <LibFraSubCom>Alençon - 1ère circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>15245</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>7957</Nombre>
+              <RapportInscrit>  52,19</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>7288</Nombre>
+              <RapportInscrit>  47,81</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>129</Nombre>
+              <RapportInscrit>   0,85</RapportInscrit>
+              <RapportVotant>   1,77</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>52</Nombre>
+              <RapportInscrit>   0,34</RapportInscrit>
+              <RapportVotant>   0,71</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>7107</Nombre>
+              <RapportInscrit>  46,62</RapportInscrit>
+              <RapportVotant>  97,52</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>SCHOTT</NomPsn>
+                <PrenomPsn>Pascale-Aimée</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>110</NbVoix>
+                <RapportExprime>   1,55</RapportExprime>
+                <RapportInscrit>   0,72</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>SÉCHET</NomPsn>
+                <PrenomPsn>Charlotte</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>45</NbVoix>
+                <RapportExprime>   0,63</RapportExprime>
+                <RapportInscrit>   0,30</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>PUEYO</NomPsn>
+                <PrenomPsn>Joaquim</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>2741</NbVoix>
+                <RapportExprime>  38,57</RapportExprime>
+                <RapportInscrit>  17,98</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>DENIAUD</NomPsn>
+                <PrenomPsn>Bertrand</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>815</NbVoix>
+                <RapportExprime>  11,47</RapportExprime>
+                <RapportInscrit>   5,35</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>PROD&apos;HOMME</NomPsn>
+                <PrenomPsn>Claudine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DLF</CodNua>
+                <LibNua>Debout la France</LibNua>
+                <NbVoix>68</NbVoix>
+                <RapportExprime>   0,96</RapportExprime>
+                <RapportInscrit>   0,45</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>HERBRETEAU</NomPsn>
+                <PrenomPsn>Raymond</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FN</CodNua>
+                <LibNua>Front National</LibNua>
+                <NbVoix>619</NbVoix>
+                <RapportExprime>   8,71</RapportExprime>
+                <RapportInscrit>   4,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>VANNIER</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DVG</CodNua>
+                <LibNua>Divers gauche</LibNua>
+                <NbVoix>32</NbVoix>
+                <RapportExprime>   0,45</RapportExprime>
+                <RapportInscrit>   0,21</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>8</NumPanneauCand>
+                <NomPsn>CALLEJA</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>97</NbVoix>
+                <RapportExprime>   1,36</RapportExprime>
+                <RapportInscrit>   0,64</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>9</NumPanneauCand>
+                <NomPsn>ROBERT</NomPsn>
+                <PrenomPsn>Isabelle</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>ECO</CodNua>
+                <LibNua>Ecologiste</LibNua>
+                <NbVoix>332</NbVoix>
+                <RapportExprime>   4,67</RapportExprime>
+                <RapportInscrit>   2,18</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>10</NumPanneauCand>
+                <NomPsn>PIFFAUT</NomPsn>
+                <PrenomPsn>Martin</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>25</NbVoix>
+                <RapportExprime>   0,35</RapportExprime>
+                <RapportInscrit>   0,16</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>11</NumPanneauCand>
+                <NomPsn>HAMEL</NomPsn>
+                <PrenomPsn>Martine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>665</NbVoix>
+                <RapportExprime>   9,36</RapportExprime>
+                <RapportInscrit>   4,36</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>12</NumPanneauCand>
+                <NomPsn>TOLLOT</NomPsn>
+                <PrenomPsn>François</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>173</NbVoix>
+                <RapportExprime>   2,43</RapportExprime>
+                <RapportInscrit>   1,13</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>ROIMIER</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>1385</NbVoix>
+                <RapportExprime>  19,49</RapportExprime>
+                <RapportInscrit>   9,08</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+        <Tour>
+          <NumTour>2</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>15245</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>8641</Nombre>
+              <RapportInscrit>  56,68</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>6604</Nombre>
+              <RapportInscrit>  43,32</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>363</Nombre>
+              <RapportInscrit>   2,38</RapportInscrit>
+              <RapportVotant>   5,50</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>153</Nombre>
+              <RapportInscrit>   1,00</RapportInscrit>
+              <RapportVotant>   2,32</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>6088</Nombre>
+              <RapportInscrit>  39,93</RapportInscrit>
+              <RapportVotant>  92,19</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>PUEYO</NomPsn>
+                <PrenomPsn>Joaquim</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>SOC</CodNua>
+                <LibNua>Parti socialiste</LibNua>
+                <NbVoix>3745</NbVoix>
+                <RapportExprime>  61,51</RapportExprime>
+                <RapportInscrit>  24,57</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>13</NumPanneauCand>
+                <NomPsn>ROIMIER</NomPsn>
+                <PrenomPsn>Christine</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DVD</CodNua>
+                <LibNua>Divers droite</LibNua>
+                <NbVoix>2343</NbVoix>
+                <RapportExprime>  38,49</RapportExprime>
+                <RapportInscrit>  15,37</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

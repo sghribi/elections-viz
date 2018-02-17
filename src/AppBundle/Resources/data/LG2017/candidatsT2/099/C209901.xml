@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZZ</CodDpt>
+    <CodMinDpt>99</CodMinDpt>
+    <CodDpt3Car>099</CodDpt3Car>
+    <LibDpt>Français établis hors de France</LibDpt>
+    <Circonscription>
+      <CodCirLg>01</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>1</NumPanneauCand>
+          <NomPsn>LESCURE</NomPsn>
+          <PrenomPsn>Roland</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>5</NumPanneauCand>
+          <NomPsn>LEFEBVRE</NomPsn>
+          <PrenomPsn>Frédéric</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZW</CodDpt>
+    <CodMinDpt>986</CodMinDpt>
+    <CodDpt3Car>986</CodDpt3Car>
+    <LibDpt>Wallis et Futuna</LibDpt>
+    <Tours>
+      <Tour>
+        <NumTour>1</NumTour>
+        <Communes>
+          <Commune>
+            <CodCirLg>01</CodCirLg>
+            <CodSubCom>001</CodSubCom>
+            <LibSubCom>Wallis-Et-Futuna</LibSubCom>
+            <ResultatsParvenus>O</ResultatsParvenus>
+            <DateDerMaj>11-06-2017</DateDerMaj>
+            <HeureDerMaj>15:10:40</HeureDerMaj>
+          </Commune>
+        </Communes>
+        <Circonscriptions>
+          <Circonscription>
+            <CodCirLg>01</CodCirLg>
+            <Pourvu>T1</Pourvu>
+            <ResultatsComplets>O</ResultatsComplets>
+          </Circonscription>
+        </Circonscriptions>
+      </Tour>
+    </Tours>
+  </Departement>
+</Election>

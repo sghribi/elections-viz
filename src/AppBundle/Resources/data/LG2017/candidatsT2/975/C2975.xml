@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZS</CodDpt>
+    <CodMinDpt>975</CodMinDpt>
+    <CodDpt3Car>975</CodDpt3Car>
+    <LibDpt>Saint-Pierre-et-Miquelon</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Candidats>
+          <Candidat>
+            <NumPanneauCand>1</NumPanneauCand>
+            <NomPsn>LENORMAND</NomPsn>
+            <PrenomPsn>Stéphane</PrenomPsn>
+            <CivilitePsn>M.</CivilitePsn>
+            <CodNua>DIV</CodNua>
+            <LibNua>Divers</LibNua>
+          </Candidat>
+          <Candidat>
+            <NumPanneauCand>4</NumPanneauCand>
+            <NomPsn>GIRARDIN</NomPsn>
+            <PrenomPsn>Annick</PrenomPsn>
+            <CivilitePsn>Mme</CivilitePsn>
+            <CodNua>RDG</CodNua>
+            <LibNua>Parti radical de gauche</LibNua>
+          </Candidat>
+        </Candidats>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

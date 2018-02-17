@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>18</CodDpt>
+    <CodMinDpt>18</CodMinDpt>
+    <CodDpt3Car>018</CodDpt3Car>
+    <LibDpt>Cher</LibDpt>
+    <Circonscription>
+      <CodCirLg>02</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>3</NumPanneauCand>
+          <NomPsn>SANSU</NomPsn>
+          <PrenomPsn>Nicolas</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>COM</CodNua>
+          <LibNua>Parti communiste français</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>8</NumPanneauCand>
+          <NomPsn>ESSAYAN</NomPsn>
+          <PrenomPsn>Nadia</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>MDM</CodNua>
+          <LibNua>Modem</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>ZD</CodDpt>
+    <CodMinDpt>974</CodMinDpt>
+    <CodDpt3Car>974</CodDpt3Car>
+    <LibDpt>La Réunion</LibDpt>
+    <Circonscriptions>
+      <Circonscription>
+        <CodCirLg>01</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>80507</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>51449</Nombre>
+                <RapportInscrit>  63,91</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>29058</Nombre>
+                <RapportInscrit>  36,09</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>1061</Nombre>
+                <RapportInscrit>   1,32</RapportInscrit>
+                <RapportVotant>   3,65</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>789</Nombre>
+                <RapportInscrit>   0,98</RapportInscrit>
+                <RapportVotant>   2,72</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>27208</Nombre>
+                <RapportInscrit>  33,80</RapportInscrit>
+                <RapportVotant>  93,63</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>MARCHAU</NomPsn>
+                  <PrenomPsn>Jean-Pierre</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>958</NbVoix>
+                  <RapportExprime>   3,52</RapportExprime>
+                  <RapportInscrit>   1,19</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>BELKESSAM</NomPsn>
+                  <PrenomPsn>Isma</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>195</NbVoix>
+                  <RapportExprime>   0,72</RapportExprime>
+                  <RapportInscrit>   0,24</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>DEDIEU</NomPsn>
+                  <PrenomPsn>Ariane</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>48</NbVoix>
+                  <RapportExprime>   0,18</RapportExprime>
+                  <RapportInscrit>   0,06</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>MAILLOT</NomPsn>
+                  <PrenomPsn>Hugues</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>146</NbVoix>
+                  <RapportExprime>   0,54</RapportExprime>
+                  <RapportInscrit>   0,18</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>CELESTE</NomPsn>
+                  <PrenomPsn>Jean-Pierre</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>1265</NbVoix>
+                  <RapportExprime>   4,65</RapportExprime>
+                  <RapportInscrit>   1,57</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>GASP</NomPsn>
+                  <PrenomPsn>Corinne</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>127</NbVoix>
+                  <RapportExprime>   0,47</RapportExprime>
+                  <RapportInscrit>   0,16</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>PONTALBA</NomPsn>
+                  <PrenomPsn>Julie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FI</CodNua>
+                  <LibNua>La France insoumise</LibNua>
+                  <NbVoix>2193</NbVoix>
+                  <RapportExprime>   8,06</RapportExprime>
+                  <RapportInscrit>   2,72</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>BAREIGTS</NomPsn>
+                  <PrenomPsn>Ericka</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>SOC</CodNua>
+                  <LibNua>Parti socialiste</LibNua>
+                  <NbVoix>12849</NbVoix>
+                  <RapportExprime>  47,23</RapportExprime>
+                  <RapportInscrit>  15,96</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>FRUT</NomPsn>
+                  <PrenomPsn>Dominique</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>208</NbVoix>
+                  <RapportExprime>   0,76</RapportExprime>
+                  <RapportInscrit>   0,26</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>FOUCQUE</NomPsn>
+                  <PrenomPsn>Frédéric</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>824</NbVoix>
+                  <RapportExprime>   3,03</RapportExprime>
+                  <RapportInscrit>   1,02</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>POLEYA</NomPsn>
+                  <PrenomPsn>Jean Alexandre</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>305</NbVoix>
+                  <RapportExprime>   1,12</RapportExprime>
+                  <RapportInscrit>   0,38</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>12</NumPanneauCand>
+                  <NomPsn>NABENESA</NomPsn>
+                  <PrenomPsn>Karine</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>MDM</CodNua>
+                  <LibNua>Modem</LibNua>
+                  <NbVoix>925</NbVoix>
+                  <RapportExprime>   3,40</RapportExprime>
+                  <RapportInscrit>   1,15</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>13</NumPanneauCand>
+                  <NomPsn>LEON</NomPsn>
+                  <PrenomPsn>Jürgen</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>137</NbVoix>
+                  <RapportExprime>   0,50</RapportExprime>
+                  <RapportInscrit>   0,17</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>14</NumPanneauCand>
+                  <NomPsn>ANGO</NomPsn>
+                  <PrenomPsn>Jean Roland</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>185</NbVoix>
+                  <RapportExprime>   0,68</RapportExprime>
+                  <RapportInscrit>   0,23</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>15</NumPanneauCand>
+                  <NomPsn>MANGROLIA</NomPsn>
+                  <PrenomPsn>Farid</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>731</NbVoix>
+                  <RapportExprime>   2,69</RapportExprime>
+                  <RapportInscrit>   0,91</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>16</NumPanneauCand>
+                  <NomPsn>MOREL</NomPsn>
+                  <PrenomPsn>Jean-Jacques</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>5899</NbVoix>
+                  <RapportExprime>  21,68</RapportExprime>
+                  <RapportInscrit>   7,33</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>17</NumPanneauCand>
+                  <NomPsn>PANECHOU</NomPsn>
+                  <PrenomPsn>Jean-Paul</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>213</NbVoix>
+                  <RapportExprime>   0,78</RapportExprime>
+                  <RapportInscrit>   0,26</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>02</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>92710</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>62876</Nombre>
+                <RapportInscrit>  67,82</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>29834</Nombre>
+                <RapportInscrit>  32,18</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>989</Nombre>
+                <RapportInscrit>   1,07</RapportInscrit>
+                <RapportVotant>   3,32</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>1038</Nombre>
+                <RapportInscrit>   1,12</RapportInscrit>
+                <RapportVotant>   3,48</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>27807</Nombre>
+                <RapportInscrit>  29,99</RapportInscrit>
+                <RapportVotant>  93,21</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>OUËNNE</NomPsn>
+                  <PrenomPsn>Indiana</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>1186</NbVoix>
+                  <RapportExprime>   4,27</RapportExprime>
+                  <RapportInscrit>   1,28</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>MOYAC</NomPsn>
+                  <PrenomPsn>Charles</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>1027</NbVoix>
+                  <RapportExprime>   3,69</RapportExprime>
+                  <RapportInscrit>   1,11</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>RANDRIANARIVELO</NomPsn>
+                  <PrenomPsn>Stéphane</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>MDM</CodNua>
+                  <LibNua>Modem</LibNua>
+                  <NbVoix>2077</NbVoix>
+                  <RapportExprime>   7,47</RapportExprime>
+                  <RapportInscrit>   2,24</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>BELLO</NomPsn>
+                  <PrenomPsn>Huguette</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>15871</NbVoix>
+                  <RapportExprime>  57,08</RapportExprime>
+                  <RapportInscrit>  17,12</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>MERA</NomPsn>
+                  <PrenomPsn>Alix Jean</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>421</NbVoix>
+                  <RapportExprime>   1,51</RapportExprime>
+                  <RapportInscrit>   0,45</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>CARPANIN</NomPsn>
+                  <PrenomPsn>Marie Gertrude</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1028</NbVoix>
+                  <RapportExprime>   3,70</RapportExprime>
+                  <RapportInscrit>   1,11</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>VIGNE</NomPsn>
+                  <PrenomPsn>Christophe</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>263</NbVoix>
+                  <RapportExprime>   0,95</RapportExprime>
+                  <RapportInscrit>   0,28</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>BOUTBOUL</NomPsn>
+                  <PrenomPsn>Britt</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>271</NbVoix>
+                  <RapportExprime>   0,97</RapportExprime>
+                  <RapportInscrit>   0,29</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>MELCHIOR</NomPsn>
+                  <PrenomPsn>Cyrille</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>5663</NbVoix>
+                  <RapportExprime>  20,37</RapportExprime>
+                  <RapportInscrit>   6,11</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>03</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>92761</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>57616</Nombre>
+                <RapportInscrit>  62,11</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>35145</Nombre>
+                <RapportInscrit>  37,89</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>1766</Nombre>
+                <RapportInscrit>   1,90</RapportInscrit>
+                <RapportVotant>   5,02</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>1850</Nombre>
+                <RapportInscrit>   1,99</RapportInscrit>
+                <RapportVotant>   5,26</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>31529</Nombre>
+                <RapportInscrit>  33,99</RapportInscrit>
+                <RapportVotant>  89,71</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>FONTAINE</NomPsn>
+                  <PrenomPsn>Antoine</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>879</NbVoix>
+                  <RapportExprime>   2,79</RapportExprime>
+                  <RapportInscrit>   0,95</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>GRONDIN</NomPsn>
+                  <PrenomPsn>Virginie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FI</CodNua>
+                  <LibNua>La France insoumise</LibNua>
+                  <NbVoix>2935</NbVoix>
+                  <RapportExprime>   9,31</RapportExprime>
+                  <RapportInscrit>   3,16</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>VLODY</NomPsn>
+                  <PrenomPsn>Jean-Jacques</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>SOC</CodNua>
+                  <LibNua>Parti socialiste</LibNua>
+                  <NbVoix>3601</NbVoix>
+                  <RapportExprime>  11,42</RapportExprime>
+                  <RapportInscrit>   3,88</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>BASSIRE</NomPsn>
+                  <PrenomPsn>Nathalie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>8915</NbVoix>
+                  <RapportExprime>  28,28</RapportExprime>
+                  <RapportInscrit>   9,61</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>LEBIAN</NomPsn>
+                  <PrenomPsn>Jean-Hugues</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>2213</NbVoix>
+                  <RapportExprime>   7,02</RapportExprime>
+                  <RapportInscrit>   2,39</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>M&apos;COUEZOU</NomPsn>
+                  <PrenomPsn>Catherine</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>336</NbVoix>
+                  <RapportExprime>   1,07</RapportExprime>
+                  <RapportInscrit>   0,36</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>HOARAU</NomPsn>
+                  <PrenomPsn>Clémendeau</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>271</NbVoix>
+                  <RapportExprime>   0,86</RapportExprime>
+                  <RapportInscrit>   0,29</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>GARCIA</NomPsn>
+                  <PrenomPsn>Carine</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>REM</CodNua>
+                  <LibNua>La République en marche</LibNua>
+                  <NbVoix>3370</NbVoix>
+                  <RapportExprime>  10,69</RapportExprime>
+                  <RapportInscrit>   3,63</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>HOARAU</NomPsn>
+                  <PrenomPsn>Jacquet</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>8260</NbVoix>
+                  <RapportExprime>  26,20</RapportExprime>
+                  <RapportInscrit>   8,90</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>HOAREAU</NomPsn>
+                  <PrenomPsn>Philippe</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>323</NbVoix>
+                  <RapportExprime>   1,02</RapportExprime>
+                  <RapportInscrit>   0,35</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>DIJOUX</NomPsn>
+                  <PrenomPsn>Raphaël</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>426</NbVoix>
+                  <RapportExprime>   1,35</RapportExprime>
+                  <RapportInscrit>   0,46</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>04</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>104988</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>61187</Nombre>
+                <RapportInscrit>  58,28</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>43801</Nombre>
+                <RapportInscrit>  41,72</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>1708</Nombre>
+                <RapportInscrit>   1,63</RapportInscrit>
+                <RapportVotant>   3,90</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>2141</Nombre>
+                <RapportInscrit>   2,04</RapportInscrit>
+                <RapportVotant>   4,89</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>39952</Nombre>
+                <RapportInscrit>  38,05</RapportInscrit>
+                <RapportVotant>  91,21</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>BANON</NomPsn>
+                  <PrenomPsn>Maximin</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>921</NbVoix>
+                  <RapportExprime>   2,31</RapportExprime>
+                  <RapportInscrit>   0,88</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>LATCHOUMANIN</NomPsn>
+                  <PrenomPsn>Serge</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>315</NbVoix>
+                  <RapportExprime>   0,79</RapportExprime>
+                  <RapportInscrit>   0,30</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>BÉDIER</NomPsn>
+                  <PrenomPsn>Corine</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FI</CodNua>
+                  <LibNua>La France insoumise</LibNua>
+                  <NbVoix>3328</NbVoix>
+                  <RapportExprime>   8,33</RapportExprime>
+                  <RapportInscrit>   3,17</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>GHANTY</NomPsn>
+                  <PrenomPsn>Philippe</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>2567</NbVoix>
+                  <RapportExprime>   6,43</RapportExprime>
+                  <RapportInscrit>   2,45</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>SARPEDON</NomPsn>
+                  <PrenomPsn>Jean-François</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>461</NbVoix>
+                  <RapportExprime>   1,15</RapportExprime>
+                  <RapportInscrit>   0,44</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>PATEL</NomPsn>
+                  <PrenomPsn>Anaïs</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>REM</CodNua>
+                  <LibNua>La République en marche</LibNua>
+                  <NbVoix>5416</NbVoix>
+                  <RapportExprime>  13,56</RapportExprime>
+                  <RapportInscrit>   5,16</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>GOBALOU</NomPsn>
+                  <PrenomPsn>Virginie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>9441</NbVoix>
+                  <RapportExprime>  23,63</RapportExprime>
+                  <RapportInscrit>   8,99</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>LORION</NomPsn>
+                  <PrenomPsn>David</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>13272</NbVoix>
+                  <RapportExprime>  33,22</RapportExprime>
+                  <RapportInscrit>  12,64</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>RIFOSTA</NomPsn>
+                  <PrenomPsn>Hermann</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1152</NbVoix>
+                  <RapportExprime>   2,88</RapportExprime>
+                  <RapportInscrit>   1,10</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>ODAYEN</NomPsn>
+                  <PrenomPsn>Danon Lutchmee</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>1030</NbVoix>
+                  <RapportExprime>   2,58</RapportExprime>
+                  <RapportInscrit>   0,98</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>VON-PINE</NomPsn>
+                  <PrenomPsn>Bernard</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1590</NbVoix>
+                  <RapportExprime>   3,98</RapportExprime>
+                  <RapportInscrit>   1,51</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>12</NumPanneauCand>
+                  <NomPsn>SÉNAC</NomPsn>
+                  <PrenomPsn>Sophie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>459</NbVoix>
+                  <RapportExprime>   1,15</RapportExprime>
+                  <RapportInscrit>   0,44</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>05</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>83173</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>58325</Nombre>
+                <RapportInscrit>  70,12</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>24848</Nombre>
+                <RapportInscrit>  29,88</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>991</Nombre>
+                <RapportInscrit>   1,19</RapportInscrit>
+                <RapportVotant>   3,99</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>1150</Nombre>
+                <RapportInscrit>   1,38</RapportInscrit>
+                <RapportVotant>   4,63</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>22707</Nombre>
+                <RapportInscrit>  27,30</RapportInscrit>
+                <RapportVotant>  91,38</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>HAYANO</NomPsn>
+                  <PrenomPsn>Alicia</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>608</NbVoix>
+                  <RapportExprime>   2,68</RapportExprime>
+                  <RapportInscrit>   0,73</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>SETTAMA-VIDON</NomPsn>
+                  <PrenomPsn>Léopoldine</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>REM</CodNua>
+                  <LibNua>La République en marche</LibNua>
+                  <NbVoix>3614</NbVoix>
+                  <RapportExprime>  15,92</RapportExprime>
+                  <RapportInscrit>   4,35</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>HOAREAU</NomPsn>
+                  <PrenomPsn>Jean-Paul</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>238</NbVoix>
+                  <RapportExprime>   1,05</RapportExprime>
+                  <RapportInscrit>   0,29</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>RATENON</NomPsn>
+                  <PrenomPsn>Jean Hugues</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>3947</NbVoix>
+                  <RapportExprime>  17,38</RapportExprime>
+                  <RapportInscrit>   4,75</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>BRASIER-CLAIN</NomPsn>
+                  <PrenomPsn>Marie-Luce</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>1344</NbVoix>
+                  <RapportExprime>   5,92</RapportExprime>
+                  <RapportInscrit>   1,62</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>TARKIN</NomPsn>
+                  <PrenomPsn>Willy</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>250</NbVoix>
+                  <RapportExprime>   1,10</RapportExprime>
+                  <RapportInscrit>   0,30</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>PAYET</NomPsn>
+                  <PrenomPsn>Jean Yves</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>561</NbVoix>
+                  <RapportExprime>   2,47</RapportExprime>
+                  <RapportInscrit>   0,67</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>BASSONVILLE</NomPsn>
+                  <PrenomPsn>Magaly</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>439</NbVoix>
+                  <RapportExprime>   1,93</RapportExprime>
+                  <RapportInscrit>   0,53</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>GONTHIER</NomPsn>
+                  <PrenomPsn>Daniel</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>6927</NbVoix>
+                  <RapportExprime>  30,51</RapportExprime>
+                  <RapportInscrit>   8,33</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>JULIE</NomPsn>
+                  <PrenomPsn>Jean-Luc</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1629</NbVoix>
+                  <RapportExprime>   7,17</RapportExprime>
+                  <RapportInscrit>   1,96</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>LE CONSTANT</NomPsn>
+                  <PrenomPsn>Philippe</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>SOC</CodNua>
+                  <LibNua>Parti socialiste</LibNua>
+                  <NbVoix>2816</NbVoix>
+                  <RapportExprime>  12,40</RapportExprime>
+                  <RapportInscrit>   3,39</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>12</NumPanneauCand>
+                  <NomPsn>DIJOUX</NomPsn>
+                  <PrenomPsn>Fabien</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>334</NbVoix>
+                  <RapportExprime>   1,47</RapportExprime>
+                  <RapportInscrit>   0,40</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>06</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>75861</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>52837</Nombre>
+                <RapportInscrit>  69,65</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>23024</Nombre>
+                <RapportInscrit>  30,35</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>1021</Nombre>
+                <RapportInscrit>   1,35</RapportInscrit>
+                <RapportVotant>   4,43</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>982</Nombre>
+                <RapportInscrit>   1,29</RapportInscrit>
+                <RapportVotant>   4,27</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>21021</Nombre>
+                <RapportInscrit>  27,71</RapportInscrit>
+                <RapportVotant>  91,30</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>LEPERLIER</NomPsn>
+                  <PrenomPsn>Gilles</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>2284</NbVoix>
+                  <RapportExprime>  10,87</RapportExprime>
+                  <RapportInscrit>   3,01</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>MARTIN CHARRON</NomPsn>
+                  <PrenomPsn>Elodie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>1207</NbVoix>
+                  <RapportExprime>   5,74</RapportExprime>
+                  <RapportInscrit>   1,59</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>LAÏ-KANE-CHEONG</NomPsn>
+                  <PrenomPsn>Alexandre</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>2040</NbVoix>
+                  <RapportExprime>   9,70</RapportExprime>
+                  <RapportInscrit>   2,69</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>FRUT</NomPsn>
+                  <PrenomPsn>Aurélie</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>128</NbVoix>
+                  <RapportExprime>   0,61</RapportExprime>
+                  <RapportInscrit>   0,17</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>MOUTIN</NomPsn>
+                  <PrenomPsn>Delia</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>142</NbVoix>
+                  <RapportExprime>   0,68</RapportExprime>
+                  <RapportInscrit>   0,19</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>PAYET</NomPsn>
+                  <PrenomPsn>Jean Luc</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>EXG</CodNua>
+                  <LibNua>Extrême gauche</LibNua>
+                  <NbVoix>208</NbVoix>
+                  <RapportExprime>   0,99</RapportExprime>
+                  <RapportInscrit>   0,27</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>ADEKALOM</NomPsn>
+                  <PrenomPsn>Johny</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>399</NbVoix>
+                  <RapportExprime>   1,90</RapportExprime>
+                  <RapportInscrit>   0,53</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>CORDEBOEUF</NomPsn>
+                  <PrenomPsn>Grégoire</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>440</NbVoix>
+                  <RapportExprime>   2,09</RapportExprime>
+                  <RapportInscrit>   0,58</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>GOPAL</NomPsn>
+                  <PrenomPsn>Didier</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1044</NbVoix>
+                  <RapportExprime>   4,97</RapportExprime>
+                  <RapportInscrit>   1,38</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>DUCHEMANN</NomPsn>
+                  <PrenomPsn>Yvette</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>297</NbVoix>
+                  <RapportExprime>   1,41</RapportExprime>
+                  <RapportInscrit>   0,39</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>RAMASSAMY</NomPsn>
+                  <PrenomPsn>Nadia</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>4515</NbVoix>
+                  <RapportExprime>  21,48</RapportExprime>
+                  <RapportInscrit>   5,95</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>12</NumPanneauCand>
+                  <NomPsn>GRONDIN</NomPsn>
+                  <PrenomPsn>Geoffroy</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>72</NbVoix>
+                  <RapportExprime>   0,34</RapportExprime>
+                  <RapportInscrit>   0,09</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>13</NumPanneauCand>
+                  <NomPsn>COUTANDY</NomPsn>
+                  <PrenomPsn>Patricia</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>547</NbVoix>
+                  <RapportExprime>   2,60</RapportExprime>
+                  <RapportInscrit>   0,72</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>14</NumPanneauCand>
+                  <NomPsn>VELLAYOUDOM</NomPsn>
+                  <PrenomPsn>Ravy</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>418</NbVoix>
+                  <RapportExprime>   1,99</RapportExprime>
+                  <RapportInscrit>   0,55</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>15</NumPanneauCand>
+                  <NomPsn>HOAREAU</NomPsn>
+                  <PrenomPsn>Pascal</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>FI</CodNua>
+                  <LibNua>La France insoumise</LibNua>
+                  <NbVoix>1510</NbVoix>
+                  <RapportExprime>   7,18</RapportExprime>
+                  <RapportInscrit>   1,99</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>16</NumPanneauCand>
+                  <NomPsn>ORPHE</NomPsn>
+                  <PrenomPsn>Monique</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>REM</CodNua>
+                  <LibNua>La République en marche</LibNua>
+                  <NbVoix>5770</NbVoix>
+                  <RapportExprime>  27,45</RapportExprime>
+                  <RapportInscrit>   7,61</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+      <Circonscription>
+        <CodCirLg>07</CodCirLg>
+        <Tours>
+          <Tour>
+            <NumTour>1</NumTour>
+            <Mentions>
+              <Inscrits>
+                <Nombre>110367</Nombre>
+              </Inscrits>
+              <Abstentions>
+                <Nombre>73965</Nombre>
+                <RapportInscrit>  67,02</RapportInscrit>
+              </Abstentions>
+              <Votants>
+                <Nombre>36402</Nombre>
+                <RapportInscrit>  32,98</RapportInscrit>
+              </Votants>
+              <Blancs>
+                <Nombre>1779</Nombre>
+                <RapportInscrit>   1,61</RapportInscrit>
+                <RapportVotant>   4,89</RapportVotant>
+              </Blancs>
+              <Nuls>
+                <Nombre>1725</Nombre>
+                <RapportInscrit>   1,56</RapportInscrit>
+                <RapportVotant>   4,74</RapportVotant>
+              </Nuls>
+              <Exprimes>
+                <Nombre>32898</Nombre>
+                <RapportInscrit>  29,81</RapportInscrit>
+                <RapportVotant>  90,37</RapportVotant>
+              </Exprimes>
+            </Mentions>
+            <Resultats>
+              <Candidats>
+                <Candidat>
+                  <NumPanneauCand>1</NumPanneauCand>
+                  <NomPsn>JOURDANNE</NomPsn>
+                  <PrenomPsn>Laurent</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>414</NbVoix>
+                  <RapportExprime>   1,26</RapportExprime>
+                  <RapportInscrit>   0,38</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>2</NumPanneauCand>
+                  <NomPsn>GAILLARD</NomPsn>
+                  <PrenomPsn>Perceval</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>FI</CodNua>
+                  <LibNua>La France insoumise</LibNua>
+                  <NbVoix>3905</NbVoix>
+                  <RapportExprime>  11,87</RapportExprime>
+                  <RapportInscrit>   3,54</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>3</NumPanneauCand>
+                  <NomPsn>SINIMALÉ</NomPsn>
+                  <PrenomPsn>Sandra</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>LR</CodNua>
+                  <LibNua>Les Républicains</LibNua>
+                  <NbVoix>2373</NbVoix>
+                  <RapportExprime>   7,21</RapportExprime>
+                  <RapportInscrit>   2,15</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>4</NumPanneauCand>
+                  <NomPsn>GRAJA</NomPsn>
+                  <PrenomPsn>Michelle</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>FN</CodNua>
+                  <LibNua>Front National</LibNua>
+                  <NbVoix>1346</NbVoix>
+                  <RapportExprime>   4,09</RapportExprime>
+                  <RapportInscrit>   1,22</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>5</NumPanneauCand>
+                  <NomPsn>FAVRE</NomPsn>
+                  <PrenomPsn>Denis</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>322</NbVoix>
+                  <RapportExprime>   0,98</RapportExprime>
+                  <RapportInscrit>   0,29</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>6</NumPanneauCand>
+                  <NomPsn>NATIVEL</NomPsn>
+                  <PrenomPsn>Jean-François</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DIV</CodNua>
+                  <LibNua>Divers</LibNua>
+                  <NbVoix>2023</NbVoix>
+                  <RapportExprime>   6,15</RapportExprime>
+                  <RapportInscrit>   1,83</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>7</NumPanneauCand>
+                  <NomPsn>ROBERT</NomPsn>
+                  <PrenomPsn>Thierry</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>MDM</CodNua>
+                  <LibNua>Modem</LibNua>
+                  <NbVoix>11144</NbVoix>
+                  <RapportExprime>  33,87</RapportExprime>
+                  <RapportInscrit>  10,10</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>8</NumPanneauCand>
+                  <NomPsn>MAROUVIN VIRAMALE</NomPsn>
+                  <PrenomPsn>Fabrice</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>5409</NbVoix>
+                  <RapportExprime>  16,44</RapportExprime>
+                  <RapportInscrit>   4,90</RapportInscrit>
+                  <Elu>Bal.</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>9</NumPanneauCand>
+                  <NomPsn>RIVIERE</NomPsn>
+                  <PrenomPsn>Jonathan</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVD</CodNua>
+                  <LibNua>Divers droite</LibNua>
+                  <NbVoix>1151</NbVoix>
+                  <RapportExprime>   3,50</RapportExprime>
+                  <RapportInscrit>   1,04</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>10</NumPanneauCand>
+                  <NomPsn>SERAPHIN</NomPsn>
+                  <PrenomPsn>Emmanuel</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>3569</NbVoix>
+                  <RapportExprime>  10,85</RapportExprime>
+                  <RapportInscrit>   3,23</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>11</NumPanneauCand>
+                  <NomPsn>MARCELY</NomPsn>
+                  <PrenomPsn>Eric</PrenomPsn>
+                  <CivilitePsn>M.</CivilitePsn>
+                  <CodNua>ECO</CodNua>
+                  <LibNua>Ecologiste</LibNua>
+                  <NbVoix>794</NbVoix>
+                  <RapportExprime>   2,41</RapportExprime>
+                  <RapportInscrit>   0,72</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+                <Candidat>
+                  <NumPanneauCand>12</NumPanneauCand>
+                  <NomPsn>ICHIZA-IMAHO</NomPsn>
+                  <PrenomPsn>Julietta</PrenomPsn>
+                  <CivilitePsn>Mme</CivilitePsn>
+                  <CodNua>DVG</CodNua>
+                  <LibNua>Divers gauche</LibNua>
+                  <NbVoix>448</NbVoix>
+                  <RapportExprime>   1,36</RapportExprime>
+                  <RapportInscrit>   0,41</RapportInscrit>
+                  <Elu>non</Elu>
+                </Candidat>
+              </Candidats>
+            </Resultats>
+          </Tour>
+        </Tours>
+      </Circonscription>
+    </Circonscriptions>
+  </Departement>
+</Election>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>94</CodDpt>
+    <CodMinDpt>94</CodMinDpt>
+    <CodDpt3Car>094</CodDpt3Car>
+    <LibDpt>Val-de-Marne</LibDpt>
+    <Circonscription>
+      <CodCirLg>05</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>2</NumPanneauCand>
+          <NomPsn>CARREZ</NomPsn>
+          <PrenomPsn>Gilles</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>LR</CodNua>
+          <LibNua>Les Républicains</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>11</NumPanneauCand>
+          <NomPsn>RET</NomPsn>
+          <PrenomPsn>Nadine</PrenomPsn>
+          <CivilitePsn>Mme</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>

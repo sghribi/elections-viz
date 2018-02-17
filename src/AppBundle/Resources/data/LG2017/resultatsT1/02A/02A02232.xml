@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>2A</CodDpt>
+    <CodMinDpt>2A</CodMinDpt>
+    <CodDpt3Car>02A</CodDpt3Car>
+    <LibDpt>Corse-du-Sud</LibDpt>
+    <Commune>
+      <CodSubCom>232</CodSubCom>
+      <LibSubCom>Pila-Canale</LibSubCom>
+      <CodCirLg>02</CodCirLg>
+      <LibFraSubCom>Pila-Canale - 2ème circonscription</LibFraSubCom>
+      <Tours>
+        <Tour>
+          <NumTour>1</NumTour>
+          <Mentions>
+            <Inscrits>
+              <Nombre>256</Nombre>
+            </Inscrits>
+            <Abstentions>
+              <Nombre>119</Nombre>
+              <RapportInscrit>  46,48</RapportInscrit>
+            </Abstentions>
+            <Votants>
+              <Nombre>137</Nombre>
+              <RapportInscrit>  53,52</RapportInscrit>
+            </Votants>
+            <Blancs>
+              <Nombre>0</Nombre>
+              <RapportInscrit>   0,00</RapportInscrit>
+              <RapportVotant>   0,00</RapportVotant>
+            </Blancs>
+            <Nuls>
+              <Nombre>3</Nombre>
+              <RapportInscrit>   1,17</RapportInscrit>
+              <RapportVotant>   2,19</RapportVotant>
+            </Nuls>
+            <Exprimes>
+              <Nombre>134</Nombre>
+              <RapportInscrit>  52,34</RapportInscrit>
+              <RapportVotant>  97,81</RapportVotant>
+            </Exprimes>
+          </Mentions>
+          <Resultats>
+            <Candidats>
+              <Candidat>
+                <NumPanneauCand>1</NumPanneauCand>
+                <NomPsn>SOLTANI</NomPsn>
+                <PrenomPsn>Nadia</PrenomPsn>
+                <CivilitePsn>Mme</CivilitePsn>
+                <CodNua>DIV</CodNua>
+                <LibNua>Divers</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,75</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>2</NumPanneauCand>
+                <NomPsn>ALARIS</NomPsn>
+                <PrenomPsn>Nicolas</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>COM</CodNua>
+                <LibNua>Parti communiste français</LibNua>
+                <NbVoix>2</NbVoix>
+                <RapportExprime>   1,49</RapportExprime>
+                <RapportInscrit>   0,78</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>3</NumPanneauCand>
+                <NomPsn>ORSUCCI</NomPsn>
+                <PrenomPsn>Jean-Charles</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REM</CodNua>
+                <LibNua>La République en marche</LibNua>
+                <NbVoix>22</NbVoix>
+                <RapportExprime>  16,42</RapportExprime>
+                <RapportInscrit>   8,59</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>4</NumPanneauCand>
+                <NomPsn>COLOMBANI</NomPsn>
+                <PrenomPsn>Paul-André</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>REG</CodNua>
+                <LibNua>Régionaliste</LibNua>
+                <NbVoix>36</NbVoix>
+                <RapportExprime>  26,87</RapportExprime>
+                <RapportInscrit>  14,06</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>5</NumPanneauCand>
+                <NomPsn>DE ROCCA SERRA</NomPsn>
+                <PrenomPsn>Camille</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>LR</CodNua>
+                <LibNua>Les Républicains</LibNua>
+                <NbVoix>69</NbVoix>
+                <RapportExprime>  51,49</RapportExprime>
+                <RapportInscrit>  26,95</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>6</NumPanneauCand>
+                <NomPsn>DAÏEN</NomPsn>
+                <PrenomPsn>Yves</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>EXG</CodNua>
+                <LibNua>Extrême gauche</LibNua>
+                <NbVoix>1</NbVoix>
+                <RapportExprime>   0,75</RapportExprime>
+                <RapportInscrit>   0,39</RapportInscrit>
+              </Candidat>
+              <Candidat>
+                <NumPanneauCand>7</NumPanneauCand>
+                <NomPsn>CHAMPEAU</NomPsn>
+                <PrenomPsn>Dylan</PrenomPsn>
+                <CivilitePsn>M.</CivilitePsn>
+                <CodNua>FI</CodNua>
+                <LibNua>La France insoumise</LibNua>
+                <NbVoix>3</NbVoix>
+                <RapportExprime>   2,24</RapportExprime>
+                <RapportInscrit>   1,17</RapportInscrit>
+              </Candidat>
+            </Candidats>
+          </Resultats>
+        </Tour>
+      </Tours>
+    </Commune>
+  </Departement>
+</Election>

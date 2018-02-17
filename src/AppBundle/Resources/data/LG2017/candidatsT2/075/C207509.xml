@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Election>
+  <Scrutin>
+    <Type>Législatives</Type>
+    <Annee>2017</Annee>
+  </Scrutin>
+  <Departement>
+    <CodDpt>75</CodDpt>
+    <CodMinDpt>75</CodMinDpt>
+    <CodDpt3Car>075</CodDpt3Car>
+    <LibDpt>Paris</LibDpt>
+    <Circonscription>
+      <CodCirLg>09</CodCirLg>
+      <Candidats>
+        <Candidat>
+          <NumPanneauCand>9</NumPanneauCand>
+          <NomPsn>QNOUCH</NomPsn>
+          <PrenomPsn>Raphaël</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>FI</CodNua>
+          <LibNua>La France insoumise</LibNua>
+        </Candidat>
+        <Candidat>
+          <NumPanneauCand>10</NumPanneauCand>
+          <NomPsn>TAN</NomPsn>
+          <PrenomPsn>Buon</PrenomPsn>
+          <CivilitePsn>M.</CivilitePsn>
+          <CodNua>REM</CodNua>
+          <LibNua>La République en marche</LibNua>
+        </Candidat>
+      </Candidats>
+    </Circonscription>
+  </Departement>
+</Election>
