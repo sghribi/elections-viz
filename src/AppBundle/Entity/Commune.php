@@ -38,6 +38,12 @@ class Commune
      */
     private $nom;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="AppBundle\Entity\Departement", inversedBy="communes", cascade={"persist"})
+     * @ORM\JoinColumn(name="departement_id", referencedColumnName="id", nullable=false)
+     */
+    private $departement;
+
 
     /**
      * Get id
@@ -96,5 +102,28 @@ class Commune
     {
         return $this->nom;
     }
-}
 
+    /**
+     * Set departement
+     *
+     * @param Departement $departement
+     *
+     * @return Commune
+     */
+    public function setDepartement(Departement $departement = null)
+    {
+        $this->departement = $departement;
+
+        return $this;
+    }
+
+    /**
+     * Get departement
+     *
+     * @return Departement
+     */
+    public function getDepartement()
+    {
+        return $this->departement;
+    }
+}

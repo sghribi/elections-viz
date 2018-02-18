@@ -1,7 +1,14 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-    <div class="container">
-        <p>Hello world!</p>
+    <div class="container mt-3">
+        <h2>Régions</h2>
+        <ul>
+            {% for region in regions %}
+                <li>
+                    <a href="{{ path('region', {code: region.code}) }}">{{ region }}</a>
+                </li>
+            {% endfor %}
+        </ul>
     </div>
 {% endblock %}

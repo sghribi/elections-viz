@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container mt-3">
+        <h2>Région : {{ region }}</h2>
+        <a href="{{ path('homepage') }}">Retour à la liste des régions</a>
+        <ul>
+            {% for departement in region.departements %}
+                <li>
+                    {{ departement }}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}

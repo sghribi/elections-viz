@@ -2,6 +2,8 @@
 
 namespace AppBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
@@ -48,6 +50,28 @@ class Region
      * @Assert\Type("string")
      */
     private $nom;
+
+    /**
+     * @var Departement[]
+     *
+     * @ORM\OneToMany(targetEntity="AppBundle\Entity\Departement", cascade={"persist", "remove"}, mappedBy="region", orphanRemoval=true)
+     * @ORM\OrderBy({"nom" = "ASC"})
+     */
+    private $departements;
+
+
+    public function __construct()
+    {
+        $this->departements = new ArrayCollection();
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return (string) ($this->nom ?? $this->code ?? $this->id);
+    }
 
     /**
      * Get id
@@ -126,5 +150,40 @@ class Region
 
         return $this;
     }
-}
 
+    /**
+     * Add departement
+     *
+     * @param Departement $departement
+     *
+     * @return Region
+     */
+    public function addDepartement(Departement $departement)
+    {
+        $this->departements[] = $departement;
+        $departement->setRegion($this);
+
+        return $this;
+    }
+
+    /**
+     * Remove departement
+     *
+     * @param Departement $departement
+     */
+    public function removeDepartement(Departement $departement)
+    {
+        $this->departements->removeElement($departement);
+        $departement->setRegion(null);
+    }
+
+    /**
+     * Get departements
+     *
+     * @return Collection|Departement[]
+     */
+    public function getDepartements()
+    {
+        return $this->departements;
+    }
+}

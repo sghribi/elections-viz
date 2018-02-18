@@ -2,6 +2,7 @@
 
 namespace AppBundle\Services;
 
+use AppBundle\Entity\Departement;
 use AppBundle\Entity\Election;
 use AppBundle\Entity\Region;
 use Doctrine\ORM\EntityManagerInterface;
@@ -125,6 +126,38 @@ class DataImporter
 
             $this->validateEntity($regionObj);
             $this->em->persist($regionObj);
+
+            $departements = $region->getElementsByTagName("Departements")->item(0)->getElementsByTagName("Departement");
+            /** @var DOMElement $departement */
+            foreach ($departements as $departement) {
+                $codeDepartement = $this->getTextOrNull($departement->getElementsByTagName("CodDpt")->item(0));
+
+                $departementObj = $this->em->getRepository("AppBundle:Departement")->findOneBy(['code' => $codeDepartement]);
+                if (!$departementObj) {
+                    $departementObj = new Departement();
+                    $departementObj->setCode($codeDepartement);
+                    $regionObj->addDepartement($departementObj);
+                }
+
+                if (!$departementObj->getCodeMin()) {
+                    $departementObj->setCodeMin($this->getTextOrNull($departement->getElementsByTagName("CodMinDpt")->item(0)));
+                }
+
+                if (!$departementObj->getCode3Car()) {
+                    $departementObj->setCode3Car($this->getTextOrNull($departement->getElementsByTagName("CodDpt3Car")->item(0)));
+                }
+
+                if (!$departementObj->getNumOrdre()) {
+                    $departementObj->setNumOrdre((int) $this->getTextOrNull($departement->getElementsByTagName("NumOrdDpt")->item(0)));
+                }
+
+                if (!$departementObj->getNom()) {
+                    $departementObj->setNom($this->getTextOrNull($departement->getElementsByTagName("LibDpt")->item(0)));
+                }
+
+                $this->validateEntity($departementObj);
+                $this->em->persist($departementObj);
+            }
         }
 
         $this->em->flush();

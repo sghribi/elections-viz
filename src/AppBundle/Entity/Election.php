@@ -65,4 +65,3 @@ class Election
         return $this->code;
     }
 }
-
